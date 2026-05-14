@@ -1,0 +1,1153 @@
+MAJOR WORK ACTIVITY B
+Common Occupational Skills
+TASK B-3 Uses tools and equipment
+TASK DESCRIPTOR
+Cooks use mechanized and non-mechanized tools and equipment in the production of food.
+
+ B-3.01         Uses knives
+
+     NL   NS      PE      NB        QC    ON       MB    SK       AB      BC      NT      YT      NU
+ yes      yes     yes    yes        yes   yes      yes   yes     yes     yes      yes     NV      NV
+
+                                                         SKILLS
+                          Performance Criteria                         Evidence of Attainment
+ B-3.01.01P        select knives                               knives are selected according to desired
+                                                               results
+ B-3.01.02P        utilize knives                              knives are utilized according to desired
+                                                               results
+ B-3.01.03P        inspect knives                              knives are inspected for cleanliness,
+                                                               sharpness and damage
+ B-3.01.04P        select and use sharpening tools             sharpening tools are selected and used
+                                                               according to manufacturers’ specifications
+                                                               and desired results
+ B-3.01.05P        wash, dry and sanitize knives               knives are washed, dried and sanitized
+                                                               according to type of knife, company policy
+                                                               and jurisdictional regulations
+ B-3.01.06P        store knives                                knives are stored to ensure edge
+                                                               retention and safety
+ B-3.01.07P        choose cutting surfaces to prevent          cutting surfaces are chosen to prevent
+                   damage to knives and safety                damage to knives and safety according to
+                                                               jurisdictional regulations and recipe
+                                                               specifications
+
+RANGE OF VARIABLES
+sharpening tools include: whetstone, steel, pull sharpener, electric sharpener
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+cutting surfaces include: wood, plastic, colour-coded surfaces
+
+                                                        KNOWLEDGE
+                           Learning Outcomes                              Learning Objectives
+ B-3.01.01L        demonstrate knowledge of knives, their       identify types of knives, and describe
+                   characteristics and applications             their characteristics and applications
+                                                                describe materials used in knives
+                                                                identify types of cutting surfaces used to
+                                                                prevent damage to knives and ensure
+                                                                safety
+ B-3.01.02L        demonstrate knowledge of procedures to       describe procedures used to inspect,
+                   use knives                                   wash and store knives
+                                                                identify types of sharpening tools, and
+                                                                describe their applications and
+                                                                procedures for use
+                                                                identify hazards, and describe safe work
+                                                                practices and precautions pertaining to
+                                                                use of knives
+                                                                describe knife handling techniques
+
+RANGE OF VARIABLES
+types of knives include: French, paring, cleaver, boning, fileting, carving
+materials used in knives include: stainless steel, carbon steel, ceramic, wood, poly -propylene
+cutting surfaces include: wood, plastic, colour-coded surfaces
+sharpening tools include: whetstone, steel, pull sharpener, electric sharpener
+
+ B-3.02         Uses pots, pans and utensils
+
+     NL   NS       PE     NB      QC      ON      MB      SK       AB      BC      NT      YT       NU
+  yes     yes     yes     yes     yes     yes     yes     yes      yes     yes     yes     NV       NV
+
+                                                          SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ B-3.02.01P         select pots, pans and utensils              pots, pans and utensils are selected
+                                                                according to desired results and recipe
+                                                                specifications
+ B-3.02.02P         utilize pots, pans and utensils             pots, pans and utensils are utilized
+                                                                according to desired results, recipe
+                                                                specifications and manufacturers’
+                                                                specifications
+ B-3.02.03P         inspect pots, pans and utensils             pots, pans and utensils are inspected
+                                                                according to company policies and
+                                                                jurisdictional regulations
+
+ B-3.02.04P         wash, sanitize and dry pots, pans and        pots, pans and utensils are washed,
+                    utensils                                     sanitized and dried according to
+                                                                 jurisdictional regulations
+ B-3.02.05P         store pots, pans and utensils                pots, pans and utensils are stored to
+                                                                 maximize efficiency, and to prevent
+                                                                 damage and unsanitary conditions
+ B-3.02.06P         choose material appropriate utensils to      material appropriate utensils are
+                    prevent damage to pots and pans              chosen to prevent damage to pots and
+                                                                 pans
+ B-3.02.07P         control heat                                 heat is controlled to prevent damage to
+                                                                 pots, pans and utensils
+
+RANGE OF VARIABLES
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+material appropriate utensils include: hard wood, high heat resistant silicone, stainless steel, non-stick
+coated, bamboo
+
+                                                       KNOWLEDGE
+                            Learning Outcomes                              Learning Objectives
+ B-3.02.01L         demonstrate knowledge of pots, pans and      identify types of pots and pans, and
+                    utensils, and their characteristics and      describe their characteristics and
+                    applications                                 applications
+                                                                 identify materials used in pots and pans
+                                                                 identify types of utensils, their
+                                                                 characteristics and applications
+                                                                 identify material appropriate utensils
+ B-3.02.02L         demonstrate knowledge of procedures to       describe procedures to use different
+                    use pots, pans and utensils                  types of pots and pans
+                                                                 describe procedures to use different
+                                                                 types of utensils
+                                                                 describe procedures used to inspect and
+                                                                 store pots, pans and utensils
+                                                                 describe correct placement of pots and
+                                                                 pans on stove top or in oven
+                                                                 identify hazards, and describe safe work
+                                                                 practices and precautions pertaining to
+                                                                 use of pots, pans and utensils
+                                                                 describe procedures used to wash,
+                                                                 sanitize and dry pots, pans and utensils
+                                                                 describe treatment methods for various
+                                                                 types of pots, pans and utensils
+ B-3.02.03L         demonstrate knowledge of regulatory          describe jurisdictional regulations
+                    requirements regarding use of pots, pans     regarding use of pots, pans and utensils
+                    and utensils
+
+RANGE OF VARIABLES
+types of pots and pans include: braising, roasting, sauté, stock, brazier, wok
+materials used in pots and pans include: copper, stainless steel, aluminum, non-stick material, cast
+iron, ceramic, stoneware
+types of utensils include: wooden spoons, whisks, spatulas, scissors, tongs, tweezers
+material appropriate utensils include: hard wood, high heat resistant silicone, stainless steel, non-stick
+coated, bamboo
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+ B-3.03         Uses equipment and appliances
+
+     NL   NS       PE      NB      QC      ON      MB       SK      AB      BC       NT       YT      NU
+  yes     yes     yes     yes      yes     yes     yes     yes      yes     yes      yes      NV      NV
+
+                                                           SKILLS
+                           Performance Criteria                           Evidence of Attainment
+ B-3.03.01P         select equipment and appliances for         equipment and appliances are selected
+                    use                                          for use according to recipe specifications
+                                                                 and desired results
+ B-3.03.02P         operate equipment and appliances             equipment and appliances are operated
+                                                                 according to manufacturers’ specifications
+ B-3.03.03P         inspect equipment and appliances             equipment and appliances are
+                                                                 inspected for safety and performance
+ B-3.03.04P         assemble and disassemble equipment           equipment and appliances are
+                    and appliances                               assembled and disassembled according
+                                                                 to manufacturers’ specifications
+ B-3.03.05P         store equipment, appliances and              equipment, appliances and accessories
+                    accessories                                  are stored according to manufacturers’
+                                                                 specifications, company policies and to
+                                                                 ensure safety
+ B-3.03.06P         clean, sanitize and maintain equipment equipment and appliances are cleaned,
+                    and appliances                         sanitized and maintained according to
+                                                           manufacturers’ specifications, company
+                                                           policies and jurisdictional regulations
+
+RANGE OF VARIABLES
+equipment and appliances include: stoves, ovens, deep fryers, meat grinders, slicers, mixers, vacuum
+packaging machines, thermometers, scales, food processors , refrigeration equipment
+maintain equipment and appliances includes: oiling, calibrating, lubricating, cleaning
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                    KNOWLEDGE
+                          Learning Outcomes                           Learning Objectives
+ B-3.03.01L        demonstrate knowledge of equipment        identify types of equipment and
+                   and appliances, their accessories and     appliances, and describe their
+                   applications                              accessories and applications
+ B-3.03.02L        demonstrate knowledge of procedures to    describe procedures for using equipment
+                   use and maintain equipment and            and appliances
+                   appliances
+                                                             describe procedures used to inspect and
+                                                             store equipment and appliances
+                                                             identify hazards, and describe safe work
+                                                             practices and precautions pertaining to
+                                                             use of equipment and appliances
+                                                             describe procedures used to clean,
+                                                             sanitize and maintain equipment and
+                                                             appliances
+
+RANGE OF VARIABLES
+equipment and appliances include: stoves, ovens, deep fryers, meat grinders, slicers, mixers, vacuum
+packaging machines, thermometers, scales, food processors , refrigeration equipment
+maintain equipment and appliances includes: oiling, calibrating, lubricating, cleaning
+
+TASK B-4 Organizes work
+TASK DESCRIPTOR
+Cooks manage their work in an effective and efficient manner by organizing the workspace and
+scheduling production.
+
+ B-4.01         Organizes kitchen workplace
+
+     NL   NS      PE     NB      QC      ON       MB     SK       AB     BC       NT      YT      NU
+  yes     yes     yes    yes     yes    yes      yes     yes     yes     yes     yes      NV      NV
+
+                                                         SKILLS
+                          Performance Criteria                         Evidence of Attainment
+ B-4.01.01P        arrange utensils, equipment,                utensils, equipment, appliances and
+                   appliances and products                     products are arranged for flow of
+                                                               production
+ B-4.01.02P        organize and maintain workspace             workspace is organized and maintained
+                                                               according to company policies and
+                                                               production needs
+
+RANGE OF VARIABLES
+utensils include: knives, wooden spoons, whisks, spatulas, scissors, tongs, tweezers
+equipment and appliances include: meat grinders, slicers, mixers, vacuum packaging machines,
+thermometers, scales, food processors, blender
+
+                                                       KNOWLEDGE
+                           Learning Outcomes                           Learning Objectives
+ B-4.01.01L        demonstrate knowledge of organizing and identify terminology associated with food
+                   maintaining kitchen workspace           preparation and service procedures
+                                                           identify methods used for
+                                                           communication in workplace
+                                                           identify organization and maintenance
+                                                           procedures of kitchen workspace and mise
+                                                           en place
+ B-4.01.02L        demonstrate knowledge of procedures describe procedures used to plan and
+                   used to plan and maintain kitchen       maintain kitchen workspace and mise en
+                   workspace                               place
+ B-4.01.03L        demonstrate knowledge of safe work      define terminology associated with health
+                   practices                               and safety
+                                                           identify potential hazards and describe
+                                                           safe work practices
+ B-4.01.04L        demonstrate knowledge of regulatory     interpret jurisdictional regulations
+                   requirements pertaining to health and   pertaining to health and safety
+                   safety
+
+RANGE OF VARIABLES
+methods used for communication include: electronic, verbal, written
+safe work practices include: proper lifting and transf erring procedures, safe posture and movements
+(sitting, standing, rigging, bending)
+potential hazards include: water, debris, exposed electrical wires, uneven floors, chemicals, fire,
+environmental
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+ B-4.02         Schedules production
+
+     NL   NS      PE      NB      QC      ON      MB      SK        AB      BC       NT      YT      NU
+  yes     yes     yes    yes      yes     yes     yes     yes       yes     yes     yes      NV      NV
+
+                                                          SKILLS
+                           Performance Criteria                           Evidence of Attainment
+ B-4.02.01P        identify daily and forecasted activities to daily and forecasted activities to be
+                   be completed                                completed are identified according to
+                                                               production needs
+ B-4.02.02P        create, prioritize and follow production     production schedule is created, prioritized
+                   schedule                                      and followed according to sequencing
+ B-4.02.03P        monitor progress                              progress is monitored to ensure timely
+                                                                 completion of tasks
+
+RANGE OF VARIABLES
+daily activities include: receiving, storing, preparing, holding, cooking, maintaining, serving
+forecasted activities include: menu rotations, inventory requirements
+
+                                                        KNOWLEDGE
+                          Learning Outcomes                                 Learning Objectives
+ B-4.02.01L        demonstrate knowledge of food               define terminology associated with
+                   preparation and service procedures           food preparation and service procedures
+                                                                identify principles of food preparation and
+                                                                service procedures
+ B-4.02.02L        demonstrate knowledge of task                describe importance of sequencing daily
+                   sequencing for food preparation            and forecasted activities and creating a
+                                                                production schedule
+                                                                identify daily and forecasted activities to
+                                                                be completed to meet production schedule
+                                                                identify time required for various tasks and
+                                                                daily and forecasted activities
+                                                                identify quantities of products required to
+                                                                meet production schedule
+                                                                identify procedures used to modify
+                                                                production schedule as required
+
+ B-4.02.03L        demonstrate knowledge of procedures       describe methods and procedures used
+                   used for task sequencing for food      to maintain safe temperatures of food
+                   preparation                               products during production
+                                                             describe techniques used for food sensory
+                                                             assessment to ensure quality
+ B-4.02.04L        demonstrate knowledge of kitchen          describe importance of defining roles,
+                   management principles                     responsibilities and communication
+                                                             identify strengths and potential areas of
+                                                             growth for staff s’ skills and knowledge
+                                                             describe importance of staff coordination
+                                                             and monitoring progress to ensure flow of
+                                                             production
+                                                             calculate kitchen operational costs
+
+RANGE OF VARIABLES
+daily activities include: receiving, storing, preparing, holding, cooking, maintaining, serving
+forecasted activities include: menu rotations, inventory requirements
+procedures used to modify production schedule include: recipe conversion, consider labour needs,
+production levels
+methods and procedures used to maintain safe temperatures of food products include: assessing
+labels, ensuring proper rotation, rotating products, applying HACCP documentation, recording data
+loggers, monitoring internal temperatures
+kitchen operational costs include: food, labour, f ixed/variable expenses
+
+TASK B-5 Manages information
+TASK DESCRIPTOR
+Cooks use information such as menus, recipes, schedules, banquet event orders in the workplace.
+
+ B-5.01         Plans menu and mise en place
+
+     NL   NS      PE     NB      QC       ON     MB    SK        AB      BC      NT      YT      NU
+ yes      yes     yes    yes    yes     yes      yes   yes      yes     yes      yes     NV      NV
+
+                                                       SKILLS
+                          Performance Criteria                        Evidence of Attainment
+ B-5.01.01P        create and cost menu                       menu and cost is determined according to
+                                                              desired results
+ B-5.01.02P        develop and follow recipes                recipes are developed and followed
+                                                              according to menu specifications and
+                                                              dietary requirements
+
+ B-5.01.03P       convert recipes                          recipes are converted for yields according
+                                                           to production needs
+ B-5.01.04P       determine production requirements        production requirements are
+                                                           determined according to menu
+                                                           specifications and dietary requirements
+ B-5.01.05P       identify and incorporate substitute     substitute ingredients are identified and
+                  ingredients                              incorporated according to production
+                                                           needs, menu specifications and dietary
+                                                           requirements
+
+RANGE OF VARIABLES
+production requirements include: food, quantity, labour, equipment, recipes
+
+                                                    KNOWLEDGE
+                          Learning Outcomes                         Learning Objectives
+ B-5.01.01L       demonstrate knowledge of principles of   define terminology associated with menu
+                  menu planning                            planning
+                                                           identify types of service and menu
+                                                           styles and describe their characteristics
+                                                           and applications
+                                                           identify considerations for menu
+                                                           planning
+                                                           explain importance of following and
+                                                           converting recipes
+                                                           explain importance of using local,
+                                                           seasonal and sustainable food products
+                                                           describe considerations for
+                                                           determining mise en place
+                                                           requirements
+ B-5.01.02L       demonstrate knowledge of procedures      describe procedures used to calculate
+                  used for menu planning                  menu prices
+                                                           identify factors to consider when setting
+                                                           menu prices
+                                                           describe procedures used to plan and
+                                                           execute a menu
+                                                           describe procedures used to convert
+                                                           menu recipes
+ B-5.01.03L       demonstrate knowledge of standardized    identify methods of cost control and
+                  recipes                                  describe their characteristics
+                                                           identify components of a standardized
+                                                           recipe
+                                                           describe procedures used to calculate
+                                                           food quantities and cost
+
+                                                                 define yield costing for recipes [Edible
+                                                                 Portion (EP) and As-Purchased (AP)]
+ B-5.01.04L         demonstrate knowledge of procedures          describe procedures used to plan mise en
+                    used to determine mise en place              place and determine requirements
+                    requirements
+
+RANGE OF VARIABLES
+types of service include: cafeteria, buffet, à la carte, over-the-counter, quick-service restaurant (QSR),
+catering, institutional
+menu styles include: table d’hôte, static, cycle, à la carte, seasonal, regional, dégustation
+considerations for menu planning include: ingredient availability, seasonality, dietary requirements,
+price point, menu style, trends, business brand, past performance of menu, mise en place, nutritional
+value
+considerations for determining mise en place requirements include: food/production schedules,
+labour schedules, equipment capabilities
+factors include: seasonal, labour costs, ingredient costs, brand of business
+methods of cost control include: food purchase specifications, standardized recipes, standardized
+yields, standardized portions, re-purpose product
+
+ B-5.02         Uses documentation
+
+     NL   NS       PE      NB      QC      ON      MB       SK      AB      BC       NT      YT      NU
+  yes     yes     yes     yes      yes     yes     yes     yes      yes     yes     yes      NV      NV
+
+                                                           SKILLS
+                           Performance Criteria                           Evidence of Attainment
+ B-5.02.01P         organize and file documents                 documents are organized and filed
+                                                                 according to company policies and
+                                                                 jurisdictional regulations
+ B-5.02.02P         process documents                            documents are processed according to
+                                                                 company policies and jurisdictional
+                                                                 regulations
+ B-5.02.03P         recognize documentation errors               documentation errors are recognized and
+                                                                 corrected or reported
+ B-5.02.04P         complete forms                               forms are completed according to
+                                                                 company policies and jurisdictional
+                                                                 regulations
+
+RANGE OF VARIABLES
+documents include: shellfish tags, SDS, logs (temperature, waste, sanitizer strength), recipe files, job
+hazard analysis, prep list, banquet orders, OH&S, cleaning list
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+forms include: food safety, inventory forms, work schedules, jurisdictional accident documentation,
+apprenticeship, performance evaluations
+
+                                                       KNOWLEDGE
+                            Learning Outcomes                             Learning Objectives
+ B-5.02.01L        demonstrate knowledge of documents,          identify types of documents, forms and
+                   forms and their applications and             describe their applications
+                   procedures for use
+                                                                describe methods for completing
+                                                                documents and forms
+                                                                describe procedures used to locate,
+                                                                process, file, interpret and complete
+                                                                documents and forms
+ B-5.02.02L        demonstrate knowledge of regulatory          describe importance of locating SDS
+                   requirements pertaining to health and        documentation and jurisdictional
+                   safety                                      regulations
+
+RANGE OF VARIABLES
+documents include: shellfish tags, SDS, logs (temperature, waste, sanitizer strength), recipe files, job
+hazard analysis, prep list, banquet orders, OH&S, cleaning list
+forms include: food safety, inventory forms, work schedules, jurisdictional accident documentation,
+apprenticeship, performance evaluations
+methods for completing documents and forms include: electronic, written
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+TASK B-6 Manages products
+TASK DESCRIPTOR
+Cooks are involved in ordering, receiving, storing and, at times, transporting of products. At all stages of
+production products must be handled in a safe manner, and according to food safety and jurisdictional
+regulations.
+
+ B-6.01         Orders products
+
+     NL   NS       PE      NB       QC      ON      MB       SK       AB      BC      NT       YT      NU
+  yes     yes      yes     yes     yes      yes     yes      yes     yes      yes     yes      NV      NV
+
+                                                            SKILLS
+                            Performance Criteria                           Evidence of Attainment
+ B-6.01.01P         determine product specifications               product specifications are determined
+                                                                   according to dietary requirements and
+                                                                   menu specifications
+ B-6.01.02P         identify ingredient requirements and          ingredient requirements are identified and
+                    complete order list                            order list is completed according to
+                                                                   production needs, dietary requirements
+                                                                   and menu specifications
+ B-6.01.03P         determine quantities required                  quantities of products required are
+                                                                   determined according to business volume
+                                                                   and delivery schedule
+ B-6.01.04P         relay product order and specifications to     product order and specifications are
+                    product supplier                               relayed to product supplier according to
+                                                                   production needs
+ B-6.01.05P         interpret vendor product listings              vendor product listings are interpreted to
+                                                                   determine if supplier has required
+                                                                   inventory
+
+RANGE OF VARIABLES
+product specifications include: market forms, shelf life, case size, product type, colour
+products include: dairy, produce, meats, poultry, seafood, dry goods, sundries
+vendors include: major suppliers, local community suppliers, foragers
+
+                                                          KNOWLEDGE
+                             Learning Outcomes                              Learning Objectives
+ B-6.01.01L         demonstrate knowledge of vendors and           identify vendors of products
+                    products
+                                                                   identify product based on sustainability,
+                                                                   and seasonal and local availability
+                                                                   describe product specification factors
+
+                                                                 identify types of vendors
+ B-6.01.02L        demonstrate knowledge of procedures           describe procedures used to order
+                   used to order products                        products
+                                                                 describe product specifications
+                                                                 describe ordering methods
+
+RANGE OF VARIABLES
+vendors include: major suppliers, local community suppliers, foragers
+products include: dairy, produce, meats, poultry, seafood, dry goods, sundries
+product specifications include: market forms, shelf life, case size, product type, colour
+ordering methods include: phone, electronic, f ace-to-f ace
+
+ B-6.02         Receives products
+
+     NL   NS      PE      NB      QC     ON        MB      SK       AB      BC       NT       YT      NU
+  yes     yes     yes    yes      yes    yes       yes     yes      yes     yes      yes      NV      NV
+
+                                                           SKILLS
+                           Performance Criteria                           Evidence of Attainment
+ B-6.02.01P        verif y invoices                              invoices are verified to detect and resolve
+                                                                 discrepancies
+ B-6.02.02P        verif y products received                     products received are verified according
+                                                                 to product specifications and quantities
+                                                                 ordered
+ B-6.02.03P        operate receiving equipment                   receiving equipment is operated
+                                                                 according to manufacturers’ specifications
+ B-6.02.04P        determine priority of storage                 products are identified and prioritized for
+                                                                 storage according to form, temperature
+                                                                 and jurisdictional regulations
+
+RANGE OF VARIABLES
+products include: dairy, produce, meats, poultry, seafood, dry goods, sundries
+product specifications include: market forms, shelf life, case size, product type, colour
+receiving equipment includes: hand carts, conveyors, scales, lif ts
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                         KNOWLEDGE
+                           Learning Outcomes                               Learning Objectives
+ B-6.02.01L        demonstrate knowledge of receiving and        define terminology associated with receipt
+                   inspecting products                           and inspection of products
+                                                                 describe product specification factors
+
+                                                                 identify types of forms and reports
+                                                                 relating to receiving and inspecting
+                                                                 products
+                                                                 identify types of receiving equipment
+                                                                 used to move products
+ B-6.02.02L         demonstrate knowledge of procedures          describe procedures used to receive and
+                    used to receive and inspect products         inspect products
+                                                                 describe procedures used to interpret and
+                                                                 complete forms and reports
+                                                                 describe procedures used to confirm
+                                                                 information contained on invoices
+                                                                 describe procedures used for damaged
+                                                                 and returned products
+ B-6.02.03L         demonstrate knowledge of regulatory          interpret standards, regulations and
+                    requirements pertaining to safe food       requirements pertaining to safe food
+                    handling practices                           handling practices
+
+RANGE OF VARIABLES
+products include: dairy, produce, meats, poultry, seafood, dry goods, sundries
+product specifications include: market forms, shelf life, case size, product type, colour
+forms and reports include: requisitions, inventory forms, credit notes/ref usals, product tracking slips,
+invoices
+receiving equipment includes: hand carts, conveyors, scales, lif ts
+procedures used for damaged and returned products include: highlight products missing on invoice,
+scheduling overage returns, rescheduling delivery, communicating with courier, supplier and kitchen staff
+
+ B-6.03         Stores products
+
+     NL   NS       PE      NB      QC      ON      MB       SK      AB      BC       NT      YT      NU
+  yes     yes     yes     yes      yes     yes     yes     yes      yes     yes     yes      NV      NV
+
+                                                           SKILLS
+                           Performance Criteria                           Evidence of Attainment
+ B-6.03.01P         ensure clean, organized and secure           storage area is clean, organized and
+                    storage area                                 secure according to manufacturers’
+                                                                 specifications, jurisdictional regulations
+                                                                 and company policies
+ B-6.03.02P         select and use food storage containers       food storage containers are selected
+                                                                 and used according to product and
+                                                                 quantity to be stored
+ B-6.03.03P         recognize and store hazardous products       hazardous products are recognized and
+                                                                 stored according to manufacturers’
+                                                                 specifications, jurisdictional regulations
+                                                                 and company policies
+
+ B-6.03.04P        store products                              products are stored in designated area
+                                                               according to jurisdictional regulations
+                                                               and company policies
+ B-6.03.05P        date, label and rotate products             products are dated, labeled and rotated
+                                                               using FIFO method
+ B-6.03.06P        unpack and break down received              received products are unpacked and
+                   products                                    broken down in size as required and
+                                                               storage containers are used according to
+                                                               jurisdictional regulations
+
+RANGE OF VARIABLES
+storage areas include: refrigerators, freezers, dry storage, chemical storage
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+food storage containers include: food-grade plastic, stainless steel, non-reactive, vacuum-packed, eco-
+friendly
+products include: dairy, produce, meats, poultry, seafood, dry goods, sundries
+
+                                                      KNOWLEDGE
+                           Learning Outcomes                            Learning Objectives
+ B-6.03.01L        demonstrate knowledge of storing            identify types of storage areas and
+                   products                                    describe their applications
+                                                               explain potential for cross-contamination
+                                                               between raw, cooked and ready-to-serve
+                                                               food
+                                                               explain methods of inventory control
+ B-6.03.02L        demonstrate knowledge of procedures         describe procedures used to label, date
+                   used to store products                      and rotate stock (FIFO)
+                                                               describe storage techniques for raw,
+                                                               cooked and ready-to-serve food products
+ B-6.03.03L        demonstrate knowledge of jurisdictional     interpret jurisdictional regulations
+                   regulations pertaining to safe food       pertaining to safe food storage practices
+                   storage practices
+
+RANGE OF VARIABLES
+products include: dairy, produce, meats, poultry, seafood, dry goods, sundries
+storage areas include: refrigerators, freezers, dry storage, chemical storage
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+ B-6.04         Maintains inventory
+
+     NL   NS      PE     NB      QC      ON         MB      SK       AB      BC       NT      YT      NU
+ yes      yes     yes    yes     yes     yes        yes     yes      yes     yes     yes      NV      NV
+
+                                                            SKILLS
+                          Performance Criteria                             Evidence of Attainment
+ B-6.04.01P        verif y quantities of products                 quantities of products are verif ied to
+                                                                  ensure par levels according to business
+                                                                  volume
+ B-6.04.02P        verif y quality of perishable products         quality of perishable products are verified
+                                                                  according to sensory assessment and
+                                                                  date received
+ B-6.04.03P        perform stock rotation                        stock rotation is performed according to
+                                                                  company policies
+ B-6.04.04P        dispose of expired products                    expired products are disposed of
+                                                                  according to company policies,
+                                                                  jurisdictional regulations and
+                                                                  manufacturers’ specifications
+
+RANGE OF VARIABLES
+products include: dairy, produce, meats, poultry, seafood, dry goods , sundries
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                          KNOWLEDGE
+                           Learning Outcomes                                Learning Objectives
+ B-6.04.01L        demonstrate knowledge of maintaining           define terminology associated with
+                   inventory                                      inspection and storage of products
+                                                                  explain product rotation method FIFO
+ B-6.04.02L        demonstrate knowledge of procedures            describe procedures used to conduct
+                   used for inventory control                    inventory of products
+                                                                  explain systems used for inventory control
+                                                                  describe procedures for verifying product
+                                                                  specifications
+                                                                  describe waste management
+                                                                  procedures
+                                                                  describe concepts of unit and weight
+ B-6.04.03L        demonstrate knowledge of jurisdictional        interpret jurisdictional regulations
+                   regulations pertaining to safe food          pertaining to safe food handling practices
+                   handling practices
+
+RANGE OF VARIABLES
+products include: dairy, produce, meats, poultry, seafood, dry goods , sundries
+product specifications include: market forms, shelf life, case size, unit as purchased, product type,
+colour
+waste management procedures include: recycling, composting, discard ing, reduce, re-use
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+TASK B-7 Performs trade activities
+TASK DESCRIPTOR
+Cooks are expected to perform the following activities throughout all major work activities of the trade.
+Cooks may plate or present products as required.
+
+ B-7.01         Uses recipes
+
+     NL   NS      PE      NB       QC      ON      MB      SK       AB      BC      NT      YT      NU
+  yes     yes     yes     yes     yes     yes      yes     yes     yes     yes     yes      NV      NV
+
+                                                           SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ B-7.01.01P         follow recipe sequence                      recipe sequence is followed according to
+                                                                 recipe specifications
+ B-7.01.02P         measure amounts of ingredients               amounts of ingredients are measured
+                                                                 according to recipe specifications
+ B-7.01.03P         maintain consistency when converting         consistency is maintained when
+                    recipes                                      converting recipes
+ B-7.01.04P         determine ingredient substitutions           ingredient substitutions are determined
+                                                                 according to factors
+ B-7.01.05P         adjust seasoning                             seasoning is adjusted according to recipe
+                                                                 specifications and desired results
+
+RANGE OF VARIABLES
+factors include: menu requirements, dietary requirements, demographics, budget, availability
+
+                                                         KNOWLEDGE
+                            Learning Outcomes                             Learning Objectives
+ B-7.01.01L        demonstrate knowledge of systems of           define terminology associated with
+                   measurement and their conversions             systems of measurement
+                                                                 identify systems of measurement and
+                                                                 their abbreviations
+
+                                                                 identify tools and equipment used to
+                                                                 weigh and measure, and describe their
+                                                                 procedures for use
+                                                                 describe method used to convert between
+                                                                 metric, Imperial and American standard
+                                                                 describe method used to convert between
+                                                                 volume and weights
+ B-7.01.02L        demonstrate knowledge of procedures           describe procedures used to follow
+                   used to follow recipes                       recipes
+                                                                 describe procedures used to adjust recipe
+                                                                 yields and perform conversions
+
+ B-7.02         Performs portion control
+
+     NL   NS       PE     NB     QC      ON        MB      SK       AB      BC       NT      YT       NU
+  yes     yes     yes    yes     yes    yes        yes     yes      yes     yes     yes      NV       NV
+
+                                                           SKILLS
+                          Performance Criteria                            Evidence of Attainment
+ B-7.02.01P         portion product                              product is portioned according to recipe
+                                                                 specifications
+ B-7.02.02P         convert volume, weight and temperature       volume, weight and temperature are
+                                                                 converted according to metric, Imperial
+                                                                 and American standard conversions
+ B-7.02.03P         use portion control utensils                 portion control utensils are used
+                                                                 according to recipe specifications
+
+RANGE OF VARIABLES
+portion control utensils include: measuring cups, portion bags, scales, ladles, portion cake cutters
+
+                                                         KNOWLEDGE
+                           Learning Outcomes                               Learning Objectives
+ B-7.02.01L        demonstrate knowledge of performing          describe procedures used to adjust recipe
+                   portion control and its associated            yields and perform conversions
+                   applications
+                                                                 identify foods that require portioning
+                                                                 identify types of portion control utensils,
+                                                                 and describe their applications and
+                                                                 procedures for use
+ B-7.02.02L        demonstrate knowledge of systems of           describe methods used to convert
+                   measurement and their conversions             between volume, weight and temperature
+                                                                 define terminology associated with
+                                                                 systems of measurement
+
+                                                                identify systems of measurement and
+                                                                their abbreviations
+                                                                identify tools and equipment used to
+                                                                weigh and measure, and describe their
+                                                                procedures for use
+
+RANGE OF VARIABLES
+portion control utensils include: measuring cups, portion bags, scales, ladles, portion cake cutters
+
+ B-7.03         Presents finished product
+
+     NL   NS      PE      NB      QC      ON      MB       SK      AB      BC       NT      YT      NU
+  yes     yes     yes     yes     yes     yes     yes     yes      yes     yes     yes      NV      NV
+
+                                                          SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ B-7.03.01P        identify menu item components               menu item components are identified to
+                                                                prepare for plating and presentation
+ B-7.03.02P        select and use tools used for plating and   tools used for plating and presentation
+                   presentation                                 are selected according to factors
+ B-7.03.03P        coordinate cooked product supply             cooked product supply is coordinated for
+                                                                transport, plating and presentation
+ B-7.03.04P        determine plating and presentation      plating and presentation design,
+                   design, components and plating sequence components and sequence is determined
+                                                           according to factors
+ B-7.03.05P        assemble components                          components are assembled according to
+                                                                recipe specifications
+ B-7.03.06P        ensure accuracy, consistency and quality     accuracy, consistency and quality of final
+                   of final plating and presentation           plating and presentation is done
+                                                                according to recipe specifications
+ B-7.03.07P        maintain safe food temperature when        safe food temperature is maintained when
+                   plating, presenting and transporting         plating, presenting and transporting
+                                                                foods using appropriate equipment
+                                                                according to jurisdictional regulations
+ B-7.03.08P        label packaged foods                        packaged foods are labelled according to
+                                                                company policy and jurisdictional
+                                                                regulations
+
+RANGE OF VARIABLES
+factors include: standardized recipe, style of service, type of food, resources at hand, temperature of
+food, cost
+transporting foods includes: off-site catering, take-out/delivery service, home meal replacements (HMR)
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                       KNOWLEDGE
+                            Learning Outcomes                             Learning Objectives
+ B-7.03.01L        demonstrate knowledge of plating and         identify types of service wares
+                   presenting finished products
+                                                                describe importance of colour, focal point
+                                                                and flow
+                                                                describe guidelines for plating and
+                                                                presentation
+                                                                explain time required for plating and
+                                                                presentation
+                                                                explain importance of required service
+                                                                ware temperature and cleanliness for
+                                                                plating and presentation
+                                                                describe required food temperature and
+                                                                holding times
+                                                                identify types of presentation styles
+                                                                describe time considerations of foods
+                                                                when plating and presenting products
+ B-7.03.02L        demonstrate knowledge of procedures          describe procedures used to plate and
+                   used to plate and present finished          present finished products
+                   products
+                                                                describe method used to calculate
+                                                                quantity of service wares required
+ B-7.03.03L        demonstrate knowledge of packaging           identify types of packaging
+                   finished products
+                                                                describe required food temperature and
+                                                                holding times
+
+RANGE OF VARIABLES
+service wares include: plates, platters, take-out containers, hotel pans, bowls, ceramic, plastic, steel,
+mirrors, paper, bamboo, porcelains, slate, hard woods
+types of presentation styles include: center, stacking, flat
+
+ B-7.04         Uses convenience foods
+
+     NL   NS      PE      NB      QC      ON      MB      SK       AB      BC      NT      YT       NU
+ yes      yes     yes    yes      yes     yes     yes     yes      yes     yes     yes     NV       NV
+
+                                                          SKILLS
+                          Performance Criteria                           Evidence of Attainment
+ B-7.04.01P        identify convenience type products          convenience type products are
+                                                                identified according to manufacturers’
+                                                                specifications and recipe specifications
+ B-7.04.02P        follow manufacturers’ directions           directions are followed according to
+                                                                manufacturers’ specifications
+ B-7.04.03P        apply convenience type products              convenience type products are applied
+                                                                according to manufacturers’
+                                                                specifications, recipe specifications and
+                                                                desired results
+
+RANGE OF VARIABLES
+convenience type products include: soup bases, sauce bases, frozen products, canned products,
+ready-to-bake dough products, fully cooked, dehydrated
+
+                                                        KNOWLEDGE
+                           Learning Outcomes                              Learning Objectives
+ B-7.04.01L        demonstrate knowledge of preparing           identify convenience type products and
+                   convenience type products                    describe their applications
+                                                                describe terminology used with
+                                                                convenience type products
+                                                                interpret labels of convenience type
+                                                                products
+                                                                identify factors to consider when
+                                                                determining use of convenience type
+                                                                products
+                                                                identify potential hazards and allergens
+
+                                                                    identify potential dietary requirements
+                                                                    specific to convenience type products
+ B-7.04.02L         demonstrate knowledge of procedures             describe procedures used to apply
+                    used to apply convenience type                  convenience type products
+                    products
+
+RANGE OF VARIABLES
+convenience type products include: soup bases, sauce bases, frozen products, canned products,
+ready-to-bake dough products, fully cooked, dehydrated
+terminology includes: ready-to-serve (RTS), ready-to-use (RTU), thaw and serve (T&S) and heat and
+serve, ready-to-bake, proof-and-bake, ultra-high temperatures (UHT) processed, bake-in-bag, boil-in-bag
+factors include: raw product costs, time constraints, storage considerations, labour, potential allergies,
+consistency
+potential hazards and allergens include: gluten, sodium content, sugar content, peanuts and tree nuts,
+soy, dairy, sesame, shellfish
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+TASK B-8 Adapts cooking practices to meet dietary requirements
+TASK DESCRIPTOR
+Practicing food safety procedures is a critical component of the food service industry and ensures
+consumer and employee health and safety. In order to ensure consumer satisf action, cooks
+accommodate dietary requirements including cultural, allergies, ethical, religious, environmental,
+individual preference and health-related.
+
+ B-8.01         Adapts kitchen practices to meet dietary requirements
+
+     NL   NS       PE      NB      QC      ON      MB         SK       AB      BC      NT      YT       NU
+  yes     yes     yes     yes      yes     yes     yes        yes      yes     yes     yes     NV       NV
+
+                                                              SKILLS
+                           Performance Criteria                              Evidence of Attainment
+ B-8.01.01P         identify modif ications to preparation         modif ications to preparation areas,
+                    areas, practices and procedures                 practices and procedures are identified to
+                                                                    meet dietary requirements
+ B-8.01.02P         perform modifications to preparation           preparation areas are modified to
+                    areas                                           accommodate dietary requirements
+ B-8.01.03P         modify food preparation, cooking and          food preparation, cooking and serving
+                    serving procedures                              procedures are modified to avoid cross
+                                                                    contamination according to dietary
+                                                                    requirements
+
+RANGE OF VARIABLES
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+modifications to preparation areas include: using specialized equipment to isolate allergens, dedicated
+prep areas for allergens, preventing cross-contamination (allergens, cultural practices)
+
+                                                       KNOWLEDGE
+                            Learning Outcomes                             Learning Objectives
+ B-8.01.01L        demonstrate knowledge of adapting food      identify types of dietary requirements
+                   practices to dietary requirements
+                                                                identify types of diets and eating
+                                                                regimes
+                                                                describe food ingredients, allergens and
+                                                                potential substitutes
+                                                                interpret labelling to identify potential
+                                                                hazards and allergens
+                                                                explain kitchen practices and adaptations
+                                                                to accommodate dietary requirements
+                                                                identify factors to consider when
+                                                                modifying a menu
+ B-8.01.02L        demonstrate knowledge of procedures          describe procedures used to modify
+                   used to modify preparation areas            preparation areas
+
+RANGE OF VARIABLES
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+diets and eating regimes include: all protein, macrobiotic, vegan, vegetarian, gluten-free, raw and paleo
+diets, keto, diabetic, Halal, Kosher, Hindu
+factors include: variety, colour, dietary requirements, nutrition, use of product, cooking methods
+clientele/demographics, food recalls and advisories
+
+ B-8.02         Selects ingredients to meet dietary requirements
+
+     NL    NS      PE       NB      QC       ON      MB       SK       AB      BC       NT      YT       NU
+  yes     yes      yes     yes      yes      yes     yes      yes      yes     yes      yes     NV       NV
+
+                                                             SKILLS
+                             Performance Criteria                            Evidence of Attainment
+ B-8.02.01P         identify dietary requirements                  dietary requirements are identified and
+                                                                    documented
+ B-8.02.02P         propose alternate dish                          alternate dish is proposed to meet dietary
+                                                                    requirements if recipe cannot be
+                                                                    modified
+ B-8.02.03P         select substitute ingredients                   substitute ingredients are selected
+                                                                    according to dietary requirements
+
+RANGE OF VARIABLES
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+                                                           KNOWLEDGE
+                             Learning Outcomes                                Learning Objectives
+ B-8.02.01L         demonstrate knowledge of selecting       describe food ingredients, allergens and
+                    ingredients to meet dietary requirements substitutes
+                                                                    identify factors to consider when
+                                                                    selecting alternative ingredients
+
+RANGE OF VARIABLES
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+factors include: allergies and intolerances, variety, colour, dietary requirements, nutrition, use of product,
+cooking methods, clientele/demographics
+
+ B-8.03         Prepares food to meet dietary requirements
+
+     NL   NS      PE      NB      QC        ON     MB       SK      AB      BC       NT      YT      NU
+  yes     yes     yes     yes     yes       yes   yes     yes       yes     yes     yes      NV      NV
+
+                                                          SKILLS
+                           Performance Criteria                           Evidence of Attainment
+ B-8.03.01P        modify recipes                               recipes are modified by substituting
+                                                                 ingredients to meet dietary requirements
+ B-8.03.02P        modify cooking procedures                    cooking procedures are modified with
+                                                                 substitute ingredients while avoiding cross
+                                                                 contamination according to dietary
+                                                                 requirements
+ B-8.03.03P        prepare alternate dish                        alternate dish is prepared according to
+                                                                 dietary requirements and labelled
+ B-8.03.04P        identify dish and advise service team        dish is identified and service team is
+                                                                 advised of dietary requirements
+
+RANGE OF VARIABLES
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+                                                        KNOWLEDGE
+                            Learning Outcomes                              Learning Objectives
+ B-8.03.01L        demonstrate knowledge of preparing food       identify food ingredients, allergens and
+                   to meet dietary requirements                  substitutes
+                                                                 identify factors to consider when selecting
+                                                                 alternate ingredients
+                                                                 identify factors to consider when
+                                                                 proposing alternate dish to accommodate
+                                                                 dietary requirements
+ B-8.03.02L        demonstrate knowledge of procedures           describe procedures used to prepare food
+                   used to prepare food to meet dietary         to meet dietary requirements
+                   requirements
+                                                                 describe procedures used to adjust recipe
+                                                                 yields and perform conversions
+
+RANGE OF VARIABLES
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+TASK B-9 Uses communication and mentoring techniques
+TASK DESCRIPTOR
+Learning in the trades is done primarily in the workplace with tradespeople passing on their skills and
+knowledge to apprentices, as well as sharing knowledge among themselves. Apprenticeship is, and
+always has been about mentoring – learning workplace skills and passing them on. Because of the
+importance of this to the trade, this task covers the activities related to c ommunication in the workplace
+and mentoring skills.
+
+ B-9.01         Uses communication techniques
+
+     NL   NS       PE      NB      QC      ON         MB      SK       AB      BC       NT      YT       NU
+  yes     yes     yes      yes     yes     yes        yes     yes      yes     yes      yes     NV       NV
+
+                                                              SKILLS
+                            Performance Criteria                             Evidence of Attainment
+ B-9.01.01P         demonstrate communication practices             instructions and messages are
+                    with individuals or in a group                  understood by all parties involved in
+                                                                    communication
+ B-9.01.02P         listen using active listening practices         steps of active listening are utilized
+ B-9.01.03P         receive and respond to feedback on work         response to feedback indicate
+                                                                    understanding and corrective measures
+                                                                    are taken
+ B-9.01.04P         explain and provide feedback                   explanation and timely feedback is
+                                                                    provided and task is carried out as
+                                                                    directed
+ B-9.01.05P         ask open-ended questions to improve             open-ended questions enhance
+                    communication                                   understanding, on-the-job training and
+                                                                    goal setting
+ B-9.01.06P         participate in safety and information         meetings are attended, information is
+                    meetings                                        relayed to workforce, and is understood
+                                                                    and applied
+ B-9.01.07P         share information                              information is shared with people in
+                                                                    workplace
+ B-9.01.08P         communicate with consumers                      consumers’ preferences are determined
+                                                                    through communicating and interacting
+ B-9.01.09P         coordinate tasks with co-workers                tasks are coordinated with co-workers and
+                                                                    completed in a timely manner
+ B-9.01.10P         maintain a respectf ul attitude                 a respectf ul attitude is maintained at all
+                                                                    times
+
+RANGE OF VARIABLES
+active listening includes: hearing, interpreting, ref lecting, responding, paraphrasing
+people in workplace include: other tradespeople, colleagues, apprentices, supervisors, clients,
+suppliers, patrons
+communicating includes: verbal, non-verbal, digital, written
+
+                                                          KNOWLEDGE
+                             Learning Outcomes                                Learning Objectives
+ B-9.01.01L          demonstrate knowledge of trade                 define terminology used in the trade
+                     terminology
+ B-9.01.02L          demonstrate knowledge of effective           describe importance of using effective
+                     communication practices                        verbal and non-verbal communication with
+                                                                    people in workplace
+                                                                    identify sources of information to
+                                                                    effectively communicate
+                                                                    identify communication and learning
+                                                                    styles
+                                                                    describe effective listening and speaking
+                                                                    skills
+                                                                    identify personal responsibilities and
+                                                                    attitudes that contribute to on-the-job
+                                                                    success
+                                                                    identify value of diversity in workplace
+                                                                    identify communication that constitutes
+                                                                    harassment and discrimination
+
+RANGE OF VARIABLES
+people in workplace include: other tradespeople, colleagues, apprentices, supervisors, clients,
+suppliers, patrons
+sources of information include: regulations, codes, occupational health and safety requirements,
+company and client documentation
+learning styles include: seeing it, hearing it, trying it
+personal responsibilities and attitudes include: asking questions, working safely, accepting
+constructive feedback, time management and punctuality, respect for people in workplace, good
+stewardship of materials, tools and property, efficient work practice
+harassment includes: objectionable conduct, comment or display made either on a one-time or
+continuous basis that demeans, belittles, or causes personal humiliation or embarrassment to recipient
+discrimination is prohibited based on: race, national or ethnic origin, colour, religion, age, sex, sexual
+orientation, gender identity or expression, marital status, family status, disability, genetic characteristics,
+pardoned conviction
+
+ B-9.02         Uses mentoring techniques
+
+     NL   NS      PE      NB      QC      ON       MB      SK       AB       BC      NT       YT      NU
+ yes      yes     yes    yes      yes     yes      yes     yes      yes     yes      yes      NV      NV
+
+                                                          SKILLS
+                          Performance Criteria                            Evidence of Attainment
+ B-9.02.01P        identify and communicate learning            apprentice or learner can explain
+                   objective and point of lesson                 objective and point of lesson
+ B-9.02.02P        link lesson to other lessons and job          lesson order and unplanned learning
+                                                                 opportunities are defined
+ B -9.02.03P       demonstrates performance of a skill to an     steps required to demonstrate a skill
+                   apprentice or learner                         are performed
+ B -9.02.04P       set up conditions required for an            practice conditions are set up so that
+                   apprentice or learner to practice a skill     skill can be practiced safely by apprentice
+                                                                 or learner
+ B -9.02.05P       assess apprentice or learner’s ability to     performance of apprentice or learner
+                   perform tasks with increasing                improves with practice to a point where
+                   independence                                  skill can be done with little supervision
+ B -9.02.06P       give support and feedback for               apprentice adopts best practice af ter
+                   improvement                                   having been given timely support and
+                                                                 feedback for improvement
+ B -9.02.07P       document technical training opportunities     training opportunities are documented to
+                                                                 use as a planning tool for future training
+ B -9.02.08P       support apprentices or learners in            technical training is completed within
+                   pursuing technical training opportunities     timeframe prescribed by apprenticeship
+                                                                 authority
+ B -9.02.09P       support harassment free workplace            workplace is harassment and
+                                                                 discrimination-free and employees are
+                                                                 encouraged to speak out against
+                                                                 harassment and discrimination
+ B -9.02.10P       assess apprentice or learner suitability to   apprentice or learner is given timely
+                   trade                                         feedback that helps them identify their
+                                                                 own strengths and weaknesses and
+                                                                 suitability for trade
+
+RANGE OF VARIABLES
+steps required to demonstrate a skill include: understanding the who, what, where, when, why, and
+how, explaining, showing, giving encouragement, following up to ensure skill is performed correctly
+practice conditions means: guided, limited independence, full independence
+harassment includes: objectionable conduct, comment or display made either on a one-time or
+continuous basis that demeans, belittles, or causes personal humiliation or embarrassment to the
+recipient
+discrimination is prohibited based on: race, national or ethnic origin, colour, religion, age, sex, sexual
+orientation, gender identity or expression, marital status, family status, disability, genetic characteristics,
+pardoned conviction
+
+                                                          KNOWLEDGE
+                             Learning Outcomes                                Learning Objectives
+ B-9.02.01L          demonstrate knowledge of strategies for       describe importance of individual
+                     learning skills in workplace                   experience
+                                                                    describe shared responsibilities for
+                                                                    workplace learning
+                                                                    determine one’s own learning preferences
+                                                                    and explain how these relate to learning
+                                                                    new skills
+                                                                    describe importance of diff erent types of
+                                                                    skills in workplace
+                                                                    describe importance of essential skills in
+                                                                    workplace
+                                                                    identify different learning styles
+                                                                    identify different learning needs and
+                                                                    strategies to meet these
+                                                                    identify strategies to assist in learning a
+                                                                    skill
+ B-9.02.02L          demonstrate knowledge of strategies for identify different roles played by a
+                     teaching skills in the workplace         workplace mentor
+                                                                    describe teaching skills
+                                                                    explain importance of identifying point of a
+                                                                    lesson
+                                                                    identify how to choose a good time and
+                                                                    place to present a lesson
+                                                                    explain importance of linking lessons
+                                                                    identify components of skill (context)
+                                                                    describe considerations in setting up
+                                                                    opportunities for skill practice
+                                                                    explain importance of providing feedback
+                                                                    identify techniques for giving effective
+                                                                    feedback
+                                                                    describe a skills assessment
+
+                                                                   identify methods of assessing progress
+                                                                   explain how to adjust a lesson to diff erent
+                                                                   situations
+
+RANGE OF VARIABLES
+essential skills are: reading, writing, document use, oral communication, numeracy, thinking, working
+with others, digital technology, continuous learning
+learning styles include: seeing it, hearing it, trying it
+learning needs include: learning disabilities, learning preferences, language prof iciency
+strategies to assist in learning a skill include: understanding basic principles of instruction, developing
+coaching skills, being mature and patient, providing feedback
+teaching skills include: identifying point of lesson, linking lesson, demonstrating skill, providing practice,
+giving feedback, assessing skills and progress
