@@ -1,0 +1,40 @@
+Analyze and enrich the subtask document: A-2.03.md
+
+Your task is to transform it into a much deeper and more useful learning resource for apprentices and Red Seal preparation.
+
+Requirements:
+
+* Preserve all original competency content
+* Improve clarity and readability
+* Add scientific explanations and practical food safety reasoning
+* Explain WHY each rule, process, and temperature requirement exists
+* Add useful industry knowledge and kitchen best practices
+* Add contamination risks, safety implications, and common mistakes
+* Add supporting facts related to food microbiology, bacteria growth, food danger zone, heat transfer, re-thermalization safety, and temperature control
+* Add practical examples from commercial kitchen environments
+* Add memory aids and operational tips useful for apprentices
+* Add explanations for tools/equipment and why specific methods are used
+* Explain impacts of incorrect re-thermalization on food quality and food safety
+* Include useful Canadian food safety standards, HACCP concepts, and Red Seal relevant knowledge
+* Include important temperature numbers, timing rules, and safety thresholds commonly used in Canadian commercial kitchens
+* Clearly distinguish between:
+
+  * regulatory requirements
+  * industry best practices
+  * operational recommendations
+
+Important:
+
+* Do not hallucinate laws or regulations
+* If uncertain, label information as "common industry practice" instead of legal requirement
+* Research and support explanations with factual food safety knowledge
+* Keep the writing professional, educational, and apprentice-friendly
+* Avoid filler or generic explanations
+* Organize the output into clean markdown sections and subsections
+
+Output:
+
+* Create a new enhanced markdown version
+* Keep original structure but expand intelligently
+* Use headings, bullet points, tables, examples, and warning notes where helpful
+* Add a final "Key Red Seal Exam Knowledge" summary section
