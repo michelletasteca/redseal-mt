@@ -1,0 +1,525 @@
+MAJOR WORK ACTIVITY A
+Hygiene, sanitation and safety
+
+TASK A-1 | Performs safety and hygiene-related functions
+Cooks are expected to perform safety-related functions throughout all activities of the trade. They maintain, clean and sanitize tools and equipment to ensure a safe and hygienic workplace. They use personal protective equipment (PPE) and safety equipment by complying with codes and regulations such as the Workplace Hazardous Materials Information System (WHMIS). Cooks must constantly maintain personal hygiene.
+
+SUB-TASKS:
+
+SUB-TASK A-1.01 | Maintains safe work environment
+
+SKILLS:
+
+- A-1.01.01P
+  Performance Criteria: identify and report potential hazards
+  Evidence of Attainment: potential hazards are identified and reported according to jurisdictional regulations
+
+- A-1.01.02P
+  Performance Criteria: clear and clean walkways
+  Evidence of Attainment: walkways are cleared and cleaned by removing obstacles, wiping up spills, placing cautionary signage and reporting according to jurisdictional regulations
+
+- A-1.01.03P
+  Performance Criteria: clean workstation
+  Evidence of Attainment: workstation is cleaned by washing, rinsing and sanitizing work surfaces using prepared and tested solution according to manufacturers’ specifications and jurisdictional regulations
+
+- A-1.01.04P
+  Performance Criteria: maintain clutter-free workstation
+  Evidence of Attainment: clutter-free workstation is maintained by removing unnecessary tools, equipment, foods and debris
+
+- A-1.01.05P
+  Performance Criteria: store and lock up hazardous products
+  Evidence of Attainment: hazardous products are stored and locked up according to manufacturers’ specifications and jurisdictional regulations
+
+- A-1.01.06P
+  Performance Criteria: store hazardous equipment and utensils
+  Evidence of Attainment: hazardous equipment and utensils are stored according to company policy, manufacturers’ specifications and jurisdictional regulations
+
+- A-1.01.07P
+  Performance Criteria: complete cleaning task list on a daily, weekly and monthly basis
+  Evidence of Attainment: cleaning task list is completed on a daily, weekly and monthly basis according to company policy and jurisdictional regulations
+
+- A-1.01.08P
+  Performance Criteria: secure workstations when not in use
+  Evidence of Attainment: workstations, when not in use, are secured by minimizing potential hazards according to procedures
+
+- A-1.01.09P
+  Performance Criteria: lock out equipment
+  Evidence of Attainment: equipment is locked out according to company policy, jurisdictional regulations and manufacturers’ specifications
+
+- A-1.01.10P
+  Performance Criteria: prepare, test, label and store cleaning and sanitation solutions
+  Evidence of Attainment: cleaning and sanitation solutions are prepared, tested, labelled and stored according to manufacturers’ specifications and jurisdictional regulations
+
+- A-1.01.11P
+  Performance Criteria: identify location of safety exits and assembly areas
+  Evidence of Attainment: location of safety exits and assembly areas are identified in the event of dangerous situations according to jurisdictional regulations
+
+- A-1.01.12P
+  Performance Criteria: identify emergency procedures
+  Evidence of Attainment: emergency procedures are identified according to company policy
+
+RANGE OF VARIABLES:
+- potential hazards include: water, debris, exposed electrical wires, uneven floors, unidentified liquids and chemicals, fire, environmental, damaged furniture, fixtures and equipment, poor lighting, inadequate ventilation
+- jurisdictional regulations include: Workplace Hazardous Material Information System (WHMIS), Hazard Analysis Critical Control Points (HACCP), Occupational Health and safety (OH&S), public health regulations
+- procedures include: removing knives, disconnecting electrical appliances, shutting down appliances, wiping up spills, placing cautionary signage
+- dangerous situations include: fire, explosions, gas malfunctions
+
+KNOWLEDGE:
+
+- A-1.01.01L
+  Learning Outcomes: demonstrate knowledge of industry standards and safe work practices
+  Learning Objectives:
+  - define terminology associated with health and safety
+  - identify potential hazards, and describe safe work practices
+  - identify risks associated with physical and mental impairment on the job
+
+- A-1.01.02L
+  Learning Outcomes: demonstrate knowledge of kitchen sanitation standards
+  Learning Objectives:
+  - identify types of sanitizing products and describe their applications and procedures for use
+  - describe importance of sanitizing complete kitchen and equipment
+
+- A-1.01.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to sanitize kitchens and equipment
+  Learning Objectives:
+  - describe method for sanitizing and cleaning
+  - describe procedures used to maintain a sanitary food service operation
+  - describe procedures used to disassemble and assemble kitchen tools and equipment and their accessories for sanitizing purposes
+
+- A-1.01.04L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to health and safety
+  Learning Objectives:
+  - identify jurisdictional regulations
+
+RANGE OF VARIABLES:
+- safe work practices include: proper lifting, hoisting and transferring procedures, safe posture and movements (sitting, standing and bending)
+- potential hazards include: water, debris, exposed electrical wires, uneven floors, unidentified liquids and chemicals, fire, environmental, damaged furniture, fixtures and equipment, poor lighting, inadequate ventilation
+- procedures used to maintain a sanitary food service operation include: clean, sanitize, manage waste and recycle, control pests and rodents, prevent cross contamination
+
+SUB-TASK A-1.02 | Uses personal protective equipment (PPE) and safety equipment
+
+SKILLS:
+
+- A-1.02.01P
+  Performance Criteria: dress in industry-specific clothing and approved footwear
+  Evidence of Attainment: industry-specific clothing and approved footwear are worn to prevent injuries and product contamination
+
+- A-1.02.02P
+  Performance Criteria: locate PPE and safety equipment
+  Evidence of Attainment: PPE and safety equipment are located according to jurisdictional regulations
+
+- A-1.02.03P
+  Performance Criteria: select PPE and safety equipment
+  Evidence of Attainment: PPE and safety equipment are selected according to jurisdictional regulations, task to be performed and company policy
+
+- A-1.02.04P
+  Performance Criteria: identify worn, defective and expired PPE and safety equipment
+  Evidence of Attainment: worn, defective and expired PPE and safety equipment are identified according to jurisdictional regulations and sensory assessment
+
+RANGE OF VARIABLES:
+- PPE includes: goggles, respirators, protective gloves (rubber/latex, cut-resistant, heat-resistant), rubber aprons, non-slip protective footwear
+- safety equipment includes: fire extinguishers, fire blankets, eye-wash stations, WHMIS stations, first aid kits, Automatic External Defibrillator (AED)
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- A-1.02.01L
+  Learning Outcomes: demonstrate knowledge of PPE and safety equipment, their applications, maintenance and procedures for use
+  Learning Objectives:
+  - identify types of PPE and safety equipment and describe their applications and procedures for use
+  - describe procedures used to maintain PPE and safety equipment
+
+- A-1.02.02L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to PPE and safety equipment
+  Learning Objectives:
+  - interpret jurisdictional regulations pertaining to PPE and safety equipment
+
+RANGE OF VARIABLES:
+- PPE includes: goggles, respirators, protective gloves (rubber/latex, cut-resistant, heat-resistant), rubber aprons, non-slip protective footwear
+- safety equipment includes: fire extinguishers, fire blankets, eye-wash stations, WHMIS stations, first aid kits, Automatic External Defibrillator (AED)
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+SUB-TASK A-1.03 | Maintains personal hygiene
+
+SKILLS:
+
+- A-1.03.01P
+  Performance Criteria: follow handwashing procedures
+  Evidence of Attainment: handwashing procedures are followed according to jurisdictional regulations
+
+- A-1.03.02P
+  Performance Criteria: maintain good personal hygienic conditions
+  Evidence of Attainment: good personal hygienic conditions are maintained according to company policy and jurisdictional regulations
+
+- A-1.03.03P
+  Performance Criteria: wear clean work attire
+  Evidence of Attainment: clean work attire is worn
+
+- A-1.03.04P
+  Performance Criteria: wear hair and beard nets and hats
+  Evidence of Attainment: hair and beard nets and hats are worn to reduce contamination risks according to jurisdictional regulations
+
+- A-1.03.05P
+  Performance Criteria: ensure nails are short
+  Evidence of Attainment: nails are kept short according to company policy and jurisdictional regulations
+
+- A-1.03.06P
+  Performance Criteria: remove jewelry and accessories
+  Evidence of Attainment: jewelry and accessories are removed to reduce contamination risks according to company policy and jurisdictional regulations
+
+- A-1.03.07P
+  Performance Criteria: cover all exposed cuts and wounds
+  Evidence of Attainment: all exposed cuts and wounds are covered according to jurisdictional regulations
+
+RANGE OF VARIABLES:
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- work attire includes: aprons, pants, shirts, jackets, hats, approved footwear
+
+KNOWLEDGE:
+
+- A-1.03.01L
+  Learning Outcomes: demonstrate knowledge of personal hygiene principles and practices
+  Learning Objectives:
+  - describe hygienic practices
+  - define terminology associated with personal hygiene and hygienic practices
+
+- A-1.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures to maintain personal hygiene
+  Learning Objectives:
+  - describe procedures used to ensure personal hygiene and clean apparel
+  - describe procedures used for hand washing
+
+- A-1.03.03L
+  Learning Outcomes: demonstrate knowledge of jurisdictional regulations pertaining to health and safety
+  Learning Objectives:
+  - interpret food health regulations and guidelines associated with the practice of personal hygiene
+  - interpret jurisdictional regulations and company guidelines associated with wearing personal items
+
+RANGE OF VARIABLES:
+- hygienic practices include: frequent handwashing, wearing clean uniforms, wearing hair and beard nets, using single-use towels, using deodorant, using hair restraints, oral health, frequent bathing
+- personal items include: fragrances, jewelry, nail polish, accessories
+
+TASK A-2 | Practices food safety procedures
+Practicing food safety procedures is the most critical component of the food service industry and ensures consumer and employee health and safety. Cleaning and sanitizing are two separate tasks that are both crucial; cleaning removes physical debris and sanitizing removes biological contaminants.
+
+SUB-TASKS:
+
+SUB-TASK A-2.01 | Maintains safe condition and temperature of raw and finished product
+
+SKILLS:
+
+- A-2.01.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used for maintaining safe foods according to jurisdictional regulations
+
+- A-2.01.02P
+  Performance Criteria: verify and record that food is at required internal temperature
+  Evidence of Attainment: food is checked at specific intervals to ensure it is at required internal temperature by using a thermometer and results are recorded
+
+- A-2.01.03P
+  Performance Criteria: read various types of thermometers
+  Evidence of Attainment: various types of thermometers are read according to manufacturers’ specifications
+
+- A-2.01.04P
+  Performance Criteria: monitor temperature of equipment
+  Evidence of Attainment: temperature of equipment is monitored to ensure safety of products according to jurisdictional regulations
+
+- A-2.01.05P
+  Performance Criteria: hold and store finished product
+  Evidence of Attainment: finished product is held and stored at temperatures and time limits according to company policies and jurisdictional regulations
+
+- A-2.01.06P
+  Performance Criteria: take corrective measures
+  Evidence of Attainment: corrective measures are taken by applying further cooling or heating to ensure required temperature is reached according to company policies and jurisdictional regulations
+
+- A-2.01.07P
+  Performance Criteria: discard product
+  Evidence of Attainment: product is discarded according to company policies and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- tools and equipment include: thermometers, ice wands, ice baths, blast chillers, bain-marie, refrigerator, hot holding cabinets
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- types of thermometers include: digital, analog, laser
+
+KNOWLEDGE:
+
+- A-2.01.01L
+  Learning Outcomes: demonstrate knowledge of safe conditions and temperatures of raw and finished products
+  Learning Objectives:
+  - identify methods used to take temperatures of food products, and describe their associated procedures
+  - identify required internal temperature of cooked and raw foods
+  - identify time and temperatures required for holding hot and cold foods
+  - identify time limits for cooling of cooked foods
+  - identify storing techniques for hot and cold foods
+  - identify danger zone temperatures and times
+  - identify health concerns of improper food handling, storage and preparation
+  - identify types of food-borne illnesses, their causes and prevention
+  - identify potentially hazardous foods
+
+- A-2.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to maintain safe condition and temperature of raw and finished product
+  Learning Objectives:
+  - describe safe food handling and storage techniques
+  - describe time and temperature controls concerning danger zone
+
+- A-2.01.03L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to safe food handling and storage techniques
+  Learning Objectives:
+  - interpret jurisdictional regulations and requirements pertaining to safe food handling and storage techniques
+
+RANGE OF VARIABLES:
+- safe food handling and storage techniques include: preventing cross-contamination, maintaining foods at safe temperatures, receiving and storing foods (first in, first out – FIFO)
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+SUB-TASK A-2.02 | Cools food rapidly
+
+SKILLS:
+
+- A-2.02.01P
+  Performance Criteria: select cooling methods and vessels
+  Evidence of Attainment: cooling methods and vessels are selected for rapid cooling
+
+- A-2.02.02P
+  Performance Criteria: monitor cooling process
+  Evidence of Attainment: cooling process is monitored to ensure that targeted temperature is reached within allotted time according to jurisdictional regulations
+
+- A-2.02.03P
+  Performance Criteria: take corrective measures
+  Evidence of Attainment: corrective measures are taken by adjusting the cooling process to ensure required temperature is reached using various methods or taking further actions according to company policies and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- methods include: ice bath, divide product into smaller batches, place product in refrigerated unit, use ice wands, use blast chiller
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- further actions include: recording, disposing of item, informing supervisor
+
+KNOWLEDGE:
+
+- A-2.02.01L
+  Learning Outcomes: demonstrate knowledge of methods used describe cooling process for products to cool foods rapidly describe methods for cooling foods to required temperature in a required time frame while maintaining quality and safety of product identify temperatures required for cold holding of food describe danger zone temperatures
+  Learning Objectives:
+
+- A-2.02.02L
+  Learning Outcomes: demonstrate knowledge of jurisdictional regulations
+  Learning Objectives:
+  - interpret jurisdictional regulations
+
+RANGE OF VARIABLES:
+- methods include: ice bath, divide product into smaller batches, place product in refrigerated unit, use ice wands, use blast chiller
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+SUB-TASK A-2.03 | Re-thermalizes foods
+
+SKILLS:
+
+- A-2.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to type of product, re-thermalizing method and appliance being used
+
+- A-2.03.02P
+  Performance Criteria: re-heat food
+  Evidence of Attainment: food is re-heated to required temperature and timeframe according to jurisdictional regulations, manufacturers' specifications and desired results
+
+- A-2.03.03P
+  Performance Criteria: verify internal temperature
+  Evidence of Attainment: internal temperature is verified by using thermometers
+
+- A-2.03.04P
+  Performance Criteria: take corrective measures
+  Evidence of Attainment: corrective measures are taken by adjusting re-thermalization process to ensure required temperature is reached using various methods or taking further actions according to company policies and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- tools and equipment include: pans, pots, food service containers, stoves, microwaves, thermometer, ovens, thermal circulator, combi-oven
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- methods include: divide product in smaller batches, apply heat according to method being used
+- further actions include: recording, disposing of item, informing supervisor
+
+KNOWLEDGE:
+
+- A-2.03.01L
+  Learning Outcomes: demonstrate knowledge of principles of re-thermalizing food
+  Learning Objectives:
+  - identify types of tools and equipment used to re-heat foods
+  - describe impact of quantity on re-thermalizing process
+
+- A-2.03.02L
+  Learning Outcomes: demonstrate knowledge of methods used identify required internal temperature of to re-thermalize food describe methods for re-heating foods to required temperature in a required time frame while maintaining quality and safety of product
+  Learning Objectives:
+  - cooked foods
+
+- A-2.03.03L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to safe food handling and storage techniques
+  Learning Objectives:
+  - interpret jurisdictional regulations and requirements pertaining to safe food handling and storage techniques
+
+RANGE OF VARIABLES:
+- tools and equipment include: pans, pots, food service containers, stoves, microwaves, thermometer, ovens, thermal circulator, combi-oven
+- methods include: divide product in smaller batches, apply heat according to method being used
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- safe food handling and storage techniques include: preventing cross-contamination, maintaining foods at safe temperatures, receiving and storing foods (FIFO)
+
+SUB-TASK A-2.04 | Prevents cross-contamination
+
+SKILLS:
+
+- A-2.04.01P
+  Performance Criteria: recognize potential food contamination risks
+  Evidence of Attainment: potential food contamination risks are recognized using sensory assessments and thermometers according to jurisdictional regulations
+
+- A-2.04.02P
+  Performance Criteria: use clean and sanitized work surfaces, tools and equipment
+  Evidence of Attainment: clean and sanitized work surfaces, tools and equipment are used according to jurisdictional regulations
+
+- A-2.04.03P
+  Performance Criteria: wash hands and change gloves
+  Evidence of Attainment: gloves are discarded and hands are washed to avoid potential food contamination risks
+
+- A-2.04.04P
+  Performance Criteria: follow storage techniques
+  Evidence of Attainment: storage techniques are followed according to company policy and jurisdictional regulations
+
+- A-2.04.05P
+  Performance Criteria: use designated storage containers, cutting boards and utensils specific to products
+  Evidence of Attainment: designated storage containers, cutting boards and utensils specific to products are used according to company safety plan
+
+- A-2.04.06P
+  Performance Criteria: set up sanitizing system equipment
+  Evidence of Attainment: sanitizing system equipment is set up according to jurisdictional regulations
+
+RANGE OF VARIABLES:
+- potential food contamination risks include: unsanitary work surfaces, improper storage, chemical, cross use of utensils and equipment, clothes, cell phones, soiled towels, gloves, biological, physical
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- storage techniques include: raw food on the bottom and cooked food on the top, elevate minimum distance above floor, separate meat items accordingly, cover
+- sanitizing system equipment includes: pails, spray bottles, gloves
+
+KNOWLEDGE:
+
+- A-2.04.01L
+  Learning Outcomes: demonstrate knowledge of preventing cross-contamination, and associated principles and practices
+  Learning Objectives:
+  - identify potential food contamination risks
+  - identify types of food contaminations, their causes and prevention
+  - identify sanitizing system equipment
+  - identify sanitizing products and concentrations used to prevent cross- contamination
+  - identify communicable illnesses
+  - describe principles and practices of personal hygiene and food safety relating to cross-contamination
+  - describe storage techniques
+
+- A-2.04.02L
+  Learning Outcomes: demonstrate knowledge of dietary requirements
+  Learning Objectives:
+  - identify types of dietary requirements
+
+- A-2.04.03L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to safe food handling and storage techniques
+  Learning Objectives:
+  - interpret jurisdictional regulations and requirements pertaining to safe food handling and storage techniques
+
+RANGE OF VARIABLES:
+- potential food contamination risks include: unsanitary work surfaces, improper storage, chemical, cross use of utensils and equipment, clothes, cell phones, soiled towels, gloves, biological, physical
+- sanitizing system equipment includes: pails, spray bottles, gloves
+- communicable illnesses include: gastro-intestinal, hepatitis, Norwalk virus
+- storage techniques include: raw food on the bottom and cooked food on the top, elevate minimum distance above floor, separate meat items accordingly, cover
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- safe food handling and storage techniques include: preventing cross-contamination, maintaining foods at safe temperatures (food danger zone), receiving and storing foods (FIFO)
+
+SUB-TASK A-2.05 | Cleans tools and equipment
+
+SKILLS:
+
+- A-2.05.01P
+  Performance Criteria: identify utensils, tools, equipment and appliances to be cleaned
+  Evidence of Attainment: utensils, tools, equipment and appliances to be cleaned are identified
+
+- A-2.05.02P
+  Performance Criteria: disassemble and assemble kitchen tools and equipment for cleaning purposes
+  Evidence of Attainment: kitchen tools and equipment are disassembled and assembled for cleaning purposes according to jurisdictional regulations
+
+- A-2.05.03P
+  Performance Criteria: remove residual debris
+  Evidence of Attainment: residual debris is removed by using hot soap solutions according to manufacturers’ specifications prior to sanitizing processes, while ensuring soap concentration according to jurisdictional regulations
+
+- A-2.05.04P
+  Performance Criteria: apply cleaning procedures
+  Evidence of Attainment: cleaning procedures are applied according to company policies and jurisdictional regulations
+
+- A-2.05.05P
+  Performance Criteria: remove tough cooked-on, carbonized, dehydrated or stubborn residual debris or stains
+  Evidence of Attainment: tough cooked-on, carbonized, dehydrated or stubborn residual debris or stains are removed using cleaning tools and equipment
+
+- A-2.05.06P
+  Performance Criteria: rinse and dry utensils, tools, equipment and appliances
+  Evidence of Attainment: utensils, tools, equipment and appliances are rinsed and dried thoroughly
+
+RANGE OF VARIABLES:
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- cleaning procedures include: use of chemicals, three-sink method, proper heat and drying techniques
+- cleaning tools and equipment include: dishwasher, thermometer, scouring pads, brushes, cloths, sinks, buckets
+
+KNOWLEDGE:
+
+- A-2.05.01L
+  Learning Outcomes: demonstrate knowledge of cleaning tools identify cleaning tools and equipment, and equipment procedures for use identify cleaning products, and describe their applications and procedures for use
+  Learning Objectives:
+  - and describe their applications and
+
+- A-2.05.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to clean tools and equipment
+  Learning Objectives:
+  - describe procedures used to disassemble and assemble tools and equipment, and their accessories for cleaning purposes
+  - describe cleaning procedures
+
+- A-2.05.03L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to cleaning tools and equipment
+  Learning Objectives:
+  - interpret jurisdictional regulations pertaining to cleaning tools and equipment
+
+RANGE OF VARIABLES:
+- cleaning tools and equipment include: dishwasher, thermometer, scouring pads, brushes, cloths, sinks, buckets
+- cleaning procedures include: use of chemicals, three-sink method, proper heat and drying techniques
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+SUB-TASK A-2.06 | Sanitizes tools and equipment
+
+SKILLS:
+
+- A-2.06.01P
+  Performance Criteria: identify utensils, tools, equipment and appliances to be sanitized
+  Evidence of Attainment: utensils, tools, equipment and appliances to be sanitized are identified
+
+- A-2.06.02P
+  Performance Criteria: apply sanitization procedures
+  Evidence of Attainment: sanitization procedures are applied according to company policies and jurisdictional regulations
+
+- A-2.06.03P
+  Performance Criteria: apply sanitizing solution
+  Evidence of Attainment: sanitizing solution is applied according to company policies and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- sanitization procedures include: use of chemicals, using test strips to measure pH, proper heat and drying techniques
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- A-2.06.01L
+  Learning Outcomes: demonstrate knowledge of sanitizing tools and equipment
+  Learning Objectives:
+  - identify sanitizing tools and equipment, and describe their applications and procedures for use
+  - identify sanitizing products and describe their applications and procedures for use
+
+- A-2.06.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to sanitize tools and equipment
+  Learning Objectives:
+  - describe procedures used to disassemble and assemble tools and equipment and their accessories for sanitizing purposes
+  - describe three-sink method of sanitization
+  - describe sanitization procedures
+
+- A-2.06.03L
+  Learning Outcomes: demonstrate knowledge of regulatory requirements pertaining to sanitization of tools and equipment
+  Learning Objectives:
+  - interpret jurisdictional regulations pertaining to sanitization of tools and equipment
+
+RANGE OF VARIABLES:
+- sanitizing tools and equipment include: dishwasher, thermometer, spray bottles, sinks, buckets, cloths
+- sanitization procedures include: use of chemicals, using test strips to measure pH, proper heat and drying techniques
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations

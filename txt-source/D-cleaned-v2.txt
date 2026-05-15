@@ -1,0 +1,368 @@
+MAJOR WORK ACTIVITY D
+Stocks, Broths and Soups
+
+TASK D-13 | Prepares stocks and broths
+Cooks prepare stocks and broths to provide flavour and texture for a variety of products and applications. Selecting proper ingredients for the stock or broth is a critical step in the preparation process.
+
+SUB-TASKS:
+
+SUB-TASK D-13.01 | Selects stock and broth ingredients
+
+SKILLS:
+
+- D-13.01.01P
+  Performance Criteria: identify and choose ingredients
+  Evidence of Attainment: ingredients are identified and chosen according to stock or broth desired
+
+- D-13.01.02P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality of ingredients are identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- ingredients include: bones, vegetables, aromatics, water, proteins
+- indicators of freshness and quality include: firmness, colour, texture
+
+KNOWLEDGE:
+
+- D-13.01.01L
+  Learning Outcomes: demonstrate knowledge of stocks and broths, and their applications
+  Learning Objectives:
+  - define terminology associated with stocks and broths
+  - identify types of stocks, and describe their characteristics, applications and procedures for use
+  - identify types of broths, and describe their characteristics, applications and procedures for use
+  - identify factors to consider when selecting ingredients for stocks and broths
+  - identify ingredients and ratios used in stocks and broths
+  - identify dietary requirements specific to stocks and broths
+
+- D-13.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for stocks and broths
+  Learning Objectives:
+  - describe procedures used to select ingredients for stocks and broths
+
+RANGE OF VARIABLES:
+- types of stocks include: white, brown, court-bouillon, fumet
+- types of broths include: dashi, emulsif ied, clear, bone, miso
+- factors include: freshness, cost, fat content, intended application, type of bone, cartilage content, managing trim, availability of ingredients
+- ingredients include: bones, vegetables, aromatics, water, proteins
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK D-13.02 | Processes stock and broth ingredients
+
+SKILLS:
+
+- D-13.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- D-13.02.02P
+  Performance Criteria: calculate quantity of ingredients
+  Evidence of Attainment: quantity of ingredients for yield are calculated according to recipe specifications
+
+- D-13.02.03P
+  Performance Criteria: gather ingredients
+  Evidence of Attainment: individual ingredients are gathered and accessible in a sequential manner according to recipe specifications
+
+- D-13.02.04P
+  Performance Criteria: measure ingredients
+  Evidence of Attainment: ingredients are measured according to recipe specifications
+
+- D-13.02.05P
+  Performance Criteria: prepare ingredients
+  Evidence of Attainment: ingredients are prepared according to recipe specifications
+
+RANGE OF VARIABLES:
+- tools and equipment include: strainers, spigot pots, roasting pans, skimmers, stock pots, cutting boards, knives, scales, cheese cloth, butchers twine
+- ingredients include: bones, vegetables, aromatics, water, proteins
+
+KNOWLEDGE:
+
+- D-13.02.01L
+  Learning Outcomes: demonstrate knowledge of stocks and broths and their applications
+  Learning Objectives:
+  - define terminology associated with stocks and broths
+  - identify types of stocks, and describe their characteristics, applications and procedures for use
+  - identify types of broths, and describe their characteristics, applications and procedures for use
+  - identify factors to consider when processing ingredients for stocks and broths
+  - identify ingredients and ratios used in stocks and broths
+  - identify dietary requirements specific to stocks and broths
+
+- D-13.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process ingredients for stocks and broths
+  Learning Objectives:
+  - describe procedures used to process ingredients for stocks and broths
+
+RANGE OF VARIABLES:
+- types of stocks include: white, brown, court-bouillon, fumet
+- types of broths include: dashi, emulsif ied, clear, bone, miso
+- factors include: freshness, cost, fat content, intended application, type of bone, cartilage content, managing trim, availability of ingredients
+- ingredients include: bones, vegetables, aromatics, water, proteins
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK D-13.03 | Cooks stocks and broths
+
+SKILLS:
+
+- D-13.03.01P
+  Performance Criteria: cook ingredients
+  Evidence of Attainment: ingredients are cooked according to recipe specifications
+
+- D-13.03.02P
+  Performance Criteria: prepare bones and vegetables
+  Evidence of Attainment: bones and vegetables are prepared according to recipe specifications
+
+- D-13.03.03P
+  Performance Criteria: deglaze cooking vessel
+  Evidence of Attainment: cooking vessel is deglazed by adding liquid to base to capture flavour profile according to recipe specifications
+
+- D-13.03.04P
+  Performance Criteria: bring stock to simmer
+  Evidence of Attainment: stock is simmered according to recipe specifications
+
+- D-13.03.05P
+  Performance Criteria: monitor broth temperature
+  Evidence of Attainment: broth temperature is monitored according to recipe specifications
+
+- D-13.03.06P
+  Performance Criteria: skim stock or broth
+  Evidence of Attainment: stock or broth is skimmed to remove impurities to ensure desired consistency and flavour according to recipe specifications
+
+- D-13.03.07P
+  Performance Criteria: monitor cooking time and aromatics
+  Evidence of Attainment: cooking time and aromatics are monitored according to recipe specifications and desired results
+
+- D-13.03.08P
+  Performance Criteria: reduce stock or broth
+  Evidence of Attainment: stock or broth is reduced to a concentrate according to desired results
+
+- D-13.03.09P
+  Performance Criteria: strain and filter stock or broth
+  Evidence of Attainment: stock or broth is strained and filtered to remove undesired elements
+
+- D-13.03.10P
+  Performance Criteria: evaluate quality and clarity of stock or broth
+  Evidence of Attainment: quality and clarity of stock or broth is evaluated according to sensory assessments
+
+- D-13.03.11P
+  Performance Criteria: cool finished stock or broth
+  Evidence of Attainment: finished stocks or broths are cooled using methods according to jurisdictional regulations and manufacturers’ specifications
+
+RANGE OF VARIABLES:
+- ingredients include: bones, vegetables, aromatics, water, proteins
+- methods include: ice wands, venting, blast chiller, water bath
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- D-13.03.01L
+  Learning Outcomes: demonstrate knowledge of stocks and broths and their applications
+  Learning Objectives:
+  - define terminology associated with stocks and broths
+  - identify types of stocks, and describe their characteristics, applications and procedures for use
+  - identify types of broths, and describe their characteristics, applications and procedures for use
+  - identify factors to consider when cooking stocks and broths
+  - identify ingredients and ratios used in stocks and broths
+  - identify dietary requirements specific to stocks and broths
+  - identify methods for cooling stocks and broths
+  - identify jurisdictional regulations for cooking, holding and storing stocks and broths
+
+- D-13.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to prepare and cool stocks and broths
+  Learning Objectives:
+  - describe procedures used to prepare stocks and broths
+  - describe methods for cooling stocks and broths
+
+RANGE OF VARIABLES:
+- types of stocks include: white, brown, court-bouillon, fumet
+- types of broths include: dashi, emulsif ied, clear, bone, miso
+- factors include: fat content, intended application, type of bone, cartilage content, managing trim, availability of ingredients
+- ingredients include: bones, vegetables, aromatics, water, proteins
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: ice wands, venting, blast chiller, water bath
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- procedures include: selecting cooking time and temperature, straining, reduction, de-glace, skimming
+
+TASK D-14 | Prepares soups
+Soup flavour, consistency, temperature and texture are important factors to achieve quality results when preparing soups. Soups incorporate stocks, broths, vegetables, proteins and dairy.
+
+SUB-TASKS:
+
+SUB-TASK D-14.01 | Selects soup ingredients
+
+SKILLS:
+
+- D-14.01.01P
+  Performance Criteria: identify and choose ingredients
+  Evidence of Attainment: ingredients are identified and chosen according to recipe specifications
+
+- D-14.01.02P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality of ingredients are identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- indicators of freshness and quality include: firmness, colour, texture
+
+KNOWLEDGE:
+
+- D-14.01.01L
+  Learning Outcomes: demonstrate knowledge of soups and their applications
+  Learning Objectives:
+  - define terminology associated with soups
+  - identify types of soups, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for soups
+  - identify serving temperatures by types of soups
+  - identify dietary requirements specific to soups
+
+- D-14.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select soup ingredients
+  Learning Objectives:
+  - describe procedures used to select soup ingredients
+
+RANGE OF VARIABLES:
+- types of soups include: clear, consommés, cream, puréed, specialty/international, cold
+- factors include: freshness, cost, fat content, intended application, managing trim, availability of ingredients
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK D-14.02 | Processes soup ingredients
+
+SKILLS:
+
+- D-14.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- D-14.02.02P
+  Performance Criteria: calculate quantity of ingredients
+  Evidence of Attainment: quantity of ingredients for yield are calculated according to recipe specifications
+
+- D-14.02.03P
+  Performance Criteria: gather ingredients
+  Evidence of Attainment: individual ingredients are gathered and accessible in a sequential manner according to recipe specifications
+
+- D-14.02.04P
+  Performance Criteria: measure ingredients
+  Evidence of Attainment: ingredients are measured according to recipe specifications
+
+RANGE OF VARIABLES:
+- tools and equipment include: scales, cutting boards, knives, whisks, food processors, cheese cloths
+
+KNOWLEDGE:
+
+- D-14.02.01L
+  Learning Outcomes: demonstrate knowledge of soups and their applications
+  Learning Objectives:
+  - define terminology associated with soups
+  - identify types of soups, and describe their characteristics and serving temperatures
+  - identify factors to consider when processing ingredients for soups
+  - identify dietary requirements specific to soups
+
+- D-14.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process ingredients for soups
+  Learning Objectives:
+  - describe procedures used to process ingredients for soups
+
+RANGE OF VARIABLES:
+- types of soups include: clear, consommés, cream, puréed, specialty/international, cold
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK D-14.03 | Cooks soups
+
+SKILLS:
+
+- D-14.03.01P
+  Performance Criteria: select tools and equipment
+  Evidence of Attainment: tools and equipment are selected according to recipe specifications
+
+- D-14.03.02P
+  Performance Criteria: combine ingredients
+  Evidence of Attainment: ingredients are combined in sequence according to recipe specifications
+
+- D-14.03.03P
+  Performance Criteria: clarify consommés
+  Evidence of Attainment: consommés are clarified according to recipe specifications
+
+- D-14.03.04P
+  Performance Criteria: monitor cooking time and aromatics
+  Evidence of Attainment: cooking time and aromatics are monitored according to recipe specifications and desired results
+
+- D-14.03.05P
+  Performance Criteria: incorporate thickening agents
+  Evidence of Attainment: thickening agents are incorporated to achieve desired results
+
+- D-14.03.06P
+  Performance Criteria: adjust soup characteristics
+  Evidence of Attainment: soup characteristics are adjusted to achieve desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: whisks, food processor, cheese cloth, spoon, spatula, strainers, steam kettle, soup pot
+- thickening agents include: roux, purees, modified starches, eggs
+- soup characteristics include: taste, thickness, texture, appearance, colour, temperature
+
+KNOWLEDGE:
+
+- D-14.03.01L
+  Learning Outcomes: demonstrate knowledge of soups and their applications
+  Learning Objectives:
+  - define terminology associated with soups
+  - identify types of soups, and describe their characteristics and serving temperatures
+  - identify factors to consider when cooking soups
+  - identify dietary requirements specific to soups
+  - identify thickening agents
+
+- D-14.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to prepare soups
+  Learning Objectives:
+  - describe procedures used to prepare soups
+  - describe procedures used to clarify consommés
+  - describe procedures used to thicken soups
+
+RANGE OF VARIABLES:
+- types of soups include: clear, consommés, cream, puréed, specialty/international, cold
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- thickening agents include: roux, purees, modified starches, eggs
+- procedures (to prepare) include: selecting cooking time and temperature, straining, reducing, deglazing, skimming, puréeing
+
+SUB-TASK D-14.04 | Finishes soups
+
+SKILLS:
+
+- D-14.04.01P
+  Performance Criteria: adjust soup characteristics
+  Evidence of Attainment: soup characteristics are adjusted to achieve desired results
+
+- D-14.04.02P
+  Performance Criteria: cool soup
+  Evidence of Attainment: soup is cooled according to jurisdictional regulations and desired results
+
+- D-14.04.03P
+  Performance Criteria: prepare finishing ingredients
+  Evidence of Attainment: finishing ingredients are prepared using methods according to recipe specifications and desired results
+
+- D-14.04.04P
+  Performance Criteria: garnish soup
+  Evidence of Attainment: soup is garnished according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- soup characteristics include: taste, thickness, texture, appearance, colour, temperature
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- D-14.04.01L
+  Learning Outcomes: demonstrate knowledge of soups and their applications
+  Learning Objectives:
+  - define terminology associated with soups
+  - identify types of soups, and describe their characteristics and serving temperatures
+  - identify factors to consider when assembling soups
+  - identify dietary requirements specific to soups
+
+- D-14.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to complete soups
+  Learning Objectives:
+  - describe procedures used to cool soups
+  - describe methods used to prepare finishing ingredients
+  - describe presentation and finishing techniques
+
+RANGE OF VARIABLES:
+- types of soups include: clear, consommés, cream, puréed, specialty/international, cold
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: blanching, sautéing, roasting, steaming, boiling

@@ -1,0 +1,441 @@
+MAJOR WORK ACTIVITY J
+Fish and Seafood
+
+TASK J-27 | Prepares fin fish
+There is a wide variety of fin fish (freshwater, saltwater, round fish and flat fish) and freshness and quality are paramount. Cooks must understand the importance of proper handling, storing, preparation and cooking methods. They must take particular care in their preparation in order to avoid waste and to adhere to jurisdictional codes and regulations. In this document, tasks related to fin fish are categorized separately from those related to other seafood (e.g. shell fish, bivalves, cephalopods).
+
+SUB-TASKS:
+
+SUB-TASK J-27.01 | Selects fin fish
+
+SKILLS:
+
+- J-27.01.01P
+  Performance Criteria: identify fin fish characteristics and factors
+  Evidence of Attainment: fin fish characteristics and factors are identified
+
+- J-27.01.02P
+  Performance Criteria: identify origin of fin fish
+  Evidence of Attainment: origin of fin fish is identified
+
+- J-27.01.03P
+  Performance Criteria: identify fresh and previously frozen fin fish
+  Evidence of Attainment: fresh and previously frozen fin fish are identified for proper application and handling according to recipe specifications and jurisdictional regulations
+
+- J-27.01.04P
+  Performance Criteria: determine freshness of fin fish
+  Evidence of Attainment: freshness of fin fish is determined using sensory assessments to ensure quality
+
+- J-27.01.05P
+  Performance Criteria: identify cut specifications
+  Evidence of Attainment: cut specifications are identified according to application and recipe specifications
+
+RANGE OF VARIABLES:
+- fin fish characteristics include: round, flat, oily, lean, flavour intensity, texture
+- factors include: local availability, seasonal availability, freshness, storage life, applications, processed, sustainability, origin, documentation
+- origin includes: wild, farmed, freshwater, saltwater
+- fin fish includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- J-27.01.01L
+  Learning Outcomes: demonstrate knowledge of fin fish and their applications
+  Learning Objectives:
+  - define terminology associated with fin fish
+  - identify hazards, and describe safe work practices and precautions pertaining to handling fin fish
+  - interpret jurisdictional regulations pertaining to inspection of fin fish
+  - identify origin of fin fish, and describe their characteristics and applications
+  - identify factors to consider when selecting fin fish
+  - identify dietary requirements specific to fin fish
+  - identify market forms of fin fish, and describe their characteristics and applications
+
+- J-27.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select fin fish
+  Learning Objectives:
+  - describe procedures used to verify quality and cuts of fin fish using sensory assessments
+  - describe procedures used to select fin fish
+
+- J-27.01.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle raw fin fish
+  Learning Objectives:
+  - describe procedures used to handle raw fin fish
+
+RANGE OF VARIABLES:
+- fin fish includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- origin includes: wild, farmed, freshwater, saltwater
+- factors include: local availability, seasonal availability, freshness, storage life, applications, processed, sustainability, origin, documentation
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: whole, fresh, frozen, IQF, purchased food service cuts
+
+SUB-TASK J-27.02 | Processes fin fish
+
+SKILLS:
+
+- J-27.02.01P
+  Performance Criteria: select and use processing tools and equipment
+  Evidence of Attainment: processing tools and equipment are selected and used according to recipe specifications and desired results
+
+- J-27.02.02P
+  Performance Criteria: defrost fin fish
+  Evidence of Attainment: fin fish is defrosted maintaining quality and cell structure
+
+- J-27.02.03P
+  Performance Criteria: prepare fin fish
+  Evidence of Attainment: fin fish is prepared using methods according to desired results and recipe specifications
+
+- J-27.02.04P
+  Performance Criteria: minimize waste and utilize trim for other uses
+  Evidence of Attainment: waste is minimized and trim utilized for other uses
+
+- J-27.02.05P
+  Performance Criteria: select seasonings
+  Evidence of Attainment: seasonings are selected according to recipe specifications
+
+RANGE OF VARIABLES:
+- tools and equipment include: scalers, knives, pliers, tweezers, cutting boards, scale
+- fin fish includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- methods include: cleaning, cutting, slicing, scaling, trimming, de-boning, portioning, filleting, skinning, eviscerating, dressing, brining, marinating, curing, smoking
+- other uses include: mousses, quenelles, patties, stock
+
+KNOWLEDGE:
+
+- J-27.02.01L
+  Learning Outcomes: demonstrate knowledge of fin fish and their applications
+  Learning Objectives:
+  - define terminology associated with processing fin fish
+  - identify hazards, and describe safe work practices and precautions pertaining to handling fin fish
+  - identify origin of fin fish, and describe their characteristics and applications
+  - identify factors to consider when processing fin fish
+  - identify dietary requirements specific to fin fish
+
+- J-27.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process fin fish
+  Learning Objectives:
+  - describe procedures used to verify quality and cuts of fin fish using sensory assessment
+  - describe methods used to process fin fish
+
+- J-27.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store live and raw fin fish
+  Learning Objectives:
+  - describe procedures used to handle and store live and raw fin fish
+
+RANGE OF VARIABLES:
+- fin fish includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- origin includes: wild, farmed, freshwater, saltwater
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: cleaning, cutting, slicing, scaling, trimming, de-boning, portioning, filleting, skinning, eviscerating, dressing, brining, marinating, curing, s moking
+
+SUB-TASK J-27.03 | Cooks fin fish
+
+SKILLS:
+
+- J-27.03.01P
+  Performance Criteria: select and use tools and equipment for tools and equipment for cooking fin fish cooking fin fish specifications and desired results
+  Evidence of Attainment: are selected and used according to recipe
+
+- J-27.03.02P
+  Performance Criteria: season fin fish
+  Evidence of Attainment: fin fish is seasoned according to recipe specifications and desired results
+
+- J-27.03.03P
+  Performance Criteria: determine time required for cooking fin fish
+  Evidence of Attainment: time required for cooking fin fish is determined according to type of fish, thickness, desired degree of doneness and recipe specifications
+
+- J-27.03.04P
+  Performance Criteria: apply cooking methods
+  Evidence of Attainment: cooking methods are applied according to recipe specifications and desired results
+
+- J-27.03.05P
+  Performance Criteria: determine fin fish doneness
+  Evidence of Attainment: fin fish doneness is determined by using methods
+
+RANGE OF VARIABLES:
+- tools and equipment include: pan, grill, oven, smoker, griddle, slotted spatula
+- fin fish includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- cooking methods include: poaching, steaming, pan searing, deep -frying, smoking, broiling, braising , roasting
+- methods to determine doneness include: temperature readings, needle test, sensory assessment
+
+KNOWLEDGE:
+
+- J-27.03.01L
+  Learning Outcomes: demonstrate knowledge of cooking fin fish and their applications
+  Learning Objectives:
+  - define terminology associated with cooking fin fish
+  - identify hazards, and describe safe work practices and precautions pertaining to cooking and handling fin fish
+  - identify dietary requirements specific to fin fish
+  - identify factors to consider when cooking fin fish
+
+- J-27.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook fin fish and related dishes
+  Learning Objectives:
+  - describe methods to determine doneness
+  - identify cooking methods used to cook fin fish, and describe their associated procedures
+
+- J-27.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold and store cooked fin fish and related dishes
+  Learning Objectives:
+  - describe procedures used to handle, hold and store cooked fin fish and related dishes
+
+RANGE OF VARIABLES:
+- fin fish includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- factors include: skin-on, skin-of f , size, timing, bone-in, bone-out, texture
+- methods to determine doneness include: temperature readings, needle test, sensory assessment
+- cooking methods include: poaching, steaming, pan searing, deep -frying, smoking, broiling, braising , roasting
+
+SUB-TASK J-27.04 | Finishes fin fish
+
+SKILLS:
+
+- J-27.04.01P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied according to recipe specifications and desired results
+
+- J-27.04.02P
+  Performance Criteria: adjust seasoning
+  Evidence of Attainment: seasoning is adjusted according to recipe specifications and desired results
+
+- J-27.04.03P
+  Performance Criteria: garnish
+  Evidence of Attainment: fin fish is garnished according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- finishing techniques include: broiling, crusting, resting, glazing, torching, smoking, saucing, presentation
+- fin fish (various formats) includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+
+KNOWLEDGE:
+
+- J-27.04.01L
+  Learning Outcomes: demonstrate knowledge of finishing cooked and raw fin fish and their applications
+  Learning Objectives:
+  - define terminology associated with finishing cooked and raw fin fish
+  - identify hazards, and describe safe work practices and precautions pertaining to serving, holding, handling and storing cooked and raw fin fish
+  - identify dietary requirements specific to fin fish
+  - identify factors to consider when finishing cooked and raw fin fish and related dishes
+
+- J-27.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures describe finishing techniques, including used to finish cooked and raw fin fish and garnishes and accompaniments related dishes
+  Learning Objectives:
+
+- J-27.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold, serve and store cooked and raw fin fish and related dishes
+  Learning Objectives:
+  - describe procedures used to handle, hold, serve and store cooked and raw fin fish and related dishes
+
+RANGE OF VARIABLES:
+- fin fish (various formats) includes: perch, pickerel, salmonids, cod, mahi mahi, halibut, snapper, sardines, tuna
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- factors include: handling, skin-on, skin-of f , texture, fat content, tool selection
+- finishing techniques include: broiling, crusting, resting, glazing, torching, smoking, saucing, presentation
+
+TASK J-28 | Prepares seafood
+TASK DESCRIPTOR There is a wide variety of seafood. In this document, "seafood" is meant to categorize items other than fin fish, and include shell fish, bivalves and cephalopods. Seafood includes both salt-water and freshwater products, and freshness and quality are paramount. Cooks must understand the importance of properly storing and preparing a variety of selected seafood. Extra precautions must be taken while handling raw and cooked seafood due to their delicate nature and dietary requirements relating to seafood. They must take particular care in their preparation in order to avoid waste and to adhere to jurisdictional codes and regulations.
+
+SUB-TASKS:
+
+SUB-TASK J-28.01 | Selects seafood
+
+SKILLS:
+
+- J-28.01.01P
+  Performance Criteria: identify fresh and frozen seafood
+  Evidence of Attainment: fresh and frozen seafood are identified for proper application and handling according to recipe specifications and desired results
+
+- J-28.01.02P
+  Performance Criteria: determine freshness and quality of seafood
+  Evidence of Attainment: freshness and quality of seafood are determined using sensory assessment
+
+- J-28.01.03P
+  Performance Criteria: choose seafood
+  Evidence of Attainment: seafood is chosen according to size and recipe specifications
+
+RANGE OF VARIABLES:
+- seafood includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe
+
+KNOWLEDGE:
+
+- J-28.01.01L
+  Learning Outcomes: demonstrate knowledge of seafood and their applications
+  Learning Objectives:
+  - define terminology associated with seafood
+  - identify hazards, and describe safe work practices and precautions pertaining to handling and storing seafood
+  - interpret jurisdictional regulations pertaining to seafood
+  - identify classifications and types of seafood, and describe their characteristics and applications
+  - identify factors to consider when selecting seafood
+  - identify dietary requirements specific to seafood
+  - identify market forms (prepared and packaged) of seafood and describe their characteristics and applications
+  - identify regional species, and describe their characteristics and applications
+
+- J-28.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select seafood
+  Learning Objectives:
+  - describe procedures used to verify quality of seafood using sensory assessment
+  - describe procedures used to store seafood
+
+RANGE OF VARIABLES:
+- seafood includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- factors include: local availability, seasonal availability, freshness, storage life, applications, processed, sustainability, origin, documentation
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: size, shape, packaging, fresh, frozen, IQF, live, peeled, de-veined, shucked
+
+SUB-TASK J-28.02 | Processes seafood
+
+SKILLS:
+
+- J-28.02.01P
+  Performance Criteria: select and use processing tools and equipment
+  Evidence of Attainment: processing tools and equipment are selected and used according to recipe specifications and desired results
+
+- J-28.02.02P
+  Performance Criteria: defrost frozen seafood
+  Evidence of Attainment: frozen seafood defrosting time is calculated according to type and size to ensure tempering according to jurisdictional regulations and recipe specifications
+
+- J-28.02.03P
+  Performance Criteria: sort, wash and clean seafood
+  Evidence of Attainment: seafood is sorted, washed and cleaned according to recipe specifications
+
+- J-28.02.04P
+  Performance Criteria: prepare seafood
+  Evidence of Attainment: seafood is prepared using methods according to use and recipe specifications
+
+- J-28.02.05P
+  Performance Criteria: separate protein from shell and process protein is separated from shell and shell shell
+  Evidence of Attainment: processed for other uses
+
+- J-28.02.06P
+  Performance Criteria: select seasonings and aromatics
+  Evidence of Attainment: seasonings and aromatics are selected according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: shucker, scissors, brushes, knives seafood includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- sort includes: identifying live, unusable, damaged seafood, sorting by size and shape
+- methods include: shucking, shelling, de-veining, de-bearding, cutting, trimming, skinning, cleaning, portioning
+- process shell includes: cleaning, polishing, drying
+- other uses include: stocks, sauces, soups, presentation
+
+KNOWLEDGE:
+
+- J-28.02.01L
+  Learning Outcomes: demonstrate knowledge of processing seafood and their applications
+  Learning Objectives:
+  - define terminology associated with processing seafood
+  - identify hazards, and describe safe work practices and precautions pertaining to handling, and storing seafood
+  - identify factors to consider when processing seafood
+  - identify dietary requirements specific to seafood
+
+- J-28.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process seafood
+  Learning Objectives:
+  - describe procedures used to verify quality of seafood
+  - describe procedures used to handle live seafood
+  - describe procedures used to process seafood
+  - describe procedures used to marinate, cure, smoke and pickle seafood
+
+- J-28.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to store raw and cooked seafood
+  Learning Objectives:
+  - describe procedures used to store raw and cooked seafood
+
+RANGE OF VARIABLES:
+- seafood includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe
+- factors include: local availability, seasonal availability, freshness, storage life, applications, processed, sustainability, origin, documentation
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK J-28.03 | Cooks seafood
+
+SKILLS:
+
+- J-28.03.01P
+  Performance Criteria: select and use cooking methods
+  Evidence of Attainment: cooking methods are selected and used according to type of seafood, recipe specifications and desired results
+
+- J-28.03.02P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to type of seafood, recipe specifications and desired results
+
+- J-28.03.03P
+  Performance Criteria: calculate cooking time
+  Evidence of Attainment: cooking time for seafood is calculated according to size and cooking methods to achieve desired results
+
+- J-28.03.04P
+  Performance Criteria: determine seafood doneness
+  Evidence of Attainment: seafood doneness is determined by using methods to determine doneness
+
+RANGE OF VARIABLES:
+- cooking methods include: poaching, steaming, pan searing, deep-frying, pan-frying, broiling, braising, baking, smoking seafood includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe
+- tools and equipment include: pans, pots, steamers, smokers, ovens, grills , deep-fryers
+- methods to determine doneness include: temperature readings, needle test, sensory assessment
+
+KNOWLEDGE:
+
+- J-28.03.01L
+  Learning Outcomes: demonstrate knowledge of seafood and their applications
+  Learning Objectives:
+  - define terminology associated with seafood
+  - identify hazards, and describe safe work practices and precautions pertaining to cooking seafood
+  - identify factors to consider when cooking seafood
+  - identify dietary requirements specific to seafood
+
+- J-28.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook seafood
+  Learning Objectives:
+  - describe procedures used to determine doneness of seafood
+  - identify cooking methods used to cook seafood and describe their associated procedures
+
+- J-28.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold and store cooked seafood
+  Learning Objectives:
+  - describe procedures used to handle, hold and store cooked seafood
+
+RANGE OF VARIABLES:
+- seafood includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe
+- factors include: variety, size, in-shell, out-of -shell
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- cooking methods include: poaching, steaming, pan searing, deep-frying, pan-frying, broiling, braising, baking, smoking
+
+SUB-TASK J-28.04 | Finishes seafood
+
+SKILLS:
+
+- J-28.04.01P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied according to recipe specifications and desired results
+
+- J-28.04.02P
+  Performance Criteria: adjust seasoning
+  Evidence of Attainment: seasoning is adjusted according to recipe specifications and desired results
+
+- J-28.04.03P
+  Performance Criteria: garnish
+  Evidence of Attainment: seafood is garnished according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- finishing techniques include: broiling, crusting, resting, glazing, torching, smoking, saucing, presentation seafood (various formats) includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe,
+
+KNOWLEDGE:
+
+- J-28.04.01L
+  Learning Outcomes: demonstrate knowledge of seafood and their applications
+  Learning Objectives:
+  - define terminology associated with seafood
+  - identify hazards, and describe safe work practices and precautions pertaining to serving, handling, and storing seafood
+  - identify dietary requirements specific to seafood
+
+- J-28.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish seafood and seafood dishes
+  Learning Objectives:
+  - describe finishing techniques, including garnishes and accompaniments
+
+- J-28.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold, serve and store seafood
+  Learning Objectives:
+  - describe procedures used to handle, hold, serve and store seafood
+
+RANGE OF VARIABLES:
+- seafood (various formats) includes (for this task does not include fin fish): clams, oysters, mussels, lobster, crayfish, shrimp, squid, octopus, jellyfish, roe,
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- finishing techniques include: broiling, crusting, resting, glazing, torching, smoking, saucing, presentation

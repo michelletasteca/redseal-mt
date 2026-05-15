@@ -1,0 +1,598 @@
+MAJOR WORK ACTIVITY C
+Produce
+
+TASK C-10 | Prepares herbs and spices
+Herbs and spices provide flavouring and serve as a garnish to enhance the finished product. Cooks need to be knowledgeable in the various types of herbs and spices and their applications . They select, clean and process the herbs and spices that are used in various recipes.
+
+SUB-TASKS:
+
+SUB-TASK C-10.01 | Selects herbs and spices
+
+SKILLS:
+
+- C-10.01.01P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality are identified according to desired results
+
+- C-10.01.02P
+  Performance Criteria: identify herbs and spices
+  Evidence of Attainment: herbs and spices to complement flavours in recipe are identified
+
+- C-10.01.03P
+  Performance Criteria: choose herbs and spices
+  Evidence of Attainment: herbs and spices are chosen according to desired results
+
+RANGE OF VARIABLES:
+- indicators of freshness and quality include: hydration, colour, texture
+- herbs include: rosemary, mint, thyme, basil
+- spices include: peppercorn, nutmeg, cumin
+
+KNOWLEDGE:
+
+- C-10.01.01L
+  Learning Outcomes: demonstrate knowledge of herbs and spices, their characteristics, applications and procedures for use
+  Learning Objectives:
+  - identify herbs and spices used to enhance flavour of foods, and describe their characteristics, applications and procedures for use
+  - identify types of herbs and spices, and describe their characteristics, applications and procedures for use
+  - describe indicators of freshness and quality when selecting herbs and spices
+
+RANGE OF VARIABLES:
+- herbs include: rosemary, mint, thyme, basil
+- spices include: peppercorn, nutmeg, cumin
+- types of herbs and spices include: dry, fresh, frozen, paste
+- indicators of freshness and quality include: hydration, colour, texture
+
+SUB-TASK C-10.02 | Cleans herbs
+
+SKILLS:
+
+- C-10.02.01P
+  Performance Criteria: clean herbs
+  Evidence of Attainment: herbs are cleaned using methods according to recipe specifications
+
+- C-10.02.02P
+  Performance Criteria: maintain quality of herbs
+  Evidence of Attainment: herbs are cleaned gently to maintain quality and freshness
+
+RANGE OF VARIABLES:
+- herbs include: rosemary, mint, thyme, basil
+- methods include: soaking, rinsing, shaking, drying
+
+KNOWLEDGE:
+
+- C-10.02.01L
+  Learning Outcomes: demonstrate knowledge of procedures used to clean herbs
+  Learning Objectives:
+  - describe methods used to clean herbs
+  - describe procedures used to maintain quality of herbs during cleaning
+  - explain why herb quality and freshness should be maintained during cleaning
+
+RANGE OF VARIABLES:
+- methods include: soaking, rinsing, shaking, drying
+- herbs include: rosemary, mint, thyme, basil
+
+SUB-TASK C-10.03 | Processes herbs and spices
+
+SKILLS:
+
+- C-10.03.01P
+  Performance Criteria: use tools and equipment
+  Evidence of Attainment: tools and equipment are used according to manufacturers’ specifications
+
+- C-10.03.02P
+  Performance Criteria: prepare herbs and spices and apply processing techniques
+  Evidence of Attainment: herbs and spices are prepared and processing techniques applied according to recipe specifications and desired results
+
+- C-10.03.03P
+  Performance Criteria: prepare herb and spice-flavoured oils, vinegars and pastes
+  Evidence of Attainment: herb and spice-flavoured oils, vinegars and pastes are prepared according to recipe specifications
+
+- C-10.03.04P
+  Performance Criteria: maintain quality of herbs and spices
+  Evidence of Attainment: quality of herbs and spices is maintained during storage and application
+
+RANGE OF VARIABLES:
+- tools and equipment include: mortar and pestle, grinders, knives, graters
+- herbs include: rosemary, mint, thyme, basil
+- spices include: peppercorn, nutmeg, cumin
+- processing techniques include: chopping, tearing, rubbing, crushing, roasting
+
+KNOWLEDGE:
+
+- C-10.03.01L
+  Learning Outcomes: demonstrate knowledge of procedures used to process herbs and spices
+  Learning Objectives:
+  - identify types of tools and equipment used to process herbs and spices
+  - explain secondary storage procedures
+  - describe finishing techniques when processing herbs and spices
+  - identify time required in preparing and processing herbs and spices for use in a variety of dishes
+  - identify ratios between dry and fresh herbs and spices
+
+RANGE OF VARIABLES:
+- tools and equipment include: mortar and pestle, grinders, knives, graters
+- herbs include: rosemary, mint, thyme, basil
+- spices include: peppercorn, nutmeg, cumin
+
+TASK C-11 | Prepares vegetables
+Vegetables are an important staple of all meals and it is essential for the cook to be able to select, prepare, cook and finish vegetables to retain quality, flavour and nutrients.
+
+SUB-TASKS:
+
+SUB-TASK C-11.01 | Selects vegetables
+
+SKILLS:
+
+- C-11.01.01P
+  Performance Criteria: identify vegetables
+  Evidence of Attainment: vegetables are identified according to availability, recipe specifications, market form and desired result
+
+- C-11.01.02P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality of vegetables are identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- market forms include: peeled, dehydrated, whole, cut, bulk frozen, individual quick frozen (IQF), canned
+- indicators of freshness and quality include: firmness, colour, texture, aroma
+
+KNOWLEDGE:
+
+- C-11.01.01L
+  Learning Outcomes: demonstrate knowledge of vegetables, their characteristics and applications
+  Learning Objectives:
+  - define terminology associated with vegetables
+  - identify vegetables and describe their characteristics and applications
+  - identify vegetable classifications, and describe their characteristics and applications
+  - describe indicators of freshness and quality
+  - identify factors that affect flavour, colour, texture and nutrients of vegetables
+  - identify factors to consider when selecting vegetables
+  - identify market forms (prepared and packaged) of vegetables, and describe their characteristics and applications
+  - identify dietary requirements specific to vegetables
+
+RANGE OF VARIABLES:
+- vegetable classifications include: leaf , root, tuber, crucif erous
+- indicators of freshness and quality include: firmness, colour, texture, aroma
+- factors that affect flavour, colour, texture and nutrients of vegetables include: cooking process, acids/alkalis, water amounts, size, cut
+- factors to consider when selecting vegetables include: local availability, seasonal availability, freshness, storage life, applications, processed, sustainability , ripeness
+- market forms include: peeled, dehydrated, whole, cut, bulk frozen, individual quick frozen (IQF), canned
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK C-11.02 | Cleans vegetables
+
+SKILLS:
+
+- C-11.02.01P
+  Performance Criteria: select and use cleaning tools
+  Evidence of Attainment: cleaning tools are selected and used according to vegetable type and AP conditions
+
+- C-11.02.02P
+  Performance Criteria: apply cleaning procedures
+  Evidence of Attainment: cleaning procedures are applied according to vegetable type and jurisdictional regulations
+
+- C-11.02.03P
+  Performance Criteria: maintain quality of vegetable
+  Evidence of Attainment: quality of vegetable is maintained during cleaning
+
+- C-11.02.04P
+  Performance Criteria: store cleaned vegetable
+  Evidence of Attainment: cleaned vegetable is stored according to type and procedure to preserve quality
+
+RANGE OF VARIABLES:
+- cleaning tools include: gloves, salad spinner, knives, brushes
+- cleaning procedures include: washing, paring, brushing, rinsing, soaking
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- C-11.02.01L
+  Learning Outcomes: demonstrate knowledge of cleaning vegetables
+  Learning Objectives:
+  - identify types of cleaning tools used to clean vegetables
+  - identify cleaning procedures used for vegetables
+
+- C-11.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to clean vegetables
+  Learning Objectives:
+  - describe cleaning procedures used for vegetables
+  - describe procedures used to maintain quality of vegetables during cleaning
+
+- C-11.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to store cleaned vegetables
+  Learning Objectives:
+  - describe procedures used for secondary storage to preserve quality of vegetables
+
+RANGE OF VARIABLES:
+- cleaning tools include: gloves, salad spinner, knives, brushes
+- cleaning procedures include: washing, paring, brushing, rinsing, soaking
+
+SUB-TASK C-11.03 | Processes vegetables
+
+SKILLS:
+
+- C-11.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to desired results and recipe specifications
+
+- C-11.03.02P
+  Performance Criteria: identify processing methods
+  Evidence of Attainment: processing methods are identified according to recipe specifications and desired results
+
+- C-11.03.03P
+  Performance Criteria: maintain uniform cuts
+  Evidence of Attainment: uniform cuts to vegetable are maintained for consistency in appearance and cooking
+
+- C-11.03.04P
+  Performance Criteria: perform various types of cuts
+  Evidence of Attainment: various types of cuts are performed according to desired result and appearance
+
+- C-11.03.05P
+  Performance Criteria: cut and shape vegetable for garnishes
+  Evidence of Attainment: vegetable is cut and shaped for garnishes according to desired result and appearance
+
+- C-11.03.06P
+  Performance Criteria: maintain quality of vegetable
+  Evidence of Attainment: quality of vegetable is maintained during processing
+
+- C-11.03.07P
+  Performance Criteria: minimize waste and utilize trim
+  Evidence of Attainment: waste is minimized and trim is utilized to maximize yield
+
+- C-11.03.08P
+  Performance Criteria: store cut vegetables
+  Evidence of Attainment: cut vegetables are stored according to type and procedure to preserve quality
+
+RANGE OF VARIABLES:
+- tools and equipment include: knives, crinkle cutters, mandolins, food processors, slicer, juicer, blender, vegetable carving tools
+- methods include: cutting, acidulating, juicing, puréeing, shaping, shaving, grating, slicing , drying
+- types of cuts include: julienne, baton, brunoise, dice
+
+KNOWLEDGE:
+
+- C-11.03.01L
+  Learning Outcomes: demonstrate knowledge of processing vegetables
+  Learning Objectives:
+  - identify tools and equipment used to process vegetables
+  - identify types of cuts, and describe their characteristics, applications and associated procedures
+  - identify methods used to modify textures of vegetables
+
+- C-11.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process vegetables
+  Learning Objectives:
+  - describe techniques used to carve vegetables
+  - describe methods used to process vegetables and to minimize waste
+  - describe procedures used to maintain quality of vegetables during processing
+  - describe uses and applications for trim
+
+- C-11.03.03L
+  Learning Outcomes: demonstrate knowledge of storing processed vegetables
+  Learning Objectives:
+  - describe procedures used for secondary storage to preserve quality of vegetables
+
+RANGE OF VARIABLES:
+- tools and equipment include: knives, crinkle cutters, mandolins, food processors, slicer, juicer, blender, vegetable carving tools
+- types of cuts include: julienne, baton, brunoise, dice
+- methods include: cutting, acidulating, juicing, puréeing, shaping, shaving, grating, slic ing, drying
+
+SUB-TASK C-11.04 | Cooks vegetables
+
+SKILLS:
+
+- C-11.04.01P
+  Performance Criteria: select cooking method
+  Evidence of Attainment: cooking method is selected according to type of vegetable, classification, desired result and recipe specifications
+
+- C-11.04.02P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to desired results and recipe specifications
+
+- C-11.04.03P
+  Performance Criteria: apply techniques to maintain pigmentation techniques to maintain pigmentation and and texture of vegetables according to desired result and recipe specifications
+  Evidence of Attainment: texture of vegetables are applied
+
+- C-11.04.04P
+  Performance Criteria: preserve nutritional value
+  Evidence of Attainment: nutritional value of vegetable is preserved
+
+- C-11.04.05P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness of cooked vegetable is determined according to sensory assessment, desired results and recipe specifications
+
+- C-11.04.06P
+  Performance Criteria: apply cooking techniques to market forms of vegetables
+  Evidence of Attainment: techniques are applied to market forms of vegetables according to manufacturers’ specifications
+
+RANGE OF VARIABLES:
+- cooking methods include: blanching, sautéing, grilling, frying, baking, steaming, broiling, roasting , braising type of vegetable is based on colour group (green, white, red, yellow and orange)
+- classification includes: leaf , root, tuber, crucif erous
+- tools and equipment include: steamer, frying pan, deep fryer, oven, grill, colander
+- market forms include: peeled, dehydrated, whole, cut, bulk frozen, IQF, canned
+
+KNOWLEDGE:
+
+- C-11.04.01L
+  Learning Outcomes: demonstrate knowledge of cooking vegetables
+  Learning Objectives:
+  - describe cooking methods used to cook vegetables
+  - identify cooking requirements when cooking vegetables
+  - identify degree of doneness for vegetables
+
+- C-11.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook vegetables
+  Learning Objectives:
+  - describe techniques or ingredients used to maintain pigmentation and textures of vegetables
+  - describe techniques used to maintain nutritional integrity of vegetable varieties
+  - describe techniques used to preserve nutritional value of vegetables while cooking
+
+RANGE OF VARIABLES:
+- cooking methods include: blanching, sautéing, grilling, frying, baking, steaming , broiling, roasting, braising
+- cooking requirements include: temperature, timing, batch size
+
+SUB-TASK C-11.05 | Finishes vegetables
+
+SKILLS:
+
+- C-11.05.01P
+  Performance Criteria: select finishing techniques
+  Evidence of Attainment: finishing techniques are selected according to desired result and recipe specification
+
+- C-11.05.02P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied according to vegetable, desired result and recipe specification
+
+- C-11.05.03P
+  Performance Criteria: hold cooked vegetables
+  Evidence of Attainment: cooked vegetables are held according to jurisdictional regulations, recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- finishing techniques include: glazing, saucing, gratin, sautéing, garnishing, seasoning
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- C-11.05.01L
+  Learning Outcomes: demonstrate knowledge of procedures used to present and finish vegetables
+  Learning Objectives:
+  - describe presentation and finishing techniques
+  - describe holding techniques for cooked vegetables
+
+RANGE OF VARIABLES:
+- finishing techniques include: glazing, saucing, gratin, sautéing, garnishing, seasoning
+
+TASK C-12 | Prepares fruit
+Fruit can be used in preparations such as salads, sauces, soups and as garnishes, showpieces and accompaniments. It is essential for the cook to be able to select, prepare and cook fruit to retain quality, flavour and nutrients.
+
+SUB-TASKS:
+
+SUB-TASK C-12.01 | Selects fruit
+
+SKILLS:
+
+- C-12.01.01P
+  Performance Criteria: identify fruits
+  Evidence of Attainment: fruits are identified according to availability, recipe specifications, market form and desired result
+
+- C-12.01.02P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality of fruit are identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- market forms include: peeled, dehydrated, whole, cut, bulk frozen, IQF, canned
+- indicators of freshness and quality include: firmness, colour, texture
+
+KNOWLEDGE:
+
+- C-12.01.01L
+  Learning Outcomes: demonstrate knowledge of fruits, their characteristics and applications
+  Learning Objectives:
+  - define terminology associated with fruits
+  - identify types of fruits, and describe their characteristics and applications
+  - identify fruit classifications, and describe their characteristics and applications
+  - describe fruit properties
+  - describe indicators of freshness and quality
+  - identify factors to consider when selecting fruits
+  - identify market forms of fruits, and describe their characteristics and applications
+  - identify dietary requirements specific to fruits
+
+RANGE OF VARIABLES:
+- fruit classifications include: tree, citrus, stone, vine, tropical, berry
+- fruit properties include: acid and sugar content, size, colour, grade
+- indicators of freshness and quality include: firmness, colour, texture
+- factors to consider when selecting fruits include: local availability, seasonal availability, freshness, storage life, applications, processed, sustainability, ripeness
+- market forms include: peeled, dehydrated, whole, cut, bulk frozen, IQF, canned
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK C-12.02 | Cleans fruit
+
+SKILLS:
+
+- C-12.02.01P
+  Performance Criteria: select and use cleaning tools
+  Evidence of Attainment: cleaning tools are selected and used according to fruit type and AP conditions
+
+- C-12.02.02P
+  Performance Criteria: apply cleaning procedures
+  Evidence of Attainment: cleaning procedures are applied according to fruit type and jurisdictional regulations
+
+- C-12.02.03P
+  Performance Criteria: maintain quality of fruit
+  Evidence of Attainment: quality of fruit is maintained during cleaning
+
+- C-12.02.04P
+  Performance Criteria: store cleaned fruit
+  Evidence of Attainment: cleaned fruit is stored according to type and procedure to preserve quality
+
+RANGE OF VARIABLES:
+- cleaning tools include: gloves, knives, brushes
+- cleaning procedures include: washing, paring, brushing, rinsing
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- C-12.02.01L
+  Learning Outcomes: demonstrate knowledge of cleaning fruits
+  Learning Objectives:
+  - identify types of cleaning tools used to clean fruits
+  - identify cleaning procedures used to clean fruits
+
+- C-12.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to clean fruits
+  Learning Objectives:
+  - describe cleaning procedures used to clean fruits
+  - describe procedures used to maintain quality of fruit during cleaning
+
+- C-12.02.03L
+  Learning Outcomes: demonstrate knowledge of storing cleaned fruits
+  Learning Objectives:
+  - describe procedures used for secondary storage to preserve quality of fruit
+
+RANGE OF VARIABLES:
+- cleaning tools include: gloves, knives, brushes
+- cleaning procedures include: washing, paring, brushing, rinsing
+
+SUB-TASK C-12.03 | Processes fruit
+
+SKILLS:
+
+- C-12.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to desired results and recipe specifications
+
+- C-12.03.02P
+  Performance Criteria: identify processing methods
+  Evidence of Attainment: processing methods are identified according to recipe specifications and desired results
+
+- C-12.03.03P
+  Performance Criteria: maintain uniform cuts
+  Evidence of Attainment: uniform cuts to fruit are maintained for consistency in appearance and cooking
+
+- C-12.03.04P
+  Performance Criteria: cut shapes of fruit for garnishes
+  Evidence of Attainment: fruit is cut in shapes for garnishes according to desired result and recipe specifications
+
+- C-12.03.05P
+  Performance Criteria: maintain quality of fruit
+  Evidence of Attainment: quality of fruit is maintained during processing
+
+- C-12.03.06P
+  Performance Criteria: minimize waste and utilize trim
+  Evidence of Attainment: waste is minimized and trim is utilized to maximize yield
+
+- C-12.03.07P
+  Performance Criteria: store cut fruit
+  Evidence of Attainment: cut fruit is stored according to type and procedure to preserve quality of stored fruit
+
+RANGE OF VARIABLES:
+- tools and equipment include: knives, mandolins, shape cutters, juicer, melon baller, spoon, food processor, fruit carving tools, blender
+- methods include: cutting, acidulating, juicing, puréeing, shaping, shaving, grating, slicing
+- quality of stored fruit includes: minimal oxidation, colour, flavour, texture
+
+KNOWLEDGE:
+
+- C-12.03.01L
+  Learning Outcomes: demonstrate knowledge of processing fruits
+  Learning Objectives:
+  - identify tools and equipment used to process fruits
+  - identify types of cuts and describe their characteristics, applications and associated procedures
+  - identify methods used to modify textures of fruits
+
+- C-12.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process fruits
+  Learning Objectives:
+  - describe techniques used to carve fruits
+  - describe procedures used to maintain quality of fruit during processing
+  - describe processing methods used for fruits and to minimize waste
+  - describe uses and applications for trim
+
+- C-12.03.03L
+  Learning Outcomes: demonstrate knowledge of storing processed fruits
+  Learning Objectives:
+  - describe procedures used for secondary storage to preserve quality of fruit
+
+RANGE OF VARIABLES:
+- tools and equipment include: knives, mandolins, shape cutters, juicer, melon baller, spoon, food processor, fruit carving tools, blender
+- types of cuts include: julienne, baton, brunoise, dice, supreme
+- methods include: cutting, acidulating, juicing, puréeing, shaping, shaving, grating, slicing
+
+SUB-TASK C-12.04 | Cooks fruit
+
+SKILLS:
+
+- C-12.04.01P
+  Performance Criteria: select cooking method
+  Evidence of Attainment: cooking method is selected according to fruit classification, desired result and recipe specifications
+
+- C-12.04.02P
+  Performance Criteria: apply cooking method
+  Evidence of Attainment: cooking method is applied according to desired result
+
+- C-12.04.03P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to desired results and recipe specifications
+
+- C-12.04.04P
+  Performance Criteria: preserve nutritional value
+  Evidence of Attainment: nutritional value of fruit is preserved
+
+- C-12.04.05P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness of cooked fruit is determined according to sensory assessment, desired results and recipe specifications
+
+- C-12.04.06P
+  Performance Criteria: apply cooking techniques to market forms of fruits
+  Evidence of Attainment: cooking techniques are applied to market forms of fruits according to manufacturers’ specifications
+
+RANGE OF VARIABLES:
+- cooking methods include: sautéing, grilling, poaching, frying, baking
+- fruit classifications include: tree, citrus, stone, vine, tropical, berry
+- tools and equipment include: steamer, frying pan, deep fryer, oven, grill, colander
+- market forms include: peeled, dehydrated, whole, cut, bulk frozen, IQF, canned
+
+KNOWLEDGE:
+
+- C-12.04.01L
+  Learning Outcomes: demonstrate knowledge of cooking fruits
+  Learning Objectives:
+  - identify cooking methods used to cook fruits
+  - identify cooking requirements when cooking fruits
+  - identify degree of doneness for fruits
+
+- C-12.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook fruits
+  Learning Objectives:
+  - describe techniques or ingredients used to maintain pigmentation and textures of fruits
+  - describe procedures used to prepare fruits
+  - describe techniques used to maintain nutritional integrity of fruit varieties
+
+RANGE OF VARIABLES:
+- cooking methods include: sautéing, grilling, poaching, frying, baking
+- cooking requirements include: temperature, timing, batch size
+
+SUB-TASK C-12.05 | Finishes fruit
+
+SKILLS:
+
+- C-12.05.01P
+  Performance Criteria: select finishing techniques
+  Evidence of Attainment: finishing techniques are selected according to desired result and recipe specifications
+
+- C-12.05.02P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied according to fruit, desired result and recipe specifications
+
+- C-12.05.03P
+  Performance Criteria: hold cooked fruits
+  Evidence of Attainment: cooked fruits are held according to jurisdictional regulations, recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- finishing techniques include: glazing, saucing, sautéing, garnishing, seasoning, caramelizing, grilling
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- C-12.05.01L
+  Learning Outcomes: demonstrate knowledge of procedures used to present and finish fruits
+  Learning Objectives:
+  - describe presentation and finishing techniques
+  - describe holding techniques for cooked fruits
+
+RANGE OF VARIABLES:
+- finishing techniques include: glazing, saucing, sautéing, garnishing, seasoning, caramelizing , grilling

@@ -1,0 +1,661 @@
+MAJOR WORK ACTIVITY L
+Specialty Preparations
+
+TASK L-32 | Prepares hors d’oeuvres and other finger foods
+Cooks prepare savoury hot and cold items in bite-sized portions of virtually any food. They are made with various combinations of ingredients such as meat, fish, seafood, grains, vegetables, fruit and breads. Diverse cultural influences on Canadian cuisine expand this category to include items such as sushi, spring rolls, spanakopita, satays, and dim sum.
+
+SUB-TASKS:
+
+SUB-TASK L-32.01 | Selects ingredients for hors d’oeuvres and other finger foods
+
+SKILLS:
+
+- L-32.01.01P
+  Performance Criteria: identify and choose ingredients
+  Evidence of Attainment: ingredients are identified and chosen according to recipe specifications and desired results
+
+- L-32.01.02P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality are identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- indicators of freshness and quality include: hydration, colour, texture, aroma, best before date, flavour
+
+KNOWLEDGE:
+
+- L-32.01.01L
+  Learning Outcomes: demonstrate knowledge of hors d'oeuvres and other finger foods and their applications
+  Learning Objectives:
+  - define terminology associated with hors d'oeuvres and other finger foods
+  - identify types of hors d'oeuvres and other finger foods and describe their characteristics
+  - identify market forms (prepared and packaged) of ingredients for hors d'oeuvres and other finger foods, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for hors d'oeuvres and other finger foods
+  - identify dietary requirements specific to ingredients for hors d'oeuvres and other finger foods
+
+- L-32.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for hors d'oeuvres and other finger foods
+  Learning Objectives:
+  - describe procedures used to select ingredients for hors d'oeuvres and other finger foods
+
+RANGE OF VARIABLES:
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- market forms include: frozen, fresh
+- factors include: seasonality, style of service, availability, price, available resources
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK L-32.02 | Processes ingredients for hors d’oeuvres and other finger foods
+
+SKILLS:
+
+- L-32.02.01P
+  Performance Criteria: select and use processing tools and equipment
+  Evidence of Attainment: processing tools and equipment are selected and used according to recipe specifications and desired results
+
+- L-32.02.02P
+  Performance Criteria: apply processing methods
+  Evidence of Attainment: processing methods are applied according to recipe specifications and desired results
+
+- L-32.02.03P
+  Performance Criteria: cook hors d’oeuvres and other finger food ingredients and components
+  Evidence of Attainment: hors d’oeuvres and other finger food ingredients and components are cooked according to recipe specifications and desired results
+
+- L-32.02.04P
+  Performance Criteria: store hors d’oeuvres and other finger food ingredients and components
+  Evidence of Attainment: hors d’oeuvres and other finger food ingredients and components are stored for future assembly according to jurisdictional regulations and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: food processors, cutting boards, knives, pans, bowls, stove
+- methods include: wrapping, mixing, folding, baking, cutting, poaching, frying, blending
+- hors d’oeuvres ingredients and components include: vol-au-vent, tart shells, breads, rice, garnish, meats, vegetables, fruit, cheeses, crackers, edible wrapping
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- L-32.02.01L
+  Learning Outcomes: demonstrate knowledge of hors d’oeuvres and other finger foods and their applications
+  Learning Objectives:
+  - define terminology associated with hors d’oeuvres and other finger foods
+  - identify factors to consider when processing ingredients for hors d’oeuvres and other finger foods
+  - identify dietary requirements specific to ingredients for hors d'oeuvres and other finger foods
+
+- L-32.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to prepare hors d’oeuvres and other finger food ingredients
+  Learning Objectives:
+  - describe methods used to process hors d’oeuvres and other finger food ingredients
+
+RANGE OF VARIABLES:
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- factors include: texture, flavour, type of service, available resources
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: wrapping, mixing, folding, baking, cutting, poaching, frying, blending
+
+SUB-TASK L-32.03 | Assembles hors d’oeuvres and other finger foods
+
+SKILLS:
+
+- L-32.03.01P
+  Performance Criteria: select and use assembly tools and equipment
+  Evidence of Attainment: assembly tools and equipment are selected and used according to recipe specifications and desired results
+
+- L-32.03.02P
+  Performance Criteria: use assembly methods
+  Evidence of Attainment: assembly methods are used according to recipe specifications and desired results
+
+- L-32.03.03P
+  Performance Criteria: store hors d’oeuvres and other finger food
+  Evidence of Attainment: hors d’oeuvres and other finger foods are stored for future use according to jurisdictional regulations and desired results
+
+RANGE OF VARIABLES:
+- assembly tools and equipment include: knives, skewers, toothpicks, bamboo mats, tongs, cutting boards, portioning scoops
+- methods include: wrapping, stacking, spreading, breading, brushing
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- L-32.03.01L
+  Learning Outcomes: demonstrate knowledge of hors d’oeuvres and other finger foods and their applications
+  Learning Objectives:
+  - define terminology associated with hors d’oeuvres and other finger foods
+  - identify factors to consider when assembling hors d’oeuvres and other finger foods
+  - identify dietary requirements specific to ingredients for hors d'oeuvres and other finger foods
+
+- L-32.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to assemble hors d’oeuvres and other finger foods
+  Learning Objectives:
+  - describe methods used to assemble hors d’oeuvres and other finger foods
+
+RANGE OF VARIABLES:
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- factors include: kitchen space, available resources, time management, timing, temperature
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: wrapping, stacking, spreading, breading, brushing
+
+SUB-TASK L-32.04 | Cooks hors d’oeuvres and other finger foods
+
+SKILLS:
+
+- L-32.04.01P
+  Performance Criteria: determine cooking methods
+  Evidence of Attainment: cooking methods are determined according to hors d’oeuvres and other finger foods, recipe specifications and desired results
+
+- L-32.04.02P
+  Performance Criteria: apply cooking methods
+  Evidence of Attainment: cooking methods are applied according to recipe specifications and desired results
+
+- L-32.04.03P
+  Performance Criteria: calculate cooking time
+  Evidence of Attainment: cooking time is calculated according to type, size and thickness of item, and cooking method according to recipe specifications and desired results
+
+- L-32.04.04P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness is determined by using various methods
+
+RANGE OF VARIABLES:
+- cooking methods include: baking, frying, broiling, steaming
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- methods to check for doneness include: temperature readings, sensory assessments
+
+KNOWLEDGE:
+
+- L-32.04.01L
+  Learning Outcomes: demonstrate knowledge of hors d'oeuvres and other finger foods and their applications
+  Learning Objectives:
+  - define terminology associated with hors d'oeuvres and other finger foods
+  - identify types of hors d'oeuvres and other finger foods and describe their characteristics
+  - identify factors to consider when cooking hors d'oeuvres and other finger foods
+  - identify dietary requirements specific to ingredients for hors d'oeuvres and other finger foods
+
+- L-32.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook hors d'oeuvres and other finger foods
+  Learning Objectives:
+  - describe cooking methods used to cook hors d’oeuvres and other finger foods
+
+RANGE OF VARIABLES:
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- factors include: kitchen space, available resources, time management, timing, temperature
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- cooking methods include: baking, frying, broiling, steaming
+
+SUB-TASK L-32.05 | Finishes hors d’oeuvres and other finger foods
+
+SKILLS:
+
+- L-32.05.01P
+  Performance Criteria: apply seasoning, sauce, condiments and garnish
+  Evidence of Attainment: seasoning, sauce, condiments and garnish are applied to hors d’oeuvres and other finger foods according to desired result
+
+- L-32.05.02P
+  Performance Criteria: present hors d’oeuvres and other finger hors d’oeuvres and other finger foods foods and styles of service
+  Evidence of Attainment: are presented according to desired results
+
+- L-32.05.03P
+  Performance Criteria: hold hors d’oeuvres and other finger foods
+  Evidence of Attainment: hors d’oeuvres and other finger foods are held for service according to jurisdictional regulations and desired results
+
+RANGE OF VARIABLES:
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- styles of service include: passed, stationed
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- L-32.05.01L
+  Learning Outcomes: demonstrate knowledge of hors d’oeuvres and other finger foods and their applications
+  Learning Objectives:
+  - define terminology associated with hors d’oeuvres and other finger foods
+  - identify types of hors d’oeuvres and other finger foods and describe their characteristics
+  - identify factors to consider when finishing hors d’oeuvres and other finger foods
+  - identify dietary requirements specific to ingredients for hors d'oeuvres and other finger foods
+
+- L-32.05.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish hors d’oeuvres and other finger foods
+  Learning Objectives:
+  - identify styles of service associated with hors d’oeuvres and other finger foods
+  - describe presentation and finishing techniques
+  - describe procedures used to hold and store hors d’oeuvres and other finger foods
+
+RANGE OF VARIABLES:
+- hors d'oeuvres and other finger foods include: canapés, sushi, satays, dim sum
+- factors include: integrity, temperature
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- styles of service include: passed, stationed
+- presentation and finishing techniques include: plating, traying, garnishing, tossing, saucing, glazing
+
+TASK L-33 | Prepares charcuterie and cured products
+Charcuterie and cured products are prepared using various techniques for preserving meats, fin fish and seafood. They can be aged and dried, smoked and cured. Examples of charcuterie and cured products are forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked and fermented meat, fin fish, seafood, poultry. Charcuterie and cured products can be served hot or cold.
+
+SUB-TASKS:
+
+SUB-TASK L-33.01 | Selects ingredients for charcuterie and cured products
+
+SKILLS:
+
+- L-33.01.01P
+  Performance Criteria: identify indicators of quality
+  Evidence of Attainment: indicators of quality are identified according to sensory assessment
+
+- L-33.01.02P
+  Performance Criteria: identify and choose ingredients for processing
+  Evidence of Attainment: ingredients for processing are identified and chosen according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- indicators of quality include: hydration, colour, texture, aroma
+
+KNOWLEDGE:
+
+- L-33.01.01L
+  Learning Outcomes: demonstrate knowledge of charcuterie and cured products and their applications
+  Learning Objectives:
+  - define terminology associated with charcuterie and cured products
+  - identify classifications of charcuterie and cured products, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for charcuterie and cured products
+  - identify dietary requirements specific to ingredients for charcuterie and cured products
+
+- L-33.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select charcuterie and cured product ingredients
+  Learning Objectives:
+  - describe procedures used to select charcuterie and cured product ingredients
+
+- L-33.01.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle charcuterie and cured product ingredients
+  Learning Objectives:
+  - describe procedures used to handle charcuterie and cured product ingredients
+
+RANGE OF VARIABLES:
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked and fermented meat, fin fish, seafood, poultry
+- factors include: quality, storage life, cost, fat yield, meat yield
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK L-33.02 | Processes ingredients for charcuterie and cured products
+
+SKILLS:
+
+- L-33.02.01P
+  Performance Criteria: select and use processing tools and equipment
+  Evidence of Attainment: processing tools and equipment are selected and used according to recipe specifications and desired results
+
+- L-33.02.02P
+  Performance Criteria: apply processing methods
+  Evidence of Attainment: processing methods are applied according to recipe specifications and desired results
+
+- L-33.02.03P
+  Performance Criteria: combine ingredients, seasonings, preservatives and garnishes
+  Evidence of Attainment: ingredients, seasonings, preservatives and garnishes are combined according to recipe specifications and desired results
+
+- L-33.02.04P
+  Performance Criteria: assemble ingredients for charcuterie and cured products
+  Evidence of Attainment: ingredients for charcuterie and cured products are assembled according to recipe specifications, desired results, indicators and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- processing tools and equipment include: meat grinder, meat slicer, cutters, sausage press, terrine moulds, food processors, smokers
+- methods include: smoking, curing, drying, chopping, grinding, emulsifying, marinating, soaking, shaping, moulding, fermenting, stuffing
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked meat, fin fish, seafood, poultry
+- indicators include: temperature, time, humidity, pH activity, dehydration
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- L-33.02.01L
+  Learning Outcomes: demonstrate knowledge of charcuterie and cured products and their applications
+  Learning Objectives:
+  - define terminology associated with charcuterie and cured products
+  - identify classifications of charcuterie and cured products, and describe their characteristics and applications
+  - identify temperature and environmental controls needed when curing, smoking and fermenting meats according to jurisdictional regulations
+  - identify factors to consider when processing ingredients for charcuterie and cured products
+  - identify dietary requirements specific to ingredients for charcuterie and cured products
+
+- L-33.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process charcuterie and cured product ingredients
+  Learning Objectives:
+  - describe methods used to process charcuterie and cured product ingredients
+
+- L-33.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store charcuterie and cured product ingredients
+  Learning Objectives:
+  - describe procedures used to handle and store charcuterie and cured product ingredients
+
+RANGE OF VARIABLES:
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked meat, fin fish, seafood, poultry
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- factors include: temperature, texture, time, humidity
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: smoking, curing, drying, chopping, grinding, emulsifying, marinating, soaking, shaping, moulding, fermenting, stuffing
+
+SUB-TASK L-33.03 | Cooks charcuterie and cured products
+
+SKILLS:
+
+- L-33.03.01P
+  Performance Criteria: select and use cooking tools and equipment
+  Evidence of Attainment: cooking tools and equipment are selected and used according to recipe specifications and desired results
+
+- L-33.03.02P
+  Performance Criteria: select temperature
+  Evidence of Attainment: temperature is selected according to recipe specifications and desired results
+
+- L-33.03.03P
+  Performance Criteria: apply cooking method
+  Evidence of Attainment: cooking method is applied according to recipe specifications and desired results
+
+- L-33.03.04P
+  Performance Criteria: determine charcuterie and cured product doneness
+  Evidence of Attainment: charcuterie and cured product doneness is determined according to jurisdictional regulations, sensory assessment and indicators
+
+RANGE OF VARIABLES:
+- cooking tools and equipment include: smokers, ovens, grills, thermal circulator, refrigerator
+- cooking methods include: curing, poaching, baking, smoking, drying
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked meat, fin fish, seafood, poultry
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- indicators include: temperature, time, humidity, pH activity, dehydration
+
+KNOWLEDGE:
+
+- L-33.03.01L
+  Learning Outcomes: demonstrate knowledge of charcuterie and cured products and their applications
+  Learning Objectives:
+  - define terminology associated with charcuterie and cured products
+  - identify classifications of charcuterie and cured products, and describe their characteristics and applications
+  - identify temperature and environmental controls needed when curing, smoking and fermenting meats
+  - identify factors to consider when cooking charcuterie and cured products
+  - identify dietary requirements specific to ingredients for charcuterie and cured products
+
+- L-33.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook charcuterie and cured products
+  Learning Objectives:
+  - describe cooking methods used to cook charcuterie and cured products
+
+- L-33.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store charcuterie and cured products
+  Learning Objectives:
+  - describe procedures used to handle and store charcuterie and cured products
+
+RANGE OF VARIABLES:
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked meat, fin fish, seafood, poultry
+- factors include: degree of doneness, flavorings and seasonings, equipment, temperature, time, yield, resting, texture, humidity
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- cooking methods include: curing, poaching, baking, smoking, drying
+
+SUB-TASK L-33.04 | Finishes charcuterie and cured products
+
+SKILLS:
+
+- L-33.04.01P
+  Performance Criteria: apply garnish and finishing techniques
+  Evidence of Attainment: garnish and finishing techniques are applied to pâtés and terrines according to recipe specifications and desired results
+
+- L-33.04.02P
+  Performance Criteria: remove casings and membranes
+  Evidence of Attainment: casings and membranes are removed from select sausages and cured meats
+
+- L-33.04.03P
+  Performance Criteria: cut and slice charcuterie and cured products
+  Evidence of Attainment: charcuterie and cured products are cut and sliced according to recipe specifications and desired results
+
+- L-33.04.04P
+  Performance Criteria: identify and apply secondary cook methods
+  Evidence of Attainment: secondary cook methods are identified and applied to select charcuterie and cured products according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- finishing techniques include: glazing, filling, presentation, garnishing
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked meat, fin fish, seafood, poultry
+- secondary cook methods include: frying, broiling, grilling, poaching, baking
+
+KNOWLEDGE:
+
+- L-33.04.01L
+  Learning Outcomes: demonstrate knowledge of charcuterie and cured products and their applications
+  Learning Objectives:
+  - define terminology associated with charcuterie and cured products
+  - identify temperature and environmental controls needed when curing, smoking and fermenting meats
+  - identify factors to consider when finishing charcuterie and cured products
+  - identify dietary requirements specific to ingredients for charcuterie and cured products
+
+- L-33.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish charcuterie and cured products
+  Learning Objectives:
+  - describe styles of service associated with charcuterie and cured products
+  - describe procedures used to carve and slice charcuterie and cured products
+  - describe finishing techniques
+
+- L-33.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store charcuterie and cured products
+  Learning Objectives:
+  - describe procedures used to handle and store charcuterie and cured products
+
+RANGE OF VARIABLES:
+- charcuterie and cured products include: forcemeats, terrines, pâtés, galantines and ballotines, sausages, variety meats, smoked meat, fin fish, seafood, poultry
+- factors include: degree of doneness, flavorings and seasonings, equipment, temperature, time, yield, resting, texture, humidity
+- finishing techniques include: glazing, filling, presentation, garnishing
+
+TASK L-34 | Prepares gels and glazes
+Gels are finished products which are used for complementing dishes as well as for entrées, appetizers and desserts. Examples of gels include aspics, gelatin desserts, gelatin salads and fluid gel. The defining ingredients in gels are either animal-based gelatins or plant-based sources such as agar agar. Glazes are shiny coatings, applied onto other food items to enhance appearance and flavour, and to protect and preserve quality.
+
+SUB-TASKS:
+
+SUB-TASK L-34.01 | Selects ingredients for gels and glazes
+
+SKILLS:
+
+- L-34.01.01P
+  Performance Criteria: identify indicators of freshness and quality
+  Evidence of Attainment: indicators of freshness and quality are identified according to sensory assessment
+
+- L-34.01.02P
+  Performance Criteria: identify and choose ingredients for gels and glazes
+  Evidence of Attainment: ingredients for gels and glazes are chosen according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- indicators of freshness and quality include: hydration, colour, texture, aroma, taste
+- ingredients include: agar agar, chia seeds, xanthan gum, guar gum, locust bean gum, pectin, gelatin (powdered and sheet), stock, flavourings, sweeteners
+
+KNOWLEDGE:
+
+- L-34.01.01L
+  Learning Outcomes: demonstrate knowledge of gels and glazes and their applications
+  Learning Objectives:
+  - define terminology associated with gels and glazes
+  - identify types of gels, and describe their characteristics and applications
+  - identify types of glazes, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for gels and glazes
+  - identify dietary requirements specific to gels and glazes
+
+- L-34.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for gels and glazes
+  Learning Objectives:
+  - describe procedures used to select ingredients for gels and glazes
+
+RANGE OF VARIABLES:
+- types of gels include: aspics, gelatin, pectin, fluid gels
+- types of glazes include: sweet, savoury
+- factors include: f lexibility, pH, heat stability, temperature
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK L-34.02 | Processes ingredients for gels and glazes
+
+SKILLS:
+
+- L-34.02.01P
+  Performance Criteria: select and use processing tools and equipment
+  Evidence of Attainment: processing tools and equipment are selected and used according to recipe specifications and desired results
+
+- L-34.02.02P
+  Performance Criteria: combine ingredients
+  Evidence of Attainment: ingredients are combined using processing methods
+
+- L-34.02.03P
+  Performance Criteria: hold ingredients at temperature
+  Evidence of Attainment: ingredients are held at temperature according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- processing tools and equipment include: bain-marie, pots, whisks, knives, bowls, juicers, blenders
+- methods include: mixing, blooming, heating
+
+KNOWLEDGE:
+
+- L-34.02.01L
+  Learning Outcomes: demonstrate knowledge of gels and glazes and their applications
+  Learning Objectives:
+  - define terminology associated with gels and glazes
+  - identify types of gels, and describe their characteristics and applications
+  - identify types of glazes, and describe their characteristics and applications
+  - identify factors to consider when processing ingredients for gels and glazes
+  - identify dietary requirements specific to gels and glazes
+
+- L-34.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to prepare gels and glazes
+  Learning Objectives:
+  - describe methods used to process ingredients for gels and glazes
+
+RANGE OF VARIABLES:
+- types of gels include: aspics, gelatin, pectin, fluid gels
+- types of glazes include: sweet, savoury
+- factors include: time, temperature, viscosity
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: mixing, blooming, heating
+
+SUB-TASK L-34.03 | Finishes gels and glazes
+
+SKILLS:
+
+- L-34.03.01P
+  Performance Criteria: select and use finishing tools and equipment
+  Evidence of Attainment: finishing tools and equipment are selected and used according to recipe specifications and desired results
+
+- L-34.03.02P
+  Performance Criteria: use finishing techniques
+  Evidence of Attainment: finishing techniques are used according to recipe specifications and desired results
+
+- L-34.03.03P
+  Performance Criteria: hold and store gels and glazes
+  Evidence of Attainment: gels and glazes are held and stored according to recipe specifications, desired results and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- finishing tools and equipment include: brushes, bain-marie, bowls
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- L-34.03.01L
+  Learning Outcomes: demonstrate knowledge of finishing gels and glazes and their applications
+  Learning Objectives:
+  - define terminology associated with gels and glazes
+  - identify factors to consider when finishing gels and glazes
+  - identify dietary requirements specific to gels and glazes
+
+- L-34.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish gels and glazes
+  Learning Objectives:
+  - describe methods used to finish gels and glazes
+
+- L-34.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold and store gels and glazes
+  Learning Objectives:
+  - describe procedures used to handle, hold and store gels and glazes
+
+RANGE OF VARIABLES:
+- factors include: temperature, shine, viscosity
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: combining, cutting, portioning, presenting, unmoulding
+
+TASK L-35 | Prepares marinades, rubs and brines
+Marinades are used to enhance flavours and to tenderize the product. They are usually comprised of oils, acids and flavourings. Rubs are dry marinades consisting of seasonings to enhance the flavour of foods. Brine ingredients include liquid, flavourings and salt and can be used to cure and preserve meat, seafood and fin fish.
+
+SUB-TASKS:
+
+SUB-TASK L-35.01 | Selects marinade, rub and brine ingredients
+
+SKILLS:
+
+- L-35.01.01P
+  Performance Criteria: choose marinade, rub or brine
+  Evidence of Attainment: marinade, rub or brine is chosen according to type of protein, vegetables or fruit being used, recipe specifications and desired results
+
+- L-35.01.02P
+  Performance Criteria: identify and choose ingredients
+  Evidence of Attainment: ingredients are identified and chosen according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- marinades include: vinegar-based, salt-based, fruit-based, alcohol-based
+- rubs include: dry seasoning, pastes, mustard-based, sugar-based
+
+KNOWLEDGE:
+
+- L-35.01.01L
+  Learning Outcomes: demonstrate knowledge of marinades, rubs and brines and their applications
+  Learning Objectives:
+  - define terminology associated with marinades, rubs and brines
+  - identify types of marinades, rubs and brines, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for marinades, rubs and brines
+  - identify dietary requirements specific to marinades, rubs and brines
+  - identify ingredients and ratios used to prepare marinades, rubs and brines
+
+- L-35.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for marinades, rubs and brines
+  Learning Objectives:
+  - describe procedures used to select ingredients for marinades, rubs and brines
+
+- L-35.01.03L
+  Learning Outcomes: demonstrate knowledge of procedures describe procedures used to handle and used to handle and store ingredients for store ingredients for marinades, rubs marinades, rubs and brines
+  Learning Objectives:
+  - and brines
+
+RANGE OF VARIABLES:
+- marinades include: vinegar-based, salt-based, fruit-based, alcohol-based
+- rubs include: dry seasoning, pastes, mustard-based, sugar-based
+- factors include: product availability, time, quality, function, moisture content
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK L-35.02 | Processes marinade, rub and brine ingredients
+
+SKILLS:
+
+- L-35.02.01P
+  Performance Criteria: prepare and measure ingredients
+  Evidence of Attainment: ingredients are prepared and measured according to recipe specifications
+
+- L-35.02.02P
+  Performance Criteria: select and use non-reactive processing tools and equipment
+  Evidence of Attainment: non-reactive processing tools and equipment are selected and used according to product specifications
+
+- L-35.02.03P
+  Performance Criteria: uses processing methods
+  Evidence of Attainment: processing methods are used according to recipe specifications and desired results
+
+- L-35.02.04P
+  Performance Criteria: hold and store marinades, rubs and brines
+  Evidence of Attainment: marinades, rubs and brines are held and stored according to recipe specifications, desired results and jurisdictional regulations
+
+- L-35.02.05P
+  Performance Criteria: use safe handling procedures
+  Evidence of Attainment: safe handling procedures are used according to jurisdictional regulations and to avoid cross-contamination
+
+RANGE OF VARIABLES:
+- non-reactive processing tools and equipment include: non-reactive containers (stainless steel, glass, plastic), blender, food processor, measuring tools
+- methods include: combining, heating, dissolving, cooling
+- marinades include: vinegar-based, salt-based, fruit-based, alcohol-based
+- rubs include: dry seasoning, pastes, mustard-based, sugar-based
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- L-35.02.01L
+  Learning Outcomes: demonstrate knowledge of marinades, rubs and brines and their applications
+  Learning Objectives:
+  - define terminology associated with marinades, rubs and brines
+  - identify factors to consider when processing ingredients for marinades, rubs and brines
+  - identify dietary requirements specific to marinades, rubs and brines
+
+- L-35.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process marinades, rubs and brines
+  Learning Objectives:
+  - describe methods used to process marinades, rubs and brines
+  - identify ingredients and ratios used to process marinades, rubs and brines
+
+RANGE OF VARIABLES:
+- marinades include: vinegar-based, salt-based, fruit-based, alcohol-based
+- rubs include: dry seasoning, pastes, mustard-based, sugar-based
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- factors include: time, quality, function, moisture content, temperature, assembly sequence, container selection, application method
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: combining, heating, dissolving, cooling

@@ -1,0 +1,991 @@
+MAJOR WORK ACTIVITY M
+Sweet and Savoury Baked Goods and
+
+TASK M-36 | Prepares dough-based products
+Dough, sweet and savoury, is used to make items such as pasta, breads, samosas, egg rolls, pie shells, pastries and cookies. It can be shaped and moulded. Additional ingredients and texture elements can be introduced to provide variety.
+
+SUB-TASKS:
+
+SUB-TASK M-36.01 | Selects ingredients for dough
+
+SKILLS:
+
+- M-36.01.01P
+  Performance Criteria: identify required ingredients
+  Evidence of Attainment: required ingredients used in various dough-based products are identified according to recipe specification
+
+- M-36.01.02P
+  Performance Criteria: identify quality and freshness of dough ingredients
+  Evidence of Attainment: quality of dough ingredients are identified according to best before date and sensory assessment
+
+RANGE OF VARIABLES:
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings, seasonings
+- dough-based products include: pastas, noodles, pies, tarts, flans, cookies, breads, samosas, egg rolls, pastries, bread dough, crackers, rolls/buns, profiteroles, pizza
+
+KNOWLEDGE:
+
+- M-36.01.01L
+  Learning Outcomes: demonstrate knowledge of doughs and dough-based products and their applications
+  Learning Objectives:
+  - identify types of dough used for various dough-based products, and describe their characteristics and applications
+  - identify types of dough-based products, and describe their characteristics and applications
+  - define terminology associated with doughs
+  - identify factors to consider when selecting ingredients for doughs
+  - identify ingredients used in doughs, and describe their functions, characteristics and applications
+  - identify dietary requirements specific to ingredients for doughs
+  - identify market forms (prepared and packaged) of doughs, and describe their characteristics and applications
+
+- M-36.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for doughs
+  Learning Objectives:
+  - describe procedures used to select ingredients for doughs
+
+RANGE OF VARIABLES:
+- dough-based products include: pastas, noodles, pies, tarts, flans, cookies, breads, samosas, egg rolls, pastries, bread dough, crackers, rolls/buns, profiteroles, pizza
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings, seasonings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK M-36.02 | Processes ingredients for dough
+
+SKILLS:
+
+- M-36.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-36.02.02P
+  Performance Criteria: measure ingredients
+  Evidence of Attainment: ingredients are measured according to recipe specifications
+
+- M-36.02.03P
+  Performance Criteria: mix ingredients
+  Evidence of Attainment: ingredients are mixed according to recipe specifications and desired results
+
+- M-36.02.04P
+  Performance Criteria: apply methods
+  Evidence of Attainment: methods are applied according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: sif ters, mixers, sheeters, rolling pins, proof ers measure: weight, volume, size
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings, seasonings
+- methods include: rolling, shaping, folding, scoring, resting, proofing, benching, kneading, incorporating fats, portioning
+
+KNOWLEDGE:
+
+- M-36.02.01L
+  Learning Outcomes: demonstrate knowledge of doughs used for various dough-based products and their applications
+  Learning Objectives:
+  - identify types of dough used for various dough-based products, and describe their characteristics and applications
+  - identify types of dough-based products, and describe their characteristics and applications
+  - define terminology associated with dough
+  - identify factors to consider when processing ingredients for doughs
+  - identify ingredients used in doughs, and describe their functions, characteristics and applications
+  - identify dietary requirements specific to ingredients for doughs
+  - identify market forms (prepared and packaged) of doughs, and describe their characteristics and applications
+
+- M-36.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process ingredients for doughs
+  Learning Objectives:
+  - describe methods used to process ingredients for doughs
+  - identify factors to consider when determining mixing methods used for doughs
+  - identify factors to consider when determining methods for dough
+
+- M-36.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold and store doughs
+  Learning Objectives:
+  - describe procedures used to handle, hold and store dough
+
+RANGE OF VARIABLES:
+- dough-based products include: pastas, noodles, pies, tarts, flans, cookies, breads, samosas, egg rolls, pastries, bread dough, crackers, rolls/buns, profiteroles, pizza
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings, seasonings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- methods include: rolling, shaping, folding, scoring, resting, proofing, benching, kneading, incorporating fats, portioning
+
+SUB-TASK M-36.03 | Cooks dough-based products
+
+SKILLS:
+
+- M-36.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- M-36.03.02P
+  Performance Criteria: follow cooking methods
+  Evidence of Attainment: cooking methods are followed according to recipe specifications and desired results
+
+- M-36.03.03P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness is determined according to sensory assessment and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: hand tools, ovens, fryers, steamers, pots
+- cooking methods include: boiling, baking, frying, steaming, poaching
+
+KNOWLEDGE:
+
+- M-36.03.01L
+  Learning Outcomes: demonstrate knowledge of doughs used for various dough-based products and their applications
+  Learning Objectives:
+  - identify types of dough used for various dough-based products, and describe their characteristics and applications
+  - identify types of dough-based products, and describe their characteristics and applications
+  - define terminology associated with dough
+  - identify factors to consider when cooking doughs
+  - identify cooking methods for doughs and describe their applications
+  - identify market forms (prepared and packaged) of doughs, and describe their characteristics and applications
+  - identify dietary requirements specific to ingredients for doughs
+
+- M-36.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook dough
+  Learning Objectives:
+  - identify cooking methods for doughs and describe their applications
+  - identify tools and equipment used for cooking dough
+  - identify finishing ingredients applied prior to cooking dough
+  - describe methods to determine doneness of dough
+
+RANGE OF VARIABLES:
+- dough-based products include: pastas, noodles, pies, tarts, flans, cookies, breads, samosas, egg rolls, pastries, bread dough, crackers, rolls/buns, profiteroles, pizza
+- cooking methods include: boiling, baking, frying, steaming, poaching
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- ingredients include: fats, sweeteners, dairy products, glaze, nuts, seeds, seasonings
+- tools and equipment include: hand tools, ovens, fryers, steamers, pots
+
+SUB-TASK M-36.04 | Finishes dough-based products
+
+SKILLS:
+
+- M-36.04.01P
+  Performance Criteria: cool dough-based product
+  Evidence of Attainment: dough-based product is cooled according to recipe specifications and desired results
+
+- M-36.04.02P
+  Performance Criteria: glaze, garnish and fill dough-based product
+  Evidence of Attainment: dough-based product is glazed and garnished according to recipe specifications and desired results
+
+- M-36.04.03P
+  Performance Criteria: portion dough-based product
+  Evidence of Attainment: dough-based product is portioned according to recipe specifications and desired results
+
+- M-36.04.04P
+  Performance Criteria: assemble finished dough-based product dough-based product is assembled according to recipe specifications and desired results
+  Evidence of Attainment: 
+
+- M-36.04.05P
+  Performance Criteria: package and store finished product
+  Evidence of Attainment: finished product is packaged and stored to maintain freshness and shelf life
+
+RANGE OF VARIABLES:
+- dough-based products include: pastas, noodles, pies, tarts, flans, cookies, breads, samosas, egg rolls, pastries, bread dough, crackers, rolls/buns, profiteroles
+- package and store includes: wrapping, bagging, refrigerating, freezing, retail packaging, vacuum sealing, storing at room temperature
+
+KNOWLEDGE:
+
+- M-36.04.01L
+  Learning Outcomes: demonstrate knowledge of dough-based products and their uses
+  Learning Objectives:
+  - identify types of dough-based products, and describe their characteristics and uses
+  - define terminology associated with dough-based products
+  - identify factors to consider when finishing dough-based products
+  - identify ingredients used in finishing dough-based products, and describe their characteristics and applications
+  - identify dietary requirements specific to ingredients for doughs
+
+- M-36.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish dough-based products
+  Learning Objectives:
+  - describe procedures used to finish dough-based products
+  - describe procedures used to portion dough-based products
+  - describe procedures used to package and store finished product
+
+- M-36.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store doughs and dough-based products
+  Learning Objectives:
+  - describe procedures used to handle and store dough-based products
+
+RANGE OF VARIABLES:
+- dough-based products include: pastas, noodles, pies, tarts, flans, cookies, breads, samosas, egg rolls, pastries, bread dough, crackers, rolls/buns, profiteroles
+- ingredients include: fats, sweeteners, dairy products, glaze, nuts, seeds, seasonings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- procedures include: brushing, dipping, spraying, salting, dusting, sprinkling, glazing, garnishing, filling
+- package and store includes: wrapping, bagging, refrigerating, freezing, retail packaging, vacuum sealing, storing at room temperature
+
+TASK M-37 | Prepares batter-based products
+Batters can be savoury or sweet, and can be used for many different applications such as muffins, Yorkshire pudding, tempura and cakes. Additional ingredients and texture elements can be introduced to provide variety.
+
+SUB-TASKS:
+
+SUB-TASK M-37.01 | Selects ingredients for batters
+
+SKILLS:
+
+- M-37.01.01P
+  Performance Criteria: identify required ingredients
+  Evidence of Attainment: required ingredients used in various batter-based products are identified according to recipe specifications and desired results
+
+- M-37.01.02P
+  Performance Criteria: identify quality and freshness of batter ingredients
+  Evidence of Attainment: quality of batter ingredients are identified according to best before date and sensory assessment
+
+RANGE OF VARIABLES:
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings and seasonings
+- batter-based products include: muffins, cakes, pop-overs, tempura, waffles, pancakes, fritters, corn bread
+
+KNOWLEDGE:
+
+- M-37.01.01L
+  Learning Outcomes: demonstrate knowledge of batters and batter-based products and their applications
+  Learning Objectives:
+  - identify types of batter, and describe their characteristics and applications
+  - identify types of batter-based products, and describe their characteristics and applications
+  - define terminology associated with batters
+  - identify factors to consider when selecting ingredients for batters
+  - identify ingredients used in batters, and describe their functions, characteristics and applications
+  - identify dietary requirements specific to ingredients for batters
+  - identify market forms (prepared and packaged) of batters, and describe their characteristics and applications
+
+- M-37.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for batters used for various batter-based products
+  Learning Objectives:
+  - describe procedures used to select ingredients for various batters
+
+RANGE OF VARIABLES:
+- batter-based products include: muffins, cakes, pop-overs, tempura, waffles, pancakes, fritters, corn bread
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings and seasonings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: powdered, frozen, fresh
+
+SUB-TASK M-37.02 | Processes ingredients for batters
+
+SKILLS:
+
+- M-37.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-37.02.02P
+  Performance Criteria: measure ingredients
+  Evidence of Attainment: ingredients are measured according to recipe specifications
+
+- M-37.02.03P
+  Performance Criteria: mix ingredients
+  Evidence of Attainment: ingredients are mixed according to recipe specifications and desired results
+
+- M-37.02.04P
+  Performance Criteria: apply methods
+  Evidence of Attainment: methods are applied according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: spatulas, whisks, sif ters, mixers, scales, bowls
+- measure includes: weight, volume, size
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings, seasonings
+- methods include: resting, incorporating fats, creaming, foaming, blending, whipping, two-stage
+
+KNOWLEDGE:
+
+- M-37.02.01L
+  Learning Outcomes: demonstrate knowledge of batters used for various batter-based products and their applications
+  Learning Objectives:
+  - identify types of batters, and describe their characteristics and applications
+  - identify types of batter-based products, and describe their characteristics and applications
+  - define terminology associated with batter
+  - identify factors to consider when processing ingredients for batters
+  - identify ingredients used in batters, and describe their functions, characteristics and applications
+  - identify dietary requirements specific to ingredients for batters
+  - identify market forms (prepared and packaged) of batters, and describe their characteristics and applications
+
+- M-37.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process ingredients for batters used for various batter-based products
+  Learning Objectives:
+  - describe methods used to process ingredients for batters used for various batter-based products
+  - identify factors to consider when determining mixing methods used for batters
+  - identify factors to consider when determining methods for batter
+
+- M-37.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, hold and store batters
+  Learning Objectives:
+  - describe procedures used to handle, hold and store batter
+
+RANGE OF VARIABLES:
+- batter-based products include: muffins, cakes, pop-overs, tempura, waffles, pancakes, fritters, corn bread
+- ingredients include: flours, fats, egg, sweeteners, liquids, leavening agents, dairy products, specialty products, flavorings, seasonings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: powdered, frozen, fresh
+
+SUB-TASK M-37.03 | Cooks batter-based products
+
+SKILLS:
+
+- M-37.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-37.03.02P
+  Performance Criteria: follow cooking methods
+  Evidence of Attainment: cooking methods are followed according to recipe specifications and desired results
+
+- M-37.03.03P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness is determined according to sensory assessment and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: hand tools, ovens, fryers, pans, griddles, parchment paper
+- cooking methods include: baking, frying
+
+KNOWLEDGE:
+
+- M-37.03.01L
+  Learning Outcomes: demonstrate knowledge of batters used for various batter-based products and their applications
+  Learning Objectives:
+  - identify types of batters, and describe their characteristics and applications
+  - identify types of batter-based products, and describe their characteristics and applications
+  - define terminology associated with batter
+  - identify factors to consider when cooking batters
+  - identify cooking methods for batters and describe their applications
+  - identify dietary requirements specific to batters
+
+- M-37.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook batter
+  Learning Objectives:
+  - identify cooking methods for batters and describe their applications
+  - identify tools and equipment used for cooking batter
+  - identify finishing ingredients applied prior to cooking batter
+  - describe procedures used to cook batter
+  - describe methods to determine doneness of batter
+
+RANGE OF VARIABLES:
+- batter-based products include: muffins, cakes, pop-overs, waffles, pancakes, profiteroles, corn bread
+- cooking methods include: baking, frying
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- tools and equipment include: hand tools, ovens, fryers, pans, griddles, parchment paper
+
+SUB-TASK M-37.04 | Finishes batter-based products
+
+SKILLS:
+
+- M-37.04.01P
+  Performance Criteria: cool batter-based product
+  Evidence of Attainment: batter-based product is cooled according to recipe specifications and desired results
+
+- M-37.04.02P
+  Performance Criteria: frost, glaze, garnish or season batter- batter-based product is frosted, glazed based product recipe specifications and desired results
+  Evidence of Attainment: garnished, or seasoned according to
+
+- M-37.04.03P
+  Performance Criteria: portion batter-based product
+  Evidence of Attainment: batter-based product is portioned according to recipe specifications and desired results
+
+- M-37.04.04P
+  Performance Criteria: assemble finished batter-based product finished batter-based product is assembled according to recipe specifications and desired results
+  Evidence of Attainment: 
+
+- M-37.04.05P
+  Performance Criteria: hold batter-based product
+  Evidence of Attainment: batter-based product is held according to desired results and jurisdictional regulations
+
+- M-37.04.06P
+  Performance Criteria: package and store finished product
+  Evidence of Attainment: finished product is packaged and stored to maintain freshness and shelf life
+
+RANGE OF VARIABLES:
+- batter-based products include: muffins, cakes, pop-overs, waffles, pancakes, corn bread
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- package and store includes: wrapping, bagging, refrigerating, freezing, retail packaging, storing at room temperature
+
+KNOWLEDGE:
+
+- M-37.04.01L
+  Learning Outcomes: demonstrate knowledge of batter-based products and their uses
+  Learning Objectives:
+  - identify types of batter-based products, and describe their characteristics and uses
+  - define terminology associated with batter-based products
+  - identify factors to consider when finishing batter-based products
+  - identify ingredients used in finishing batter-based products, and describe their characteristics and applications
+  - identify dietary requirements specific to batters
+
+- M-37.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish batter-based products
+  Learning Objectives:
+  - describe procedures used to finish batter- based products
+  - describe procedures used to frost, glaze, garnish and season batter-based products
+  - describe procedures used to portion batter-based products
+
+- M-37.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store batters and batter-based products
+  Learning Objectives:
+  - describe procedures used to package and store finished product
+  - describe procedures used to handle and store batter-based products
+
+RANGE OF VARIABLES:
+- batter-based products include: muffins, cakes, pop-overs, waffles, pancakes, corn bread
+- ingredients include: nuts, seeds, sweeteners, spices, glazes, sauces, syrups, fruit
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- package and store includes: wrapping, bagging, refrigerating, freezing, retail packaging, storing at room temperature
+
+TASK M-38 | Prepares creams, mousses, frozen desserts, fillings,
+icings, toppings and sugar works TASK DESCRIPTOR In preparing these items, it is important to f ocus on both appearance and texture. Proper techniques should be employed to ensure consistency and quality.
+
+SUB-TASKS:
+
+SUB-TASK M-38.01 | Selects ingredients for creams, mousses, frozen desserts, fillings, icings,
+
+SKILLS:
+
+- M-38.01.01P
+  Performance Criteria: identify required ingredients
+  Evidence of Attainment: required ingredients used in various creams, mousses, frozen desserts, fillings, icings, toppings and sugar work products are identified and chosen according to recipe specifications and desired results
+
+- M-38.01.02P
+  Performance Criteria: identify quality and freshness of ingredients
+  Evidence of Attainment: quality and freshness of ingredients are identified according to best before date and sensory assessment
+
+RANGE OF VARIABLES:
+- ingredients include: eggs, sugar, dairy, gelatin, fruits, chocolate, flavorings
+
+KNOWLEDGE:
+
+- M-38.01.01L
+  Learning Outcomes: demonstrate knowledge of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works and their applications
+  Learning Objectives:
+  - define terminology associated with creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify types of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify dietary requirements specific to ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify ingredients used in creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+
+- M-38.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  Learning Objectives:
+  - describe procedures used to select ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+
+- M-38.01.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  Learning Objectives:
+  - describe procedures used to handle and store ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+
+RANGE OF VARIABLES:
+- ingredients include: eggs, sugar, dairy, gelatin, fruits, chocolate, flavorings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: frozen, fresh, shelf -stable
+
+SUB-TASK M-38.02 | Processes ingredients for creams, mousses, frozen desserts, fillings,
+
+SKILLS:
+
+- M-38.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-38.02.02P
+  Performance Criteria: mix ingredients
+  Evidence of Attainment: ingredients are mixed according to recipe specifications and desired results
+
+- M-38.02.03P
+  Performance Criteria: prepare pans and moulds
+  Evidence of Attainment: pans and moulds are prepared with materials according to recipe specifications and desired results
+
+- M-38.02.04P
+  Performance Criteria: follow temperature stages
+  Evidence of Attainment: temperature stages for cooking sugar are followed using sensory assessment and thermometers according to recipe specifications and desired results
+
+- M-38.02.05P
+  Performance Criteria: apply methods
+  Evidence of Attainment: methods are applied according to recipe specifications and desired results
+
+- M-38.02.06P
+  Performance Criteria: portion and scale mixed ingredients
+  Evidence of Attainment: mixed ingredients are portioned and scaled according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: bain-marie, mixers, scoops, piping bags, moulds, ice cream makers, whipped cream canisters, candy thermometer, heat lamps, torches, copper pots
+- ingredients include: eggs, sugar, dairy, gelatin, fruits, chocolate, flavorings
+- materials include: parchment, acetate, wax paper
+- methods include: cooking or baking custards, cooling, moulding, piping, churning, freezing, tempering, folding, emulsif ying, whipping
+
+KNOWLEDGE:
+
+- M-38.02.01L
+  Learning Outcomes: demonstrate knowledge of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works and their applications
+  Learning Objectives:
+  - define terminology associated with creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify types of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+  - identify factors to consider when processing ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify dietary requirements specific to ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar work products
+  - identify ingredients used in creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+
+- M-38.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  Learning Objectives:
+  - describe methods used to process ingredients for creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+
+- M-38.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, package and store creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  Learning Objectives:
+  - describe procedures used to handle, package and store creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+
+RANGE OF VARIABLES:
+- ingredients include: eggs, sugar, dairy, gelatin, fruits, chocolate, flavorings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: frozen, fresh, shelf -stable
+- methods include: cooking or baking custards, cooling, moulding, piping, churning, freezing, tempering, folding, emulsif ying, whipping
+
+SUB-TASK M-38.03 | Finishes creams, mousses, frozen desserts, fillings, icings, toppings and
+
+SKILLS:
+
+- M-38.03.01P
+  Performance Criteria: unmould products
+  Evidence of Attainment: products are unmoulded according to desired results
+
+- M-38.03.02P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied according to recipe specifications and desired results
+
+- M-38.03.03P
+  Performance Criteria: package and store finished product
+  Evidence of Attainment: finished product is packaged and stored to maintain freshness and shelf life
+
+RANGE OF VARIABLES:
+- products include: baked and stirred custards, parf aits, soufflés, ice creams, Bavarians, meringues, buttercreams, frostings, ganache, coulis, caramels, brittles, tof f ees
+- finishing techniques include: tempering, torching, glazing, spraying, garnishing, pulling sugar
+
+KNOWLEDGE:
+
+- M-38.03.01L
+  Learning Outcomes: demonstrate knowledge of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works and their applications
+  Learning Objectives:
+  - define terminology associated with creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify types of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+  - identify factors to consider when finishing creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify dietary requirements specific to creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  - identify market forms (prepared and packaged) of creams, mousses, frozen desserts, fillings, icings, toppings and sugar works, and describe their characteristics and applications
+
+- M-38.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  Learning Objectives:
+  - describe finishing techniques used to finish creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+
+- M-38.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle, package and store creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+  Learning Objectives:
+  - describe procedures used to handle, package and store creams, mousses, frozen desserts, fillings, icings, toppings and sugar works
+
+RANGE OF VARIABLES:
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- market forms include: frozen, fresh, shelf -stable
+- finishing techniques include: tempering, torching, glazing, spraying, garnishing, pulling sugar
+
+TASK M-39 | Assembles cakes
+This section assumes that the filling, icing and cake have been prepared and stored. It is important to complement the cake with the appropriate fillings, icings and garnishes. Assembling and displaying cakes is about presentation and appeal.
+
+SUB-TASKS:
+
+SUB-TASK M-39.01 | Selects cake components for assembly
+
+SKILLS:
+
+- M-39.01.01P
+  Performance Criteria: identify required cake components
+  Evidence of Attainment: cake components required for assembly of a cake are identified according to recipe specifications and desired results
+
+- M-39.01.02P
+  Performance Criteria: identify quality of cake components
+  Evidence of Attainment: quality of cake components is identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- cake components include: icing, filling, toppings, garnishes, glazes, meringues and dessert sauces, nuts, praline, fruit, cake, ganache, mousse, creams
+
+KNOWLEDGE:
+
+- M-39.01.01L
+  Learning Outcomes: demonstrate knowledge of cakes, their components and applications
+  Learning Objectives:
+  - define terminology associated with cakes and their components
+  - identify types of cakes and describe their characteristics
+  - identify cake components and describe their characteristics
+  - identify factors to consider when selecting cake components
+  - identify dietary requirements specific to cake components
+  - identify market forms (prepared and packaged) of cake components, and describe their characteristics and applications
+
+- M-39.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select cake components
+  Learning Objectives:
+  - describe procedures used to select cake components
+
+RANGE OF VARIABLES:
+- cake components include: icing, filling, toppings, garnishes, glazes, meringues and dessert sauces, nuts, praline, fruit, cake, ganache, mousse, creams
+- types of cakes include: black forest, pound, carrot, cheesecake, wedding cake
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK M-39.02 | Finishes cakes
+
+SKILLS:
+
+- M-39.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-39.02.02P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied to cakes according to recipe specifications and desired results
+
+- M-39.02.03P
+  Performance Criteria: apply decorations
+  Evidence of Attainment: decorations are assembled and applied to cake according to recipe specifications and desired results
+
+- M-39.02.05P
+  Performance Criteria: package and store finished product
+  Evidence of Attainment: finished product is packaged and stored to maintain freshness and shelf life
+
+RANGE OF VARIABLES:
+- tools and equipment include: spatulas, air brushes, piping bags and tips, pedestals
+- techniques include: piping, combing, dusting, sprinkling, writing
+- decorations include: crumbs, coconut, chocolate, piping, fruit, f ondant, cookies
+
+KNOWLEDGE:
+
+- M-39.02.01L
+  Learning Outcomes: demonstrate knowledge of cakes, their components and applications
+  Learning Objectives:
+  - define terminology associated with cakes and their components
+  - identify types of cakes and describe their characteristics
+  - identify cake components and describe their characteristics
+  - identify factors to consider when finishing with various cake components
+  - identify dietary requirements specific to cake components
+  - identify market forms (prepared and packaged) of cake components, and describe their characteristics and applications
+
+- M-39.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish cakes
+  Learning Objectives:
+  - describe procedures used to assemble and decorate cake
+  - describe techniques used to finish cakes
+
+- M-39.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store cakes and their components
+  Learning Objectives:
+  - describe procedures used to handle and store cakes and their components
+
+RANGE OF VARIABLES:
+- cake components include: icing, garnishes, glazes, meringues and dessert sauces, nuts, praline, fruit, ganache, creams
+- types of cakes include: black forest, pound, carrot, cheesecake, wedding cake
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- techniques include: piping, combing, dusting, sprinkling, writing
+
+TASK M-40 | Prepares savoury and sweet pastries and pies
+Cooks are required to know how to make savoury and sweet pastries and pies. Assembling and displaying savoury and sweet pastries and pies requires attention to presentation and appeal. It is important to complement the product with the appropriate fillings and garnishes.
+
+SUB-TASKS:
+
+SUB-TASK M-40.01 | Selects ingredients for savoury and sweet pastries and pies
+
+SKILLS:
+
+- M-40.01.01P
+  Performance Criteria: identify required ingredients
+  Evidence of Attainment: required ingredients to assemble a variety of savoury and sweet pastries and pies are identified according to recipe specifications
+
+- M-40.01.02P
+  Performance Criteria: identify quality and freshness of ingredients for savoury and sweet pastries and pies
+  Evidence of Attainment: quality and freshness of ingredients for savoury and sweet pastries and pies are identified according to sensory assessment
+
+RANGE OF VARIABLES:
+- ingredients include: doughs (sweet, short, yeast raised), flavorings, seasonings, apricot glaze, marzipan
+- savoury and sweet pastries and pies include: meat pie, Jamaican patty, Danish, calzone, empanada, samosa, spanakopita, cream puff , cannoli, fruit pie, turn-over, sugar pie, custard pie
+
+KNOWLEDGE:
+
+- M-40.01.01L
+  Learning Outcomes: demonstrate knowledge of savoury and sweet pastries and pies and fillings, and their applications
+  Learning Objectives:
+  - define terminology associated with savoury and sweet pastries and pies and fillings
+  - identify types of savoury and sweet pastry and pie doughs, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for savoury and sweet pastries and pies
+  - identify ingredients used in savoury and sweet pastries and pies, and describe their characteristics and applications
+  - identify dietary requirements specific to ingredients used in savoury and sweet pastries and pies
+  - identify types of fillings, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of savoury and sweet pastries and pies and fillings, and describe their characteristics and applications
+
+- M-40.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for savoury and sweet pastries and pies
+  Learning Objectives:
+  - describe procedures used to select ingredients for savoury and sweet pastries and pies
+
+RANGE OF VARIABLES:
+- savoury and sweet pastries and pies include: meat pie, Jamaican patty, Danish, calzone, empanada, samosa, spanakopita, cream puff , cannoli, fruit pie, turn-over, sugar pie, custard pie
+- ingredients include: doughs (sweet, short, yeast raised), flavorings, seasonings, apricot glaze, marzipan
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- types of fillings includes: protein, cheese, egg, vegetable, fruit, custard
+
+SUB-TASK M-40.02 | Assembles savoury and sweet pastries and pies
+
+SKILLS:
+
+- M-40.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- M-40.02.02P
+  Performance Criteria: apply assembly methods
+  Evidence of Attainment: assembly methods are followed according to recipe specifications
+
+RANGE OF VARIABLES:
+- tools and equipment include: rolling pins, pie dockers, cutters, piping bags, bowls, pans
+- methods include: piping, filling, layering, rolling, shaping, egg washing, venting, folding, topping
+
+KNOWLEDGE:
+
+- M-40.02.01L
+  Learning Outcomes: demonstrate knowledge of savoury and sweet pastries and pies and fillings, and their applications
+  Learning Objectives:
+  - define terminology associated with savoury and sweet pastries and pies and fillings
+  - identify types of savoury and sweet pastry and pie doughs, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for savoury and sweet pastries and pies
+  - identify ingredients used in savoury and sweet pastries and pies and fillings, and describe their characteristics and applications
+  - identify dietary requirements specific to savoury and sweet pastries and pies
+  - identify types of fillings, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of savoury and sweet pastries and pies and fillings, and describe their characteristics and applications
+
+- M-40.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to assemble savoury and sweet pastries and pies
+  Learning Objectives:
+  - describe methods used to assemble savoury and sweet pastries and pies
+
+RANGE OF VARIABLES:
+- savoury and sweet pastries and pies include: meat pie, Jamaican patty, Danish, calzone, empanada, samosa, spanakopita, cream puff , cannoli, fruit pie, turn-over, sugar pie, custard pie
+- ingredients include: doughs (sweet, short, yeast raised), flavorings, seasonings, apricot glaze, marzipan, egg wash
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- types of fillings include: protein, cheese, egg, vegetable, fruit, custard
+- methods include: piping, filling, layering, rolling, shaping, egg washing, venting, folding, topping
+
+SUB-TASK M-40.03 | Cooks savoury and sweet pastries and pies
+
+SKILLS:
+
+- M-40.03.01P
+  Performance Criteria: select and use cooking tools and equipment
+  Evidence of Attainment: cooking tools and equipment are selected and used according to recipe specifications
+
+- M-40.03.02P
+  Performance Criteria: follow cooking methods
+  Evidence of Attainment: cooking methods are followed according to recipe specifications
+
+- M-40.03.03P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness is determined according to sensory assessment or internal temperature
+
+RANGE OF VARIABLES:
+- cooking tools and equipment include: ovens (convection, conventional, combination), fryer, pans
+- cooking methods include: baking, frying, toasting
+
+KNOWLEDGE:
+
+- M-40.03.01L
+  Learning Outcomes: demonstrate knowledge of savoury and sweet pastries and pies and fillings, and their applications
+  Learning Objectives:
+  - define terminology associated with savoury and sweet pastries and pies and fillings
+  - identify types of pastry and pie doughs, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for savoury and sweet pastries and pies
+  - identify ingredients used in savoury and sweet pastries and pies, and describe their characteristics and applications
+  - identify dietary requirements specific to savoury and sweet pastries and pies
+  - identify types of fillings, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of savoury and sweet pastries and pies and fillings, and describe their characteristics and applications
+
+- M-40.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to cook savoury and sweet pastries and pies
+  Learning Objectives:
+  - describe cooking methods used to cook savoury and sweet pastries and pies
+  - describe procedures used to determine doneness of savoury and sweet pastries and pies
+
+RANGE OF VARIABLES:
+- savoury and sweet pastries and pies include: meat pie, Jamaican patty, Danish, calzone, empanada, samosa, spanakopita, cream puff , cannoli, fruit pie, turn-over, sugar pie, custard pie
+- ingredients include: dough, flavorings, seasonings, egg wash, toppings
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- types of fillings includes: protein, cheese, egg, vegetable, fruit, custard
+- cooking methods include: baking, frying, toasting
+
+SUB-TASK M-40.04 | Finishes savoury and sweet pastries and pies
+
+SKILLS:
+
+- M-40.04.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- M-40.04.02P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: savoury and sweet pastries and pies are finished according to recipe specifications and desired results
+
+- M-40.04.03P
+  Performance Criteria: store and hold finished product
+  Evidence of Attainment: finished product is stored and held to maintain freshness and shelf life according to recipe specifications and jurisdictional regulations
+
+RANGE OF VARIABLES:
+- tools and equipment include: spatulas, piping bags, pastry brushes, torch, warmer, hot box, display cabinet, cooler
+- savoury and sweet pastries and pies include: meat pie, Jamaican patty, Danish, calzone, empanada, samosa, spanakopita, cream puff , cannoli, fruit pie, turn-over, sugar pie, custard pie
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- M-40.04.01L
+  Learning Outcomes: demonstrate knowledge of savoury and sweet pastries and pies and fillings, and their applications
+  Learning Objectives:
+  - define terminology associated with savoury and sweet pastries and pies and fillings
+  - identify types of pastry and pie doughs, and describe their characteristics and applications
+  - identify factors to consider when finishing ingredients for savoury and sweet pastries and pies
+  - identify ingredients used in pastries and pies, and describe their characteristics and applications
+  - identify dietary requirements specific to savoury and sweet pastries and pies
+  - identify market forms (prepared and packaged) of savoury and sweet pastries and pies and fillings, and describe their characteristics and applications
+
+- M-40.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish savoury and sweet pastries and pies
+  Learning Objectives:
+  - describe procedures used to finish and present savoury and sweet pastries and pies
+
+- M-40.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to hold, handle and store finished savoury and sweet pastries and pies
+  Learning Objectives:
+  - describe procedures used to hold, handle and store finished savoury and sweet pastries and pies
+
+RANGE OF VARIABLES:
+- savoury and sweet pastries and pies include: meat pie, Jamaican patty, Danish, calzone, empanada, samosa, spanakopita, cream puff , cannoli, fruit pie, turn-over, sugar pie, custard pie
+- ingredients include: flavorings, seasonings, glazes, toppings, sugar, meringue
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+TASK M-41 | Prepares chocolate
+Chocolate is a versatile but delicate component used in many styles and types of cooking. Chocolate is consumed in many forms. In this task, the focus is on chocolate-related items such as truffles, ganaches, dipping chocolate and other conf ections. Care and attention is needed when handling and storing chocolate and its components.
+
+SUB-TASKS:
+
+SUB-TASK M-41.01 | Selects chocolate and ingredients
+
+SKILLS:
+
+- M-41.01.01P
+  Performance Criteria: identify types of chocolate
+  Evidence of Attainment: types of chocolate are identified according to desired results and recipe specifications
+
+- M-41.01.02P
+  Performance Criteria: identify ingredients
+  Evidence of Attainment: required ingredients are selected according to recipe specifications
+
+RANGE OF VARIABLES:
+- types of chocolate include: white, dark, milk, couverture, coating chocolate, compound, ruby
+- ingredients include: cocoa butter, cocoa powder, inclusions (nuts, fruit), cream, butter, flavorings
+
+KNOWLEDGE:
+
+- M-41.01.01L
+  Learning Outcomes: demonstrate knowledge of chocolate and its applications
+  Learning Objectives:
+  - define terminology associated with chocolate
+  - identify types of chocolate, and describe their properties and applications
+  - identify dietary requirements specific to chocolate
+  - identify factors to consider when selecting ingredients for chocolate
+  - identify ingredients used in chocolate, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of chocolate, and describe their characteristics and applications
+
+- M-41.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select types of chocolate
+  Learning Objectives:
+  - describe procedures used to select types of chocolate
+  - describe procedures used to handle types of chocolate
+
+- M-41.01.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients
+  Learning Objectives:
+  - describe procedures used to select ingredients used in chocolate products
+  - describe procedures used to handle ingredients used in chocolate products
+
+RANGE OF VARIABLES:
+- types of chocolate include: white, dark, milk, couverture, coating chocolate, compound , ruby
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- ingredients include: cocoa butter, cocoa powder, inclusions (nuts, fruit), cream, butter, flavorings
+
+SUB-TASK M-41.02 | Processes chocolate
+
+SKILLS:
+
+- M-41.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-41.02.02P
+  Performance Criteria: apply tempering techniques
+  Evidence of Attainment: chocolate is tempered according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: bain-marie, thermometer, tempering machines, bowls, marble slabs, moulds, wooden spoons
+- tempering techniques include: tabling, seeding, microwaving, tempering machine, holding
+
+KNOWLEDGE:
+
+- M-41.02.01L
+  Learning Outcomes: demonstrate knowledge of chocolate and its applications
+  Learning Objectives:
+  - define terminology associated with chocolate
+  - identify types of chocolate, and describe their properties and applications
+  - identify dietary requirements specific to chocolate
+  - identify factors to consider when processing ingredients for chocolates
+  - identify ingredients used in chocolates, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of chocolate, and describe their characteristics and applications
+
+- M-41.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process chocolate
+  Learning Objectives:
+  - describe procedures used to select and use tools and equipment
+  - describe tempering techniques used to temper chocolate
+  - describe procedures used to combine ingredients
+
+RANGE OF VARIABLES:
+- types of chocolate include: white, dark, milk, couverture, coating chocolate, compound, ruby
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- ingredients include: cocoa butter, cocoa powder, inclusions (nuts, fruit), cream, butter, flavorings
+- tools and equipment include: bain-marie, thermometer, tempering machines, bowls, marble slabs, moulds, wooden spoons
+- tempering techniques include: tabling, seeding, microwaving, tempering machine, holding
+
+SUB-TASK M-41.03 | Finishes chocolate
+
+SKILLS:
+
+- M-41.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications and desired results
+
+- M-41.03.02P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied to chocolate according to recipe specifications and desired results
+
+- M-41.03.03P
+  Performance Criteria: hold and store finished chocolate product
+  Evidence of Attainment: finished chocolate product is held and stored to maintain quality and temper according to desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: tempering machines, bowls, marble slabs, moulds, wooden spoons transfer sheets, acetates, spatulas, cornets, knives, cutters
+- finishing techniques include: shaving, coating, brushing, moulding, piping, transfer sheets
+
+KNOWLEDGE:
+
+- M-41.03.01L
+  Learning Outcomes: demonstrate knowledge of chocolate and its applications
+  Learning Objectives:
+  - define terminology associated with chocolate
+  - identify types of chocolate, and describe their properties and applications
+  - identify dietary requirements specific to chocolate
+  - identify factors to consider when selecting ingredients for chocolates
+  - identify ingredients used in chocolates, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of chocolate, and describe their characteristics and applications
+
+- M-41.03.02L
+  Learning Outcomes: demonstrate knowledge of finishing techniques used to finish chocolate
+  Learning Objectives:
+  - describe finishing techniques used to present and finish chocolate
+
+- M-41.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to hold and store chocolate
+  Learning Objectives:
+  - describe procedures used to hold and store chocolate
+
+RANGE OF VARIABLES:
+- types of chocolate include: white, dark, milk, couverture, coating chocolate, compound, ruby
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- ingredients include: cocoa butter, cocoa powder, inclusions (nuts, fruit), cream, butter, flavourings
+- finishing techniques include: shaving, coating, brushing, moulding, piping, transfer sheets

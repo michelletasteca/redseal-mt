@@ -1,0 +1,483 @@
+MAJOR WORK ACTIVITY K
+Salads and Sandwiches
+TASK K-29 Prepares sandwiches
+TASK DESCRIPTOR
+Preparing sandwiches is an important activity for this trade. They include combinations of a broad range
+of ingredients and presentations. Sandwiches are a f eature on most menus across many cultures.
+
+ K-29.01        Selects sandwich ingredients
+
+  NL      NS      PE      NB       QC      ON       MB       SK       AB      BC      NT      YT        NU
+  yes     yes     yes     yes     yes      yes      yes      yes      yes     yes     yes     NV        NV
+
+                                                            SKILLS
+                           Performance Criteria                             Evidence of Attainment
+ K-29.01.01P       identify ingredients for filling and toppings   ingredients for filling and toppings are
+                                                                   identified according to recipe
+                                                                   specifications and desired results
+ K-29.01.02P       choose bread                                    bread is chosen according to sandwich
+                                                                   style
+ K-29.01.03P       identify indicators of freshness and           indicators of freshness and quality are
+                   quality                                         identified according to sensory
+                                                                   assessment
+
+RANGE OF VARIABLES
+bread includes: buns, sliced bread, baguettes, tortillas, pitas, flatbread
+indicators of freshness and quality include: hydration, colour, texture, best before date
+
+                                                          KNOWLEDGE
+                           Learning Outcomes                                 Learning Objectives
+ K-29.01.01L       demonstrate knowledge of sandwiches             define terminology associated with
+                   and their applications                          sandwiches
+                                                                   identify types of sandwiches and
+                                                                   describe their characteristics
+                                                                   identify factors to consider when
+                                                                   selecting sandwich ingredients
+
+                                                                identify dietary requirements specific to
+                                                                sandwich ingredients
+ K-29.01.02L       demonstrate knowledge of procedures          describe procedures used to select
+                   used to select ingredients for sandwiches    ingredients for sandwiches
+
+RANGE OF VARIABLES
+types of sandwiches include: hamburgers, hot dogs, paninis, shawarma, wraps, picnic, finger, pizza, deli
+factors include: types of fillings and toppings, types of bread or alternatives (lettuce wrap), cooking
+method, assembly sequence, service application
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+ K-29.02        Processes sandwich ingredients
+
+  NL      NS      PE      NB      QC      ON      MB      SK       AB      BC      NT      YT        NU
+  yes     yes     yes     yes     yes     yes     yes     yes      yes     yes     yes     NV        NV
+
+                                                          SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ K-29.02.01P       select and use processing tools and          processing tools and equipment are
+                   equipment                                    selected and used according to recipe
+                                                                specifications and desired results
+ K-29.02.02P       use processing methods                       processing methods are used according
+                                                                to recipe specifications
+ K-29.02.03P       hold and store sandwich ingredients          sandwich ingredients are held and stored
+                                                                for use according to jurisdictional
+                                                                regulations, desired results and recipe
+                                                                specifications
+
+RANGE OF VARIABLES
+tools and equipment include: knives, slicer, grills, oven, griddles, food processors, graters
+methods include: slicing, mixing, grating, mashing, dicing, pulling
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                        KNOWLEDGE
+                           Learning Outcomes                              Learning Objectives
+ K-29.02.01L       demonstrate knowledge of sandwiches          define terminology associated with
+                   and their applications                       sandwiches
+                                                                identify types of sandwiches and
+                                                                describe their characteristics
+                                                                identify factors to consider when
+                                                                processing sandwich ingredients
+
+                                                                identify and describe ingredients of
+                                                                sandwiches
+                                                                identify dietary requirements specific to
+                                                                sandwich ingredients
+ K-29.02.02L       demonstrate knowledge of procedures          describe methods used to prepare
+                   used to process ingredients for             sandwich ingredients
+                   sandwiches
+ K-29.02.03L       demonstrate knowledge of procedures          describe procedures used to handle, hold
+                   used to handle, hold and store processed     and store processed sandwich ingredients
+                   sandwich ingredients
+
+RANGE OF VARIABLES
+types of sandwiches include: hamburgers, hot dogs, paninis, shawarma, wraps, picnic, finger, pizza, deli
+factors include: volume, time, type of sandwich, tools and equipment
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+methods include: slicing, mixing, grating, mashing, dicing, pulling
+
+ K-29.03        Assembles sandwiches
+
+  NL      NS      PE      NB      QC      ON      MB      SK       AB      BC      NT      YT       NU
+  yes     yes     yes     yes     yes     yes     yes     yes      yes     yes     yes     NV       NV
+
+                                                          SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ K-29.03.01P       select and use sandwich assembly             sandwich assembly tools and
+                   tools and equipment                          equipment are selected and used
+                                                                according to recipe specifications and
+                                                                desired results
+ K-29.03.02P       plan assembly steps                          assembly steps are planned according to
+                                                                recipe specifications and desired results
+ K-29.03.03P       combine sandwich filling, toppings,         sandwich filling, toppings, condiments and
+                   condiments and bread                         bread are combined according to
+                                                                sandwich style, recipe specifications and
+                                                                desired results
+ K-29.03.04P       apply finishing techniques to                finishing techniques are applied to
+                   sandwiches                                   sandwiches according to recipe
+                                                                specifications and desired results
+
+RANGE OF VARIABLES
+sandwich assembly tools and equipment include: toasters, knives, paper, picks, spreaders
+finishing techniques include: garnishing, packaging, presentation, cutting
+
+                                                        KNOWLEDGE
+                           Learning Outcomes                              Learning Objectives
+ K-29.03.01L       demonstrate knowledge of sandwiches          define terminology associated with
+                   and their applications                       sandwiches
+                                                                identify types of sandwiches and
+                                                                describe their characteristics
+                                                                identify factors to consider when
+                                                                assembling sandwiches
+                                                                identify and describe components of
+                                                                sandwiches
+                                                                identify dietary requirements specific to
+                                                                sandwich ingredients
+ K-29.03.02L       demonstrate knowledge of procedures          describe procedures used to assemble
+                   used to assemble sandwiches                  sandwiches
+ K-29.03.03L       demonstrate knowledge of procedures to       describe styles of service associated with
+                   finish sandwiches                           sandwiches
+                                                                describe presentation and finishing
+                                                                techniques
+ K-29.03.04L       demonstrate knowledge of procedures          describe procedures used to handle, hold
+                   used to handle, hold and store               and store sandwiches
+                   sandwiches
+
+RANGE OF VARIABLES
+types of sandwiches include: hamburgers, hot dogs, paninis, shawarma, wraps, picnic, finger, pizza, deli
+factors include: cross-contamination, holding time and method, temperature of ingredients, presentation,
+portion control
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+finishing techniques include: garnishing, packaging, presentation, cutting
+
+ K-29.04        Cooks sandwiches
+
+  NL      NS      PE      NB      QC      ON      MB      SK       AB      BC      NT      YT        NU
+  yes     yes     yes     yes     yes     yes     yes     yes      yes     yes     yes     NV        NV
+
+                                                          SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ K-29.04.01P       select and use cooking tools and             cooking tools and equipment are
+                   equipment                                    selected and used according to recipe
+                                                                specifications and desired results
+ K-29.04.02P       use cooking methods                          cooking methods are used according to
+                                                                recipe specifications and desired results
+
+ K-29.04.03P       hold cooked sandwiches                       cooked sandwiches are held according
+                                                                to recipe specifications, jurisdictional
+                                                                regulations and desired results
+ K-29.04.04P       apply finishing techniques to cooked         finishing techniques are applied to
+                   sandwiches                                   cooked sandwiches according to recipe
+                                                                specifications and desired results
+
+RANGE OF VARIABLES
+tools and equipment include: griddle, spatula, tongs, oven, pan
+cooking methods include: grilling, baking, pan frying, broiling
+cooked sandwiches include: grilled, pizza, quesadilla, broiled, panini
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+finishing techniques includes: garnishing, packaging, presentation, cutting, applying sauces,
+condiments and accompaniments
+
+                                                       KNOWLEDGE
+                            Learning Outcomes                            Learning Objectives
+ K-29.04.01L       demonstrate knowledge of cooked              define terminology associated with
+                   sandwiches and their applications            cooked sandwiches
+                                                                identify types of cooked sandwiches and
+                                                                describe their characteristics
+                                                                identify factors to consider when cooking
+                                                                sandwiches
+                                                                identify dietary requirements specific to
+                                                                sandwich ingredients
+ K-29.04.02L       demonstrate knowledge of procedures          describe procedures used to cook
+                   used to cook and finish sandwiches          sandwiches
+                                                                describe finishing techniques applied to
+                                                                cooked sandwiches
+
+RANGE OF VARIABLES
+cooked sandwiches include: grilled, pizza, quesadilla, broiled, panini
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+finishing techniques includes: garnishing, packaging, presentation, cutting, applying sauces,
+condiments and accompaniments
+
+TASK K-30 Prepares salads
+TASK DESCRIPTOR
+Salads are a combination of various ingredients such as vegetables, fruit, grains, pastas, eggs, pulses,
+meat, fish, seafood and cheese. They can be served warm or cold. It is important to finish most salads as
+close to serving time as possible unless marinated.
+
+ K-30.01        Selects salad ingredients
+
+  NL      NS       PE      NB      QC      ON      MB       SK       AB      BC      NT      YT        NU
+  yes     yes     yes     yes      yes     yes     yes      yes      yes     yes     yes     NV        NV
+
+                                                            SKILLS
+                           Performance Criteria                            Evidence of Attainment
+ K-30.01.01P        identify indicators of freshness and         indicators of freshness and quality are
+                    quality                                       identified according to sensory
+                                                                  assessment
+ K-30.01.02P        identify salad ingredients                   salad ingredients are identified according
+                                                                  to recipe specifications and desired
+                                                                  results
+
+RANGE OF VARIABLES
+indicators of freshness and quality include: hydration, colour, texture, best before dates
+ingredients include: vegetables, fruit, proteins, accompaniments, starches, grains, dressings, cheese,
+pulses, seeds
+
+                                                         KNOWLEDGE
+                            Learning Outcomes                               Learning Objectives
+ K-30.01.01L        demonstrate knowledge of salads and           define terminology associated with salads
+                    their applications
+                                                                  identify types of warm and cold salads,
+                                                                  and describe their characteristics and
+                                                                  applications
+                                                                  identify factors to consider when
+                                                                  selecting ingredients for salads
+                                                                  identify dietary requirements specific to
+                                                                  salad ingredients
+ K-30.01.02L        demonstrate knowledge of procedures           describe procedures used to select salad
+                    used to select salad ingredients              ingredients
+ K-30.01.03L        demonstrate knowledge of procedures           describe procedures used to handle, hold
+                    used to handle, hold and store                and store ingredients for salads
+                    ingredients for salads
+
+RANGE OF VARIABLES
+factors include: integrity, seasonality, texture, local availability, viscosity, shelf life, size
+ingredients include: vegetables, fruit, proteins, accompaniments, starches, grains, dressings, cheese,
+pulses, seeds
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+ K-30.02       Processes salad ingredients
+
+  NL      NS      PE      NB      QC     ON       MB      SK      AB      BC      NT      YT       NU
+  yes    yes      yes    yes     yes     yes     yes     yes      yes     yes     yes     NV       NV
+
+                                                         SKILLS
+                          Performance Criteria                          Evidence of Attainment
+ K-30.02.01P       select and use processing tools and         processing tools and equipment are
+                   equipment                                   selected and used according to recipe
+                                                               specifications and desired results
+ K-30.02.02P       use processing methods                      processing methods are used according
+                                                               to recipe specifications and desired
+                                                               results
+ K-30.02.03P       combine salad ingredients                   salad ingredients are combined
+                                                               according to recipe specifications and
+                                                               salad type
+ K-30.02.04P       prepare salad garnishes                     salad garnishes are prepared according to
+                                                               recipe specifications and desired results
+ K-30.02.05P       maintain safe handling procedures          safe handling procedures are maintained
+                                                               according to jurisdictional regulations
+
+RANGE OF VARIABLES
+tools and equipment include: knives, spinners, mashers, pots, food processors, cutting boards
+methods include: cleaning, soaking, cooking, drying, cutting, straining, marinating
+ingredients include: vegetables, fruit, proteins, accompaniments, starches, grains, dressings, cheese,
+pulses, seeds
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                       KNOWLEDGE
+                           Learning Outcomes                             Learning Objectives
+ K-30.02.01L       demonstrate knowledge of salads and         define terminology associated with salads
+                   their applications
+                                                               identify types of warm and cold salads,
+                                                               and describe their characteristics and
+                                                               applications
+
+                                                               identify factors to consider when
+                                                               processing ingredients for salads
+                                                               identify dietary requirements specific to
+                                                               salad ingredients
+ K-30.02.02L       demonstrate knowledge of procedures         describe methods used to prepare salad
+                   used to process salad ingredients           ingredients
+                                                               describe procedures used to select salad
+                                                               dressings for desired results
+                                                               describe procedures used to assemble
+                                                               salads
+ K-30.02.03L       demonstrate knowledge of procedures         describe procedures used to handle, hold
+                   used to handle, hold and store salads       and store salads
+
+RANGE OF VARIABLES
+warm salads include: bowls, compound, potato
+cold salads include: caesar, bean, garden, coleslaw, chicken
+factors include: integrity, texture, viscosity, shelf life, size
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+ingredients include: vegetables, fruit, proteins, accompaniments, starches, grains, dressings, cheese,
+pulses, seeds
+methods include: cleaning, soaking, cooking, drying, cutting, straining, marinating
+
+ K-30.03       Finishes salads
+
+  NL      NS      PE      NB      QC     ON      MB      SK       AB      BC       NT      YT      NU
+  yes    yes     yes     yes     yes     yes     yes     yes      yes     yes     yes      NV      NV
+
+                                                         SKILLS
+                          Performance Criteria                          Evidence of Attainment
+ K-30.03.01P       select and use finishing tools and         finishing tools and equipment are selected
+                   equipment                                   and used according to recipe
+                                                               specifications and desired results
+ K-30.03.02P       apply finishing techniques                  finishing techniques are applied
+                                                               according to recipe specifications and
+                                                               desired results
+ K-30.03.03P       select and apply salad garnishes            salad garnishes are selected and applied
+                                                               according to recipe specifications and
+                                                               desired results
+ K-30.03.04P       hold and store finished salads             finished salads are held and stored
+                                                               according to recipe specifications, desired
+                                                               results and jurisdictional regulations
+
+RANGE OF VARIABLES
+finishing techniques include: tossing, dressing, packaging, garnishing, topping, presentation
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+                                                     KNOWLEDGE
+                           Learning Outcomes                            Learning Objectives
+ K-30.03.01L       demonstrate knowledge of finishing        define terminology associated with
+                   salads and their applications              finishing salads
+                                                              identify types of warm and cold salads,
+                                                              and describe their characteristics and
+                                                              applications
+                                                              identify factors to consider when finishing
+                                                              salads
+                                                              identify dietary requirements specific to
+                                                              salad ingredients
+ K-30.03.02L       demonstrate knowledge of finishing         identify garnishes and accompaniments
+                   techniques used to finish salads          for finished salads
+                                                              describe finishing techniques used to
+                                                              finish salads
+ K-30.03.03L       demonstrate knowledge of procedures        describe procedures used to handle, hold
+                   used to handle, hold and store finished   and store finished salads
+                   salads
+
+RANGE OF VARIABLES
+warm salads include: bowls, compound, potato
+cold salads include: caesar, bean, garden, coleslaw, chicken
+factors include: integrity, texture, viscosity, shelf life, size, sensory assessment, seasoning
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+ingredients include: vegetables, fruit, proteins, accompaniments, starches, grains, dressings, cheese,
+pulses, seeds
+finishing techniques include: tossing, dressing, packaging, garnishing, topping, presentation
+garnishes and accompaniments include: grated cheese, seeds, nuts, croutons, fruit
+
+TASK K-31 Prepares condiments, preserves and dressings
+TASK DESCRIPTOR
+While the preparation of condiments and dressings can be very similar, their difference usually is defined
+by their application. For example, dressings are often associated with salads , and condiments are used
+as an option to dishes such as sandwiches, cheeses, charcuterie and hors d’oeuvres. Preserves include
+items such as pickled vegetables and preserved fruit.
+
+ K-31.01        Selects ingredients for condiments, preserves and dressings
+
+  NL      NS       PE      NB      QC      ON       MB      SK       AB      BC       NT      YT      NU
+  yes     yes     yes      yes     yes     yes      yes     yes      yes     yes     yes      NV      NV
+
+                                                            SKILLS
+                            Performance Criteria                           Evidence of Attainment
+ K-31.01.01P        identify and choose ingredients to prepare    ingredients to prepare condiments,
+                    condiments, preserves and dressings           preserves and dressings are identified
+                                                                  and chosen according to recipe
+                                                                  specifications and desired results
+ K-31.01.02P        identify indicators of freshness and         indicators of freshness and quality are
+                    quality                                       identified according to sensory
+                                                                  assessment
+
+RANGE OF VARIABLES
+condiments include: dips, relishes, syrups, salsas
+preserves include: pickled vegetables, jams, jellies
+dressings include: oil-based, emulsions, vinaigrette, warm dressings
+indicators of freshness and quality include: hydration, colour, texture, aroma, best before date, flavour
+
+                                                          KNOWLEDGE
+                            Learning Outcomes                               Learning Objectives
+ K-31.01.01L        demonstrate knowledge of condiments,          define terminology associated with
+                    preserves and dressings, and their            condiments, preserves and dressings
+                    applications
+                                                                  identify types of condiments, preserves
+                                                                  and dressings, and describe their
+                                                                  characteristics and applications
+                                                                  identify factors to consider when selecting
+                                                                  ingredients for condiments, preserves
+                                                                  and dressings
+                                                                  identify dietary requirements specific to
+                                                                  condiments, preserves and dressings
+
+ K-31.01.02L       demonstrate knowledge of procedures          describe procedures used to select
+                   used to select ingredients for              ingredients for condiments, preserves
+                   condiments, preserves and dressings          and dressings
+                                                                describe procedures used to handle, hold
+                                                                and store ingredients for condiments,
+                                                                preserves and dressings
+
+RANGE OF VARIABLES
+condiments include: dips, relishes, syrups, salsas
+preserves include: pickled vegetables, jams, jellies
+dressings include: oil-based, emulsions, vinaigrette, warm dressings
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+
+ K-31.02        Processes ingredients for condiments, preserves and dressings
+
+  NL      NS      PE      NB      QC      ON       MB      SK      AB      BC      NT      YT       NU
+  yes     yes     yes     yes     yes     yes     yes     yes      yes     yes     yes     NV       NV
+
+                                                          SKILLS
+                           Performance Criteria                          Evidence of Attainment
+ K-31.02.01P       select and use processing tools and          processing tools and equipment are
+                   equipment                                    selected and used according to recipe
+                                                                specifications and desired results
+ K-31.02.02P       apply processing and finishing               processing and finishing techniques
+                   techniques                                   are applied according to recipe
+                                                                specifications and desired results
+ K-31.02.03P       apply flavouring, seasonings and            flavouring, seasonings and thickening
+                   thickening agents                            agents are applied according to recipe
+                                                                specifications and desired results
+ K-31.02.04P       use safe handling procedures                safe handling procedures are used
+                                                                according to jurisdictional regulations
+ K-31.02.05P       hold and store condiments, preserves         condiments, preserves and dressings
+                   and dressings                                are held and stored according to recipe
+                                                                specifications, desired results and
+                                                                jurisdictional regulations
+
+RANGE OF VARIABLES
+tools and equipment include: mixers, pots, food processors, blenders, stove, whisk, double-boilers,
+thermometers, pressure cookers, knives
+processing and finishing techniques include: chopping, dicing, cutting, mixing, blending, cooking,
+pickling, fermenting, smoking, emulsif ying, whisking, portioning, canning
+jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+condiments include: dips, relishes, syrups, salsas
+preserves include: pickled vegetables, jams, jellies
+dressings include: dairy-based, emulsions, vinaigrette, warm dressings
+
+                                                     KNOWLEDGE
+                           Learning Outcomes                           Learning Objectives
+ K-31.02.01L       demonstrate knowledge of condiments,       define terminology associated with
+                   preserves and dressings, and their         condiments, preserves and dressings
+                   applications
+                                                              identify types of condiments, preserves
+                                                              and dressings, and describe their
+                                                              characteristics and applications
+                                                              identify factors to consider when
+                                                              processing ingredients for condiments,
+                                                              preserves and dressings
+                                                              identify dietary requirements specific to
+                                                              condiments, preserves and dressings
+ K-31.02.02L       demonstrate knowledge of processing        describe processing and finishing
+                   and finishing techniques used with         techniques used with ingredients for
+                   ingredients for condiments, preserves     condiments, preserves and dressings
+                   and dressings
+ K-31.02.03L       demonstrate knowledge of procedures        describe procedures used to handle, hold,
+                   used to handle, hold, store and package    store and package condiments,
+                   condiments, preserves and dressings        preserves and dressings
+
+RANGE OF VARIABLES
+condiments include: dips, relishes, syrups, salsas
+preserves include: pickled vegetables, jams, jellies
+dressings include: dairy-based, emulsions, vinaigrette, warm dressings
+factors include: mechanical application, type of ingredients, holding time and temperature
+dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental,
+preferences
+processing and finishing techniques include: chopping, dicing, cutting, mixing, blending, cooking,
+pickling, fermenting, smoking, emulsif ying, whisking, portioning, canning

@@ -1,0 +1,281 @@
+MAJOR WORK ACTIVITY E
+Sauces
+
+TASK E-15 | Prepares thickening and binding agents
+Thickening agents are used by cooks to thicken soups and sauces. Binding agents are used by cooks to hold ingredients together.
+
+SUB-TASKS:
+
+SUB-TASK E-15.01 | Selects thickening and binding ingredients
+
+SKILLS:
+
+- E-15.01.01P
+  Performance Criteria: determine thickening and binding agents to be made
+  Evidence of Attainment: thickening and binding agents to be made are determined according to recipe specifications and desired results
+
+- E-15.01.02P
+  Performance Criteria: identify indicators of freshness and quality of ingredients
+  Evidence of Attainment: indicators of freshness and quality of ingredients are identified according to sensory assessment
+
+- E-15.01.032P
+  Performance Criteria: identify and choose ingredients for thickening and binding agents
+  Evidence of Attainment: ingredients for thickening and binding agents are identified and chosen according to recipe specifications
+
+RANGE OF VARIABLES:
+- thickening and binding agents include: roux, starches, liaison, beurre manié, vegetable purées, reduction
+- indicators of freshness and quality include: firmness, colour, texture
+
+KNOWLEDGE:
+
+- E-15.01.01L
+  Learning Outcomes: demonstrate knowledge of thickening and binding agents and their applications
+  Learning Objectives:
+  - define terminology associated with thickening and binding agents
+  - identify types of thickening and binding agents, and describe their applications and procedures for use
+  - identify factors to consider when selecting ingredients for thickening and binding agents
+  - identify dietary requirements specific to ingredients for thickening and binding agents
+
+- E-15.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select ingredients for thickening and binding agents
+  Learning Objectives:
+  - describe procedures used to select ingredients for thickening and binding agents
+
+RANGE OF VARIABLES:
+- thickening and binding agents include: roux, starches, liaison, beurre manié, vegetable purées, reduction
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK E-15.02 | Processes thickening and binding ingredients
+
+SKILLS:
+
+- E-15.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- E-15.02.02P
+  Performance Criteria: calculate ratio of thickening and binding ingredients
+  Evidence of Attainment: ratio of thickening and binding ingredients is calculated according to desired results
+
+- E-15.02.03P
+  Performance Criteria: incorporate thickening and binding ingredients
+  Evidence of Attainment: thickening and binding ingredients are incorporated according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: bowls, whisks, ladles, pots, strainer, blender
+
+KNOWLEDGE:
+
+- E-15.02.01L
+  Learning Outcomes: demonstrate knowledge of thickening and binding agents and their applications
+  Learning Objectives:
+  - define terminology associated with thickening and binding agents
+  - identify types of thickening and binding agents, and describe their applications and procedures for use
+  - identify factors to consider when processing ingredients for thickening and binding agents
+  - identify ingredients and ratios used to process thickening and binding agents
+  - identify dietary requirements specific to ingredients for thickening and binding agents
+
+- E-15.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to prepare thickening and binding agents
+  Learning Objectives:
+  - describe procedures used to prepare thickening and binding agents
+
+RANGE OF VARIABLES:
+- thickening and binding agents include: roux, starches, liaison, beurre manié, vegetable purées, reduction
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+TASK E-16 | Prepares sauces
+Preparing sauces is an important task as they serve to increase the moisture of the final dish, to modify and add flavour and texture, and in some cases may also serve as the main element of the dish. Sauces are used to accompany and complement dishes and enhance the appearance of the final dish.
+
+SUB-TASKS:
+
+SUB-TASK E-16.01 | Selects sauce ingredients
+
+SKILLS:
+
+- E-16.01.01P
+  Performance Criteria: identify sauce
+  Evidence of Attainment: sauce is identified according to recipe specifications
+
+- E-16.01.02P
+  Performance Criteria: identify indicators of freshness and quality of ingredients
+  Evidence of Attainment: indicators of freshness and quality of ingredients are identified according to sensory assessment
+
+- E-16.01.03P
+  Performance Criteria: identify and choose ingredients
+  Evidence of Attainment: ingredients are identified and chosen according to recipe specifications
+
+RANGE OF VARIABLES:
+- indicators of freshness and quality include: hydration, colour, texture
+
+KNOWLEDGE:
+
+- E-16.01.01L
+  Learning Outcomes: demonstrate knowledge of sauces and their applications
+  Learning Objectives:
+  - define terminology associated with sauces
+  - identify types of mother sauces and their derivatives, and describe their characteristics and applications
+  - identify types of other sauces, and describe their characteristics and applications
+  - identify butter sauces and compound butters, and describe their characteristics and applications
+  - identify factors to consider when selecting ingredients for sauces
+  - identify ingredients and ratios used in sauces
+  - identify dietary requirements specific to ingredients for sauces
+
+- E-16.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select sauce ingredients
+  Learning Objectives:
+  - describe procedures used to select ingredients for sauces
+
+RANGE OF VARIABLES:
+- mother sauces include: espagnole, béchamel, velouté, tomato, hollandaise
+- derivatives include: demi-glace, bearnaise, mornay, supreme, portugaise
+- other sauces include: chutneys, salsas, pan gravies, jus lié, reductions, curries, soy-based, coulis, chocolate, caramel
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK E-16.02 | Processes sauce ingredients
+
+SKILLS:
+
+- E-16.02.01P
+  Performance Criteria: select and use non-reactive processing tools and equipment
+  Evidence of Attainment: non-reactive processing tools and equipment are selected and used according to ingredients being used
+
+- E-16.02.02P
+  Performance Criteria: measure and prepare ingredients according to recipe specifications
+  Evidence of Attainment: ingredients are measured and prepared according to recipe specifications
+
+RANGE OF VARIABLES:
+- non-reactive processing tools and equipment include: double boilers, saucepans, strainers, stainless steel bowls, plastics (BPA free), silicone
+
+KNOWLEDGE:
+
+- E-16.02.01L
+  Learning Outcomes: demonstrate knowledge of sauces and their applications
+  Learning Objectives:
+  - define terminology associated with sauces
+  - identify types of mother sauces and their derivatives, and describe their characteristics and applications
+  - identify types of other sauces, and describe their characteristics and applications
+  - identify butter sauces and compound butters, and describe their characteristics and applications
+  - identify factors to consider when processing ingredients for sauces
+  - identify ingredients and ratios used in sauces
+  - identify dietary requirements specific to ingredients for sauces
+
+- E-16.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to process ingredients for sauces
+  Learning Objectives:
+  - describe procedures used to process ingredients for sauces
+
+RANGE OF VARIABLES:
+- mother sauces include: espagnole, béchamel, velouté, tomato, hollandaise
+- derivatives include: demi-glace, bearnaise, mornay, supreme, portugaise
+- other sauces include: chutneys, salsas, pan gravies, jus lié, reductions, curries, soy -based, coulis, chocolate, caramel
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK E-16.03 | Cooks sauces
+
+SKILLS:
+
+- E-16.03.01P
+  Performance Criteria: combine ingredients
+  Evidence of Attainment: ingredients are combined in sequence according to recipe specifications
+
+- E-16.03.02P
+  Performance Criteria: adjust temperature of sauce
+  Evidence of Attainment: temperature of sauce is adjusted according to desired results
+
+- E-16.03.03P
+  Performance Criteria: use cooking methods
+  Evidence of Attainment: cooking methods are used according to recipe specifications
+
+- E-16.03.04P
+  Performance Criteria: deglaze cooking vessel
+  Evidence of Attainment: cooking vessel is deglazed by adding liquid to base to capture flavour profile
+
+- E-16.03.05P
+  Performance Criteria: determine sauce qualities
+  Evidence of Attainment: sauce qualities are determined according to desired results
+
+- E-16.03.06P
+  Performance Criteria: apply thickening technique
+  Evidence of Attainment: thickening technique is applied according to desired results
+
+- E-16.03.07P
+  Performance Criteria: adjust sauce qualities
+  Evidence of Attainment: sauce qualities are adjusted according to desired results
+
+RANGE OF VARIABLES:
+- cooking methods include: tempering, reduction, blending, infusion, coagulation, caramelization
+- sauce qualities include: consistency, colour, flavour, texture
+- thickening technique includes: reduction, adding thickening agents (roux, liaison, slurry), emulsif ication
+
+KNOWLEDGE:
+
+- E-16.03.01L
+  Learning Outcomes: demonstrate knowledge of sauces and their applications
+  Learning Objectives:
+  - define terminology associated with sauces
+  - identify types of mother sauces and their derivatives, and describe their characteristics and applications
+  - identify types of other sauces, and describe their characteristics and applications
+  - identify butter sauces and compound butters, and describe their characteristics and applications
+  - identify factors to consider when cooking sauces
+  - identify ingredients and ratios used in sauces
+  - identify dietary requirements specific to sauces
+
+- E-16.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to prepare sauces
+  Learning Objectives:
+  - describe procedures used to prepare hot sauces
+  - describe procedures used to prepare cold sauces
+
+RANGE OF VARIABLES:
+- mother sauces include: espagnole, béchamel, velouté, tomato, hollandaise
+- derivatives include: demi-glace, bearnaise, mornay, supreme, portugaise
+- other sauces include: chutneys, salsas, pan gravies, jus lié, reductions, curries, soy -based, coulis, chocolate, caramel
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+
+SUB-TASK E-16.04 | Finishes sauces
+
+SKILLS:
+
+- E-16.04.01P
+  Performance Criteria: use finishing techniques
+  Evidence of Attainment: finishing techniques are used according to recipe specifications
+
+- E-16.04.02P
+  Performance Criteria: evaluate and adjust final qualities
+  Evidence of Attainment: final qualities are evaluated and adjusted according to desired results
+
+- E-16.04.03P
+  Performance Criteria: hold finished sauce
+  Evidence of Attainment: finished sauce is held using techniques to preserve quality and integrity according to jurisdictional regulations
+
+RANGE OF VARIABLES:
+- finishing techniques include: monté au beurre, liaison, garnishing, flambé
+- final qualities include: taste, appearance, flavour, texture, alcohol level
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+
+KNOWLEDGE:
+
+- E-16.04.01L
+  Learning Outcomes: demonstrate knowledge of sauces and their applications
+  Learning Objectives:
+  - define terminology associated with sauces
+  - identify types of mother sauces and their derivatives, and describe their characteristics and applications
+  - identify types of other sauces, and describe their characteristics and applications
+  - identify butter sauces and compound butters, and describe their characteristics and applications
+  - identify factors to consider when finishing sauces
+  - identify ingredients and ratios used in sauces
+  - identify dietary requirements specific to sauces
+
+- E-16.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish, hold and store sauces
+  Learning Objectives:
+  - describe finishing techniques for hot and cold sauces and their associated procedures
+  - describe procedures used to hold, cool and store sauces
+
+RANGE OF VARIABLES:
+- mother sauces include: espagnole, béchamel, velouté, tomato, hollandaise
+- derivatives include: demi-glace, bearnaise, mornay, supreme, portuguaise
+- other sauces include: chutneys, salsas, pan gravies, jus lié, reductions, curries, soy -based, coulis, chocolate, caramel
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- finishing techniques include: monté au beurre, liaison, garnishing, flambé

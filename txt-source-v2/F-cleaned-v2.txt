@@ -1,0 +1,477 @@
+MAJOR WORK ACTIVITY F
+Cheese, Dairy, Plant-based Dairy
+
+TASK F-17 | Uses cheese, dairy products and plant-based dairy
+alternative products TASK DESCRIPTOR Using cheese, dairy-related dishes and plant-based dairy alternative products involves selecting and understanding the various properties of each product. It is important to understand the methods of incorporating cheese, dairy products and plant-based dairy alternative products in recipes. Attention to quality and safety is important to preparing these dishes.
+
+SUB-TASKS:
+
+SUB-TASK F-17.01 | Selects cheese, dairy and plant-based dairy alternative ingredients
+
+SKILLS:
+
+- F-17.01.01P
+  Performance Criteria: recognize freshness of dairy products
+  Evidence of Attainment: freshness of dairy products are recognized according to best before date and sensory assessment
+
+- F-17.01.02P
+  Performance Criteria: recognize ripeness characteristics of cheese
+  Evidence of Attainment: ripeness characteristics of cheese are recognized according to sensory assessment
+
+- F-17.01.03P
+  Performance Criteria: identify milk and dairy products
+  Evidence of Attainment: milk and dairy products are identified according to jurisdictional regulations
+
+- F-17.01.04P
+  Performance Criteria: identify plant-based dairy alternatives
+  Evidence of Attainment: plant-based dairy alternatives are identified
+
+- F-17.01.05P
+  Performance Criteria: identify types of butters and butter substitutes
+  Evidence of Attainment: types of butters and butter substitutes are identified according to jurisdictional regulations
+
+- F-17.01.06P
+  Performance Criteria: identify cheese, dairy and plant-based cheese, dairy and plant-based dairy dairy alternatives to complement dishes alternatives that complement dishes are identified according to recipe specifications or desired results
+  Evidence of Attainment: 
+
+RANGE OF VARIABLES:
+- dairy products include: skim, whole, buttermilk, cream, cheese, yogurt, butter
+- milk includes: goat, sheep, cow
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- plant-based dairy alternatives include: liquids (coconut, soy, almond), chees es (nut, rice, oil)
+- types of butters and butter substitutes include: margarine (hydrogenated and non-hydrogenated), salted, ghee, unsalted, cultured
+- dishes include: appetizers, hors d’oeuvres, soups
+
+KNOWLEDGE:
+
+- F-17.01.01L
+  Learning Outcomes: demonstrate knowledge of cheeses, dairy and plant-based dairy alternatives and their applications
+  Learning Objectives:
+  - define terminology associated with cheeses, dairy and plant-based dairy alternatives and their associated products
+  - identify classifications and types of dairy products, and describe their characteristics and applications
+  - identify types of butters and butter substitutes, and describe their characteristics and applications
+  - identify types of plant-based dairy alternatives, and describe their characteristics and applications
+  - identify classifications and types of cheese and cheese products, and describe their characteristics and applications
+  - identify Canadian jurisdictional regulations governing cheese and cheese products
+  - identify market forms (prepared and packaged) of cheese, dairy and plant- based dairy alternatives, and describe their characteristics and applications
+  - identify factors to consider when selecting cheese, dairy and plant-based dairy alternatives
+  - identify dietary requirements specific to cheese, dairy and plant-based dairy alternatives
+
+- F-17.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures describe procedures used to handle and used to handle and store dairy and plant- store dairy and plant-based dairy based dairy alternatives
+  Learning Objectives:
+  - alternatives
+
+- F-17.01.03L
+  Learning Outcomes: demonstrate knowledge of manufacturing process of dairy products
+  Learning Objectives:
+  - describe manufacturing process of dairy products
+
+- F-17.01.04L
+  Learning Outcomes: demonstrate knowledge of selecting plant-based dairy alternatives
+  Learning Objectives:
+  - describe procedure for selecting plant- based dairy alternatives
+
+RANGE OF VARIABLES:
+- plant-based dairy alternatives include: liquids (coconut, soy, almond), cheeses (nut, rice, oil)
+- dairy products include: skim, whole, buttermilk, cream, cheese, yogurt, butter
+- types of butters and butter substitutes include: margarine (hydrogenated and non-hydrogenated), salted, ghee, unsalted, cultured
+- jurisdictional regulations include: WHMIS includes: goat, sheep, cow
+- factors include: local availability, freshness, storage life, applications, processed
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- manufacturing process includes: pasteurization, homogenization, fermentation, UHT
+
+SUB-TASK F-17.02 | Processes cheese, dairy and plant-based dairy alternative ingredients
+
+SKILLS:
+
+- F-17.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- F-17.02.02P
+  Performance Criteria: alter consistency of product
+  Evidence of Attainment: consistency of product is altered by using methods according to recipe specifications
+
+- F-17.02.03P
+  Performance Criteria: add cheese, dairy and plant-based dairy alternatives
+  Evidence of Attainment: cheese, dairy and plant-based dairy alternatives are added in sequence according to recipe specifications and desired results
+
+- F-17.02.04P
+  Performance Criteria: flavour dairy products
+  Evidence of Attainment: dairy products are flavoured according to recipe specifications
+
+- F-17.02.05P
+  Performance Criteria: apply cooking methods
+  Evidence of Attainment: cooking methods are applied according to recipe specifications
+
+- F-17.02.06P
+  Performance Criteria: apply techniques to process cheeses
+  Evidence of Attainment: techniques to process cheeses are applied according to recipe specifications
+
+- F-17.02.07P
+  Performance Criteria: apply techniques to process dairy and dairy-related products
+  Evidence of Attainment: techniques to process dairy and dairy- related products are applied according to recipe specifications
+
+RANGE OF VARIABLES:
+- tools and equipment include: cheese graters, cutters, non-reactive pots and pans
+- methods include: whipping, melting, heating, coagulating
+- plant-based dairy alternatives include: liquids (coconut, soy, almond), cheeses (nut, rice, oil)
+- dairy products include: skim, whole, buttermilk, cream, cheese, yogurt, butter
+- cooking methods include: baking, melting, deep -frying, pan frying, broiling, reducing, simmering
+- techniques to process cheeses include: shredding, crumbling, slicing, shaving
+- techniques to process dairy and dairy-related products include: souring, tempering, scalding, freezing, puréeing
+
+KNOWLEDGE:
+
+- F-17.02.01L
+  Learning Outcomes: demonstrate knowledge of cheeses, dairy and plant-based dairy alternatives and their applications
+  Learning Objectives:
+  - define terminology associated with cheeses, dairy products, plant-based dairy alternatives and their associated products
+  - identify classifications and types of dairy products, and describe their characteristics and applications
+  - identify types of butters and butter substitutes, and describe their characteristics and applications
+  - identify types of plant-based dairy alternatives, and describe their characteristics and applications
+  - identify classifications and types of cheese and cheese products, and describe their characteristics and applications
+  - identify Canadian jurisdictional regulations governing cheese and cheese products
+  - identify market forms (prepared and packaged) of cheese, dairy and plant- based dairy alternative products, and describe their characteristics and applications
+  - identify factors to consider when processing cheese, dairy and plant- based dairy alternative products
+  - identify dietary requirements specific to cheese, dairy and plant-based dairy alternatives
+  - identify flavouring techniques
+
+- F-17.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures to describe procedures to process process ingredients for dairy and plant- ingredients for dairy and plant-based based dairy alternative dishes
+  Learning Objectives:
+  - dairy alternative dishes
+
+- F-17.02.03L
+  Learning Outcomes: demonstrate knowledge of procedures describe procedures used to handle and used to handle and store dairy and plant- store dairy and plant-based dairy based dairy alternative products
+  Learning Objectives:
+  - alternative products
+
+- F-17.02.04L
+  Learning Outcomes: demonstrate knowledge of manufacturing process of dairy products
+  Learning Objectives:
+  - describe manufacturing process of dairy products
+
+- F-17.02.05L
+  Learning Outcomes: demonstrate knowledge of processing plant-based dairy alternative products
+  Learning Objectives:
+  - describe procedure for processing plant- based dairy alternative products
+
+RANGE OF VARIABLES:
+- plant-based dairy alternatives include: liquids (coconut, soy, almond), cheeses (nut, rice, oil)
+- dairy products include: skim, whole, buttermilk, cream, cheese, yogurt, butter
+- types of butters and butter substitutes include: margarine (hydrogenated and non-hydrogenated), salted, ghee, unsalted, cultured
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- factors include: local availability, freshness, storage life, applications, processed
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- flavouring techniques include: infusion, steeping
+- manufacturing process includes: pasteurization, homogenization, fermentation, UHT
+
+SUB-TASK F-17.03 | Finishes cheese, dairy and plant-based dairy alternative products
+
+SKILLS:
+
+- F-17.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- F-17.03.02P
+  Performance Criteria: flavour dairy products and plant-based dairy alternatives
+  Evidence of Attainment: dairy products and plant-based dairy alternatives are flavoured according to recipe specifications
+
+- F-17.03.03P
+  Performance Criteria: apply finishing techniques
+  Evidence of Attainment: finishing techniques are applied according to recipe specifications
+
+- F-17.03.04P
+  Performance Criteria: select garnishes and accompaniments
+  Evidence of Attainment: garnishes and accompaniments are selected according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: torches, broilers, salamander, rasp, freezer
+- dairy products include: skim, whole, buttermilk, cream, cheese, yogurt, butter
+- plant-based dairy alternatives include: liquids (coconut, soy, almond), cheeses (nut, rice, oil)
+- finishing techniques include: gratin, grilling, melting, brûlé
+- garnishes and accompaniments include: fruit, nuts, herbs, spices, condiments, sauces
+
+KNOWLEDGE:
+
+- F-17.03.01L
+  Learning Outcomes: demonstrate knowledge of cheeses, dairy and plant-based dairy alternative products and their applications
+  Learning Objectives:
+  - define terminology associated with cheeses, dairy products, plant-based dairy alternatives and their associated products
+  - identify classifications and types of dairy products, and describe their characteristics and applications
+  - identify types of butters and butter substitutes, and describe their characteristics and applications
+  - identify types of plant-based dairy alternatives, and describe their characteristics and applications
+  - identify classifications and types of cheese and cheese products, and describe their characteristics and applications
+  - identify Canadian jurisdictional regulations governing cheese and cheese products
+  - identify market forms (prepared and packaged) of cheese, dairy and plant- based dairy alternative products, and describe their characteristics and applications
+  - identify factors to consider when finishing cheese, dairy and plant-based dairy alternative products
+  - identify dietary requirements specific to cheese, dairy and plant-based dairy alternatives
+  - identify garnishes and accompaniments to cheese, dairy products, plant-based dairy alternative products, and their related dishes
+
+- F-17.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures to apply finishing techniques to dairy and plant-based dairy alternative dishes
+  Learning Objectives:
+  - describe procedures to apply finishing techniques to dairy and plant-based dairy alternative dishes
+
+- F-17.03.03L
+  Learning Outcomes: demonstrate knowledge of procedures describe procedures used to handle and used to handle and store dairy and plant- store dairy and plant-based dairy based dairy alternative products
+  Learning Objectives:
+  - alternative products
+
+- F-17.03.04L
+  Learning Outcomes: demonstrate knowledge of manufacturing process of dairy products
+  Learning Objectives:
+  - describe manufacturing process of dairy products
+
+RANGE OF VARIABLES:
+- plant-based dairy alternatives include: liquids (coconut, soy, almond), cheeses (nut, rice, oil)
+- dairy products include: skim, whole, buttermilk, cream, cheese, yogurt, butter
+- types of butters and butter substitutes include: margarine (hydrogenated and non-hydrogenated), salted, ghee, unsalted, cultured
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- factors include: local availability, freshness, storage life, applications, processed
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- finishing techniques include: gratin, grilling, melting, brûlé
+- manufacturing process includes: pasteurization, homogenization, fermentation, UHT
+
+TASK F-18 | Prepares eggs and egg-based dishes
+Cooks must have an understanding of the importance and versatility of eggs, egg products and egg substitutes. Eggs have many uses including acting as leavening agents, binding agents, and can be prepared on their own or to create a number of dishes.
+
+SUB-TASKS:
+
+SUB-TASK F-18.01 | Selects ingredients for eggs and egg-based dishes
+
+SKILLS:
+
+- F-18.01.01P
+  Performance Criteria: identify freshness of eggs, egg products and egg substitutes
+  Evidence of Attainment: freshness of eggs, egg products and egg substitutes are identified according to best before date and sensory assessment
+
+- F-18.01.02P
+  Performance Criteria: identify and choose ingredients
+  Evidence of Attainment: ingredients are chosen and identified according to recipe specifications and desired results
+
+- F-18.01.03P
+  Performance Criteria: select eggs, egg products and egg substitutes
+  Evidence of Attainment: eggs, egg products and egg substitutes are selected according to recipe specification
+
+- F-18.01.04P
+  Performance Criteria: adjust eggs, egg products and egg substitute volumes to account for yield differences
+  Evidence of Attainment: eggs, egg products and egg substitute volumes are adjusted and yield differences are accounted for according to recipe specifications
+
+- F-18.01.05P
+  Performance Criteria: identify types of eggs
+  Evidence of Attainment: types of eggs are identified according to species
+
+RANGE OF VARIABLES:
+- egg products include: liquid egg, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- ingredients include: milk, clarified butter, cheese, sugar, vegetables, herbs, proteins, acids, fruits
+- types of eggs include: chicken, quail, duck, ostrich
+
+KNOWLEDGE:
+
+- F-18.01.01L
+  Learning Outcomes: demonstrate knowledge of eggs, egg products, egg-substitutes and their applications
+  Learning Objectives:
+  - define terminology associated with eggs, egg products and egg-substitutes
+  - describe composition of eggs
+  - identify grades and sizes of eggs, and describe their characteristics, applications and jurisdictional regulations
+  - identify types of eggs, and describe their characteristics and applications
+  - identify types of egg products, and describe their characteristics and applications
+  - identify types of egg substitutes, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of types of eggs, egg products and egg substitutes, and describe their characteristics and applications
+  - identify types of egg-based dishes and describe their characteristics
+  - identify dietary requirements specific to eggs, egg products and egg substitutes
+  - identify factors to consider when selecting eggs, egg products and egg substitutes
+
+- F-18.01.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to select eggs, egg products and egg substitutes
+  Learning Objectives:
+  - describe procedures used to select eggs, egg products and egg substitutes
+
+RANGE OF VARIABLES:
+- egg products include: liquid egg, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- types of eggs include: chicken, quail, duck, ostrich
+- egg-based dishes include: omelets, quiches, soufflés
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- factors include: local availability, freshness, storage life, applications, processed, free-run, cage-free
+
+SUB-TASK F-18.02 | Processes ingredients for eggs and egg-based dishes
+
+SKILLS:
+
+- F-18.02.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- F-18.02.02P
+  Performance Criteria: apply procedures to process eggs, egg products and egg substitutes
+  Evidence of Attainment: procedures to process eggs, egg products and egg substitutes are applied according to recipe specifications
+
+- F-18.02.03P
+  Performance Criteria: combine eggs, egg products and egg substitutes with other ingredients
+  Evidence of Attainment: eggs, egg products and egg substitutes are combined with other ingredients according to recipe specifications
+
+- F-18.02.04P
+  Performance Criteria: whip eggs
+  Evidence of Attainment: eggs or their components are whipped according to recipe specifications and desired results
+
+RANGE OF VARIABLES:
+- tools and equipment include: non-reactive bowl, whisk, timer, spatula
+- procedures to process include: separating, beating, tempering
+- egg products include: liquid egg, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- ingredients include: milk, clarified butter, cheese, sugar, vegetables, herbs, proteins, acids, fruits
+
+KNOWLEDGE:
+
+- F-18.02.01L
+  Learning Outcomes: demonstrate knowledge of eggs, egg products, egg-substitutes and their applications
+  Learning Objectives:
+  - define terminology associated with eggs, egg products and egg substitutes
+  - describe composition of eggs
+  - identify grades and sizes of eggs, and describe their characteristics, applications and jurisdictional regulations
+  - identify types of eggs, and describe their characteristics and applications
+  - identify types of egg products, and describe their characteristics and applications
+  - identify types of egg substitutes, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of eggs, egg products and egg substitutes, and describe their characteristics and applications
+  - identify types of egg-based dishes and describe their characteristics
+  - identify dietary requirements specific to eggs, egg products and egg substitutes
+  - identify factors to consider when processing eggs, egg products and egg substitutes
+
+- F-18.02.02L
+  Learning Outcomes: demonstrate knowledge of procedures to process eggs, egg products and egg substitutes
+  Learning Objectives:
+  - describe procedures to process eggs, egg products and egg substitutes
+
+RANGE OF VARIABLES:
+- egg products include: liquid egg, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- types of eggs include: chicken, quail, duck, ostrich
+- egg-based dishes include: omelets, quiches, soufflés
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- factors include: freshness, storage life, applications, processed, temperature
+- procedures to process include: separating, beating, tempering
+
+SUB-TASK F-18.03 | Cooks eggs and egg-based dishes
+
+SKILLS:
+
+- F-18.03.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- F-18.03.02P
+  Performance Criteria: apply cooking methods
+  Evidence of Attainment: cooking methods are applied to eggs, egg products and egg substitutes according to recipe specifications
+
+- F-18.03.03P
+  Performance Criteria: temper eggs, egg products and egg substitutes
+  Evidence of Attainment: eggs, egg products and egg substitutes are tempered according to recipe specifications
+
+- F-18.03.04P
+  Performance Criteria: determine doneness
+  Evidence of Attainment: doneness of eggs, egg products and egg substitutes and their related dishes is determined according to sensory assessment, desired results and recipe specifications
+
+RANGE OF VARIABLES:
+- tools and equipment include: pan, pot, oven, steamer, spatula, whisk, perforated spoon, double boiler, bain-marie
+- cooking methods include: boiling, poaching, frying, scrambling, shirring, basting, baking, tempering, fermenting
+- egg products include: liquid egg, eggs, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- doneness includes: sof t, medium, hard, degree of set, texture and consistency, temperature
+
+KNOWLEDGE:
+
+- F-18.03.01L
+  Learning Outcomes: demonstrate knowledge of eggs, egg products, egg substitutes and egg- based dishes and their applications
+  Learning Objectives:
+  - define terminology associated with eggs, egg products, egg substitutes and egg- based dishes
+  - describe composition of eggs
+  - identify grades and sizes of eggs, and describe their characteristics and applications
+  - identify types of eggs, and describe their characteristics and applications
+  - identify types of egg products, and describe their characteristics and applications
+  - identify types of egg substitutes, and describe their characteristics and applications
+  - identify market forms (prepared and packaged) of eggs, egg products and egg substitutes, and describe their characteristics and applications
+  - identify types of egg-based dishes and describe their characteristics
+  - identify dietary requirements specific to eggs, egg products and egg substitutes
+  - identify factors to consider when cooking eggs, egg products, egg substitutes and egg-based dishes
+
+- F-18.03.02L
+  Learning Outcomes: demonstrate knowledge of procedures describe procedures used to prepare used to prepare eggs, egg products, egg eggs, egg products, egg substitutes substitutes and egg-based dishes
+  Learning Objectives:
+  - and egg-based dishes
+
+RANGE OF VARIABLES:
+- egg products include: liquid egg, eggs, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- egg-based dishes include: omelets, set custard (quiches, flan), stirred custard (sauces, ice cream), soufflés
+- types of eggs include: chicken, quail, duck, ostrich
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- factors include: freshness, storage life, applications, processed, temperature, time, acidity, batch size, texture and consistency
+
+SUB-TASK F-18.04 | Finishes eggs and egg-based dishes
+
+SKILLS:
+
+- F-18.04.01P
+  Performance Criteria: assemble egg-based dishes
+  Evidence of Attainment: egg-based dishes are assembled according to recipe specifications and desired results
+
+- F-18.04.01P
+  Performance Criteria: select and use tools and equipment
+  Evidence of Attainment: tools and equipment are selected and used according to recipe specifications
+
+- F-18.04.02P
+  Performance Criteria: select garnishes
+  Evidence of Attainment: garnishes are selected as accompaniment and for visual appeal according to recipe specifications
+
+- F-18.04.03P
+  Performance Criteria: torch or broil egg-based dishes
+  Evidence of Attainment: egg-based dishes are torched or broiled according to recipe specifications
+
+RANGE OF VARIABLES:
+- egg-based dishes include: omelets, quiches, soufflés
+- tools and equipment include: torch, pot, oven, steamer, plates, hotel pans, warmer
+- garnishes include: green onions, parsley, fruit, paprika
+
+KNOWLEDGE:
+
+- F-18.04.01L
+  Learning Outcomes: demonstrate knowledge of eggs, egg products, egg substitutes and egg- based dishes and their applications
+  Learning Objectives:
+  - define terminology associated with eggs, egg products, egg substitutes and egg- based dishes
+  - describe composition of eggs
+  - identify grades and sizes of eggs, and describe their characteristics, applications and jurisdictional regulations
+  - identify types of eggs, and describe their characteristics and applications
+  - identify types of egg products, and describe their characteristics and applications
+  - identify types of egg substitutes, and describe their characteristics and applications
+  - identify types of egg-based dishes and describe their characteristics
+  - identify market forms (prepared and packaged) of eggs, egg products, egg substitutes and egg-based dishes, and describe their characteristics and applications
+  - identify dietary requirements specific to eggs, egg products and egg substitutes
+  - identify factors to consider when finishing eggs and egg-based dishes
+
+- F-18.04.02L
+  Learning Outcomes: demonstrate knowledge of procedures used to finish and present eggs, egg products, egg substitutes and egg- based dishes
+  Learning Objectives:
+  - describe procedures used to finish and present eggs, egg products, egg substitutes and egg-based dishes
+  - describe procedures used to hold eggs, egg products, egg substitutes and egg- based dishes
+
+- F-18.04.03L
+  Learning Outcomes: demonstrate knowledge of procedures used to handle and store eggs, egg products, egg substitutes and egg- based dishes
+  Learning Objectives:
+  - describe procedures used to handle and store eggs, egg products, egg substitutes and egg-based dishes
+
+RANGE OF VARIABLES:
+- egg products include: liquid egg, eggs, egg whites, egg yolks, egg white powder
+- egg-substitutes include: plant-based substitutes
+- egg-based dishes include: omelets, quiches, soufflés
+- jurisdictional regulations include: WHMIS, HACCP, OH&S, public health regulations
+- types of eggs include: chicken, quail, duck, ostrich
+- dietary requirements include: cultural, allergies, ethical, religious, health-related, environmental, preferences
+- factors include: storage life, applications, processed, batch size, temperature, holding time
