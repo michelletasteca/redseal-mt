@@ -1,8 +1,8 @@
-/home/trungh/ws_ai/redseal-mt/subtasks/D-14.04.md
-Analyze and enrich the subtask document: D-14.04.md
+/home/trungh/ws_ai/redseal-mt/subtasks/E-16.04.md
+Analyze and enrich the subtask document: E-16.04.md
 
 In /home/trungh/ws_ai/redseal-mt/subtasks folder, 
-please create new file D-14.04-research.md
+please create new file E-16.04-research.md
 
 Your task is to transform it into a much deeper and more useful learning resource for apprentices and Red Seal preparation.
 
