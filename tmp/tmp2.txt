@@ -1,6 +1,8 @@
-/Users/trunghoang/ws_ai/redseal/redseal-mt/subtasks/B-3.01.md
-Analyze and enrich the subtask document: B-3.01.md
-Create new file B-3.01-research.md
+/home/trungh/ws_ai/redseal-mt/subtasks/A-1.01.md
+Analyze and enrich the subtask document: A-1.01.md
+
+In /home/trungh/ws_ai/redseal-mt/subtasks folder, 
+please create new file A-1.01-research.md
 
 Your task is to transform it into a much deeper and more useful learning resource for apprentices and Red Seal preparation.
 
